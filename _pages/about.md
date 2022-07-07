@@ -17,49 +17,139 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xiangtai and I obtain my PhD degree at Peking University.
+I am Xiangtai and I obtained my PhD degree at Peking University. My supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
 
-🔭 I'm an in-coming pos-doc research fellow at MMlab@NTU advised by Prof.CCLoy.
+🔭 I'm an in-coming pos-doc research fellow at MMLab@NTU advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
 🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
-I have done several works on these directions during my Phd study at PKU.
+I have done several works on these directions during my PhD study in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), [Dr.Jiangmiao Pang]().
 
-(video) semantic segmentation, (video) instance semgentation, (video) panoptic segenetation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
+
+(video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
 Remote Cooperations are welcome(lxtpku@pku.edu.cn).
 
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉  test. 
-- *2022.02*: &nbsp;🎉🎉  test. 
 
-# 📝 Publications 
+- *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022.
+- *2022.06*: &nbsp;🎉🎉 Graduated From PKU. 
+- *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR-2022 as oral presentation.  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝  Publications 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Full Publications can be found in [this](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN).
+\* means equal contribution.
 
-</div>
-</div>
+## Conference 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<ul>
+
+
+<li><a href="https://arxiv.org/abs/2204.04655">Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation</a>,  
+      <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang. Guangliang Cheng, Yunhai Tong, Dacheng Tao,
+      <strong>ECCV 2022 </strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
+
+
+<li><a href="https://arxiv.org/abs/2204.04654">Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition</a>,  
+      Shilin Xu*, <strong>Xiangtai Li*</strong>, Jingbo Wang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
+      <strong>ECCV 2022 </strong> | <a href="https://github.com/xushilin1/FashionFormer">Code</a> </li>
+
+
+<li><a href="https://arxiv.org/abs/2112.02582">PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation</a>,  
+    Haobo Yuan*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,
+      <strong>ECCV 2022 </strong> | <a href="https://github.com/HarborYuan/PolyphonicFormer">Code</a> </li>
+
+
+<li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
+      <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
+      <strong>CVPR 2022 <span style="color:red">(Oral)</span> </strong> | <a href="https://github.com/lxtGH/Video-K-Net">Code</a> </li>
+
+
+<li><a href="https://arxiv.org/abs/2103.06564">PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation</a>,  
+      <strong>Xiangtai Li</strong>, Hao He, Xia Li, Duo Li, Guangliang Cheng, Jianping Shi, Lubin Weng, Yunhai Tong, Zhouchen Lin,
+      <strong>CVPR 2021 </strong> | <a href="https: //github.com/lxtGH/PFSegNets">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2103.15734">Enhanced Boundary Learning for Glass-like Object Segmentation</a>,  
+      Hao He*, <strong>Xiangtai Li*</strong>, Guangliang Cheng, Jianping Shi, Yunhai Tong, Gaofeng Meng, Véronique Prinet, Lubin Weng,
+      <strong>ICCV 2021 </strong> | <a href="https://github.com/hehao13/EBLNet">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
+      <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
+      <strong>ECCV 2020 <span style="color:red">(Oral)</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2007.10035">Improving Semantic Segmentation via Decoupled Body and Edge Supervision</a>,  
+      <strong>Xiangtai Li</strong>, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Shaohua Tan, Yunhai Tong,
+      <strong>ECCV 2020 </strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/1904.01803">GFF: Gated Fully Fusion for Semantic Segmentation</a>,  
+      <strong>Xiangtai Li</strong>, Houlong Zhao, Lei Han, Yunhai Tong, Kuiyuan Yang,
+      <strong>AAAI 2020 <span style="color:red">(Oral)</span></strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/1909.06121">Dual Graph Convolutional Network for Semantic Segmentation</a>,  
+      Li Zhang*, <strong>Xiangtai Li*</strong>, Anurag Arnab, Kuiyuan Yang, Yunhai Tong, Philip H. S. Torr,
+      <strong>ECCV 2020 </strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
+
+</ul>
+
+
+## Journal
+
+<ul>
+
+
+<li><a href="https://arxiv.org/abs/2011.03308">Towards Efficient Scene Understanding via Squeeze Reasoning</a>,  
+      <strong>Xiangtai Li</strong>, Xia Li, Ansheng You, Li Zhang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Zhouchen Li,
+      <strong>IEEE-TIP</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
+
+
+<li><a href="https://arxiv.org/abs/2107.13154">Global Aggregation then Local Distribution for Scene Parsing</a>,  
+      <strong>Xiangtai Li*</strong>, Li Zhang*, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Xiatian Zhu, Tao Xiang, 
+      <strong>IEEE-TIP</strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
+
+</ul>
+
+## Arxiv
+
+<ul>
+
+
+<li><a href="https://arxiv.org/abs/2206.09325"> EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm </a>,  
+     Jiangning Zhang, <strong>Xiangtai Li</strong>, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, Dacheng Tao,
+      <strong>arxiv</strong> | <a href="https://https://github.com/zhangzjn/EATFormer">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2205.14354"> Multi-Task Learning with Multi-query Transformer for Dense Prediction </a>,  
+    Yangyang Xu*,  <strong> Xiangtai Li* </strong>, Haobo Yuan, Yibo Yang, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,
+      <strong>arxiv</strong> | <a href="">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2105.11668">BoundarySqueeze: Image Segmentation as Boundary Squeezing</a>,  
+     Hao He, <strong>Xiangtai Li</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
+      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/BSSeg">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
+      <strong>Xiangtai Li</strong>, Hao He, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Jianping Shi, Yunhai Tong, 
+      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
+
+
+</ul>
 
 # 🎖 Honors and Awards
-- *2021.09* Test 
+- *2021.09* National Scholarship, Ministry of Education of China in PKU (2020-2021, 2019-2020)
+- *2021.06* President Scholarship of PKU (2020-2021)
+- *2017, 2022* Beijing Excellent Graduates
+-  Winner of  Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author, 2021-10-17) 
 
 # 📖 Educations
 - *2017.09 - 2022.06*, PhD in Peking University (PKU)
 - *2013.09 - 2017.06*, Bachelor in Beijing University of Posts and Telecommunications (BUPT)
 
 # 💬 Invited Talks
-- *2021.06* test 
+- *2021.05* Invited talk on Panoptic Segmentation and Beyond in Baidu PaddleSeg Group
+- *2021.10* Invited talk on HuaWei Noah Auto-Driving Group
 
 
 # 💻 Internships
-- SenseTime 
-- JD AI (remote)
-- MSRA (summer intern)
-- DeepMotion (Now Xiaomi Car) 
+- SenseTime mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
+- JD AI (remote cooperation) mentored by Dr.Yibo Yang and Prof Dacheng Tao.
+- DeepMotion (Now Xiaomi Car) mentored by Dr.Kuiyuan Yang. 

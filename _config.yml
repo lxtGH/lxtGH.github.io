@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiangtai Li"
-description              : "Incoming Pos-doc Research Fellow at MMLab@NTU "
+description              : "Incoming Research Fellow at MMLab@NTU "
 repository               : "lxtGH/lxtGH.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCenV55mAS8dWOJhIu_sxHpg"
+  youtube          : "https://www.youtube.com/channel/UCenV55mAS8dWOJhIu_sxHpg/videos"
   wikipedia        :
 
 
