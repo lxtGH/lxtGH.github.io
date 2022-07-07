@@ -23,8 +23,7 @@ I am Xiangtai and I obtained my PhD degree at Peking University. My supervisor i
 
 🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
-I have done several works on these directions during my PhD study in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), [Dr.Jiangmiao Pang]().
-
+I have done several works on these directions during my PhD study in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
 
 (video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
@@ -132,6 +131,7 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
      Hao He*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/BSSeg">Code</a> </li>
 
+
 <li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
       <strong>Xiangtai Li</strong>, Hao He, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Jianping Shi, Yunhai Tong, 
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
@@ -143,18 +143,19 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
 - *2021.09* National Scholarship, Ministry of Education of China in PKU (2020-2021, 2019-2020)
 - *2021.06* President Scholarship of PKU (2020-2021)
 - *2017, 2022* Beijing Excellent Graduates
--  Winner of  Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author, 2021-10-17) 
+-  Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author, 2021-10-17) 
 
 # 📖 Educations
 - *2017.09 - 2022.06*, PhD in Peking University (PKU)
 - *2013.09 - 2017.06*, Bachelor in Beijing University of Posts and Telecommunications (BUPT)
 
 # 💬 Invited Talks
-- *2021.05* Invited talk on Panoptic Segmentation and Beyond in Baidu PaddleSeg Group
-- *2021.10* Invited talk on HuaWei Noah Auto-Driving Group
+- *2022.05* Invited talk on Panoptic Segmentation and Beyond in Baidu PaddleSeg Group
+- *2021.12* Invited talk on Video Segmentation in DiDi Auto-Driving Group
+- *2021.10* Invited talk on Aligned Segmentation HuaWei Noah Auto-Driving Group
 
 
 # 💻 Internships
-- SenseTime mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
-- JD AI (remote cooperation) mentored by Dr.Yibo Yang and Prof Dacheng Tao.
-- DeepMotion (Now Xiaomi Car) mentored by Dr.Kuiyuan Yang. 
+- SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
+- JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof Dacheng Tao.
+- DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
