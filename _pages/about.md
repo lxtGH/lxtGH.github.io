@@ -74,6 +74,10 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
       Hao He*, <strong>Xiangtai Li*</strong>, Guangliang Cheng, Jianping Shi, Yunhai Tong, Gaofeng Meng, Véronique Prinet, Lubin Weng,
       <strong>ICCV 2021 </strong> | <a href="https://github.com/hehao13/EBLNet">Code</a> </li>
 
+<li><a href="https://arxiv.org/abs/2105.10920">End-to-End Video Object Detection with Spatial-Temporal Transformers</a>,  
+      Lu He*, Qianyu Zhou*, <strong>Xiangtai Li*</strong>, Li Niu, Guangliang Cheng, Xiao Li, Wenxuan Liu, Yunhai Tong, Lizhuang Ma, Liqing Zhang
+      <strong>ACM-MM 2021</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
+
 <li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
       <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
       <strong>ECCV 2020 <span style="color:red">(Oral)</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
