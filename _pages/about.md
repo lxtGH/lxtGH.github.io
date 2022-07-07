@@ -89,7 +89,7 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
 
 <li><a href="https://arxiv.org/abs/1909.06121">Dual Graph Convolutional Network for Semantic Segmentation</a>,  
       Li Zhang*, <strong>Xiangtai Li*</strong>, Anurag Arnab, Kuiyuan Yang, Yunhai Tong, Philip H. S. Torr,
-      <strong>ECCV 2020 </strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
+      <strong>BMVC 2019 </strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
 
 </ul>
 
@@ -119,12 +119,17 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
      Jiangning Zhang, <strong>Xiangtai Li</strong>, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://https://github.com/zhangzjn/EATFormer">Code</a> </li>
 
+<li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
+    Yangyang Xu*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao
+      <strong>arxiv</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
+
+
 <li><a href="https://arxiv.org/abs/2205.14354"> Multi-Task Learning with Multi-query Transformer for Dense Prediction </a>,  
     Yangyang Xu*,  <strong> Xiangtai Li* </strong>, Haobo Yuan, Yibo Yang, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,
       <strong>arxiv</strong> | <a href="">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2105.11668">BoundarySqueeze: Image Segmentation as Boundary Squeezing</a>,  
-     Hao He, <strong>Xiangtai Li</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
+     Hao He*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/BSSeg">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
