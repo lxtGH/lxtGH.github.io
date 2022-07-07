@@ -123,7 +123,7 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
       <strong>arxiv</strong> | <a href="https://https://github.com/zhangzjn/EATFormer">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
-    Yangyang Xu*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao
+    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao
       <strong>arxiv</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 
