@@ -23,7 +23,8 @@ I am Xiangtai and I obtained my PhD degree at Peking University. My supervisor i
 
 🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
-I have done several works on these directions during my PhD study in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
+I have done several works on these directions during my PhD study in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
+[Dr.Yibo Yang](https://iboing.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
 
 (video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
@@ -32,6 +33,7 @@ Remote Cooperations are welcome(lxtpku@pku.edu.cn).
 
 # 🔥 News
 
+- *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off on multiple driving datasets. 
 - *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022.
 - *2022.06*: &nbsp;🎉🎉 Graduated From PKU. 
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR-2022 as oral presentation.  
@@ -39,7 +41,10 @@ Remote Cooperations are welcome(lxtpku@pku.edu.cn).
 # 📝  Publications 
 
 Full Publications can be found in [this](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN).
+
 \* means equal contribution.
+
+Code can be found in [this](https://github.com/lxtGH).
 
 ## Conference 
 
@@ -117,13 +122,16 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
 
 <ul>
 
+<li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
+      <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
+      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2206.09325"> EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm </a>,  
      Jiangning Zhang, <strong>Xiangtai Li</strong>, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://https://github.com/zhangzjn/EATFormer">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
-    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao
+    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 
@@ -161,5 +169,5 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
 
 # 💻 Internships
 - SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
-- JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof Dacheng Tao.
+- JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof. Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
