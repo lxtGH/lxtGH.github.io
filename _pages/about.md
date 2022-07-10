@@ -34,7 +34,7 @@ Remote Cooperations are welcome(lxtpku@pku.edu.cn).
 # 🔥 News
 
 - *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off 
-on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 60 FPS, 78.8 mIoU while running at 120 FPS 
+on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 50 FPS, 78.8 mIoU while running at 120 FPS. [Code](https://github.com/lxtGH/SFSegNets).
 - *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022.
 - *2022.06*: &nbsp;🎉🎉 Graduated From PKU. 
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR-2022 as oral presentation.  
