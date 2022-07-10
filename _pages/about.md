@@ -33,7 +33,8 @@ Remote Cooperations are welcome(lxtpku@pku.edu.cn).
 
 # 🔥 News
 
-- *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off on multiple driving datasets. 
+- *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off 
+on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 60 FPS, 78.8 mIoU while running at 120 FPS 
 - *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022.
 - *2022.06*: &nbsp;🎉🎉 Graduated From PKU. 
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR-2022 as oral presentation.  
@@ -155,7 +156,7 @@ Code can be found in [this](https://github.com/lxtGH).
 - *2021.09* National Scholarship, Ministry of Education of China in PKU (2020-2021, 2019-2020)
 - *2021.06* President Scholarship of PKU (2020-2021)
 - *2017, 2022* Beijing Excellent Graduates
--  Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author, 2021-10-17) 
+- *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author, 2021-10-17) 
 
 # 📖 Educations
 - *2017.09 - 2022.06*, PhD in Peking University (PKU)
@@ -169,5 +170,5 @@ Code can be found in [this](https://github.com/lxtGH).
 
 # 💻 Internships
 - SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
-- JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof. Dacheng Tao.
+- JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
