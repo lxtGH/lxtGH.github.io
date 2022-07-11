@@ -21,7 +21,10 @@ I am Xiangtai and I obtained my PhD degree at Peking University. My supervisor i
 
 🔭 I'm an in-coming pos-doc research fellow at MMLab@NTU advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
-🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
+🔭 I'm currently working on Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
+ 
+Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation 
+as well as several related problems.
 
 I have done several works on these directions during my PhD study in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
 [Dr.Yibo Yang](https://iboing.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
