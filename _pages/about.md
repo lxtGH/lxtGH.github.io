@@ -19,7 +19,7 @@ redirect_from:
 
 I am Xiangtai and I obtained my PhD degree at Peking University. My supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
 
-🔭 I'm an in-coming pos-doc research fellow at MMLab@NTU advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+🔭 I'm a research fellow at MMLab@NTU S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
 🔭 I'm currently working on Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
  
