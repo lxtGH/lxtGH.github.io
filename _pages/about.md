@@ -17,28 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xiangtai and I obtained my PhD degree at Peking University. My supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
 
-🔭 I'm a research fellow at MMLab@NTU S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+I am Xiangtai and I work as a research fellow at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Prof.Ziwei Liu](https://liuziwei7.github.io/).
+
+I obtained my PhD degree at Peking University. My supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
+
 
 🔭 I'm currently working on Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
  
-Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation 
-as well as several related problems.
+Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems.
 
-I have done several works on these directions during my PhD study in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
-[Dr.Yibo Yang](https://iboing.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
+I did several works on these directions during my PhD in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
+[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
 
 (video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
-Remote Cooperations are welcome(lxtpku@pku.edu.cn).
+Remote Cooperations are welcome (lxtpku@pku.edu.cn).
 
 
 # 🔥 News
 
 - *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off 
 on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 50 FPS, 78.8 mIoU while running at 120 FPS. [Code](https://github.com/lxtGH/SFSegNets).
-- *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022.
+- *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022. Two Vision Transformer models are released. 
 - *2022.06*: &nbsp;🎉🎉 Graduated From PKU. 
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR-2022 as oral presentation.  
 
