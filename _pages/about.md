@@ -18,25 +18,25 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Xiangtai and I work as a research fellow at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Prof.Ziwei Liu](https://liuziwei7.github.io/).
+I am **Xiangtai** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Prof.Ziwei Liu](https://liuziwei7.github.io/).
 
-I obtained my PhD degree at Peking University. My supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
+I obtained my PhD degree at Peking University. My PhD supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
 
 
-🔭 I'm currently working on Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
+🔭 I'm currently working on Pixel-Wised Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
  
 Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems.
 
 I did several works on these directions during my PhD in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
-[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
+[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
 
 (video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
-Remote Cooperations are welcome (lxtpku@pku.edu.cn).
+Remote Cooperations are Welcome (lxtpku@pku.edu.cn).
 
 
 # 🔥 News
-
+- *2022.08*： Join the MMLab@NTU. Our four works in CVPR-22/ECCV-22 code are all released. Check out my github homepage.
 - *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off 
 on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 50 FPS, 78.8 mIoU while running at 120 FPS. [Code](https://github.com/lxtGH/SFSegNets).
 - *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022. Two Vision Transformer models are released. 
@@ -57,7 +57,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 
 <li><a href="https://arxiv.org/abs/2204.04655">Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation</a>,  
-      <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang. Guangliang Cheng, Yunhai Tong, Dacheng Tao,
+      <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
       <strong>ECCV 2022 </strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
 
 
@@ -172,7 +172,8 @@ Code can be found in [this](https://github.com/lxtGH).
 - *2021.10* Invited talk on Aligned Segmentation HuaWei Noah Auto-Driving Group
 
 
-# 💻 Internships
+# 💻 Internships and Professional activities
 - SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
+- Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML and Journal Reviewer For IEEE-TIP/ IEEE-TPAMI/ IJCV.
