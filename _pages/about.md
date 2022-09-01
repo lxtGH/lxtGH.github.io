@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am **Xiangtai** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Prof.Ziwei Liu](https://liuziwei7.github.io/).
+I am **Xiangtai** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
 I obtained my PhD degree at Peking University. My PhD supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
 
@@ -36,7 +36,7 @@ Remote Cooperations are Welcome (lxtpku@pku.edu.cn).
 
 
 # 🔥 News
-- *2022.08*： Join the MMLab@NTU. Our four works in CVPR-22/ECCV-22 code are all released. Check out my github homepage.
+- *2022.08*： &nbsp;🎉🎉 Join the MMLab@NTU S-Lab! Our four works (Video K-Net, PanopticPartFormer, FashionFormer, and PolyphonicFormer in CVPR-22/ECCV-22) code are all released. Check out my github homepage.
 - *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off 
 on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 50 FPS, 78.8 mIoU while running at 120 FPS. [Code](https://github.com/lxtGH/SFSegNets).
 - *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022. Two Vision Transformer models are released. 
