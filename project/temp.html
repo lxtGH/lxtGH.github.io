@@ -119,7 +119,7 @@
 
 <html>
 <head>
-	<title></title>
+	<title>This is my paper title</title>
 	<meta property="og:image" content="Path to my teaser.png"/> <!-- Facebook automatically scrapes this. Go to https://developers.facebook.com/tools/debug/ if you update and want to force Facebook to rescrape. -->
 	<meta property="og:title" content="Creative and Descriptive Paper Title." />
 	<meta property="og:description" content="Paper description." />
@@ -139,38 +139,23 @@
 <body>
 	<br>
 	<center>
-		<span style="font-size:36px">A  <font color="green">Person</font> Cannot Be Segmented as A <font color="red">Cat</font>: Towards Robust Referring Image Segmentation</span>
-		<table align=center width=1000px>
-			<table align=center width=800px>
+		<span style="font-size:36px">Creative and Descriptive Paper Title</span>
+		<table align=center width=600px>
+			<table align=center width=600px>
 				<tr>
 					<td align=center width=100px>
 						<center>
-							<span style="font-size:20px"><a href="">Jianzong Wu</a></span>
+							<span style="font-size:24px"><a href="https://en.wikipedia.org/wiki/James_J._Gibson">First Author</a></span>
 						</center>
 					</td>
 					<td align=center width=100px>
 						<center>
-							<span style="font-size:20px"><a href="https://lxtgh.github.io/">Xiangtai Li</a></span>
+							<span style="font-size:24px"><a href="https://en.wikipedia.org/wiki/James_J._Gibson">Second Author</a></span>
 						</center>
 					</td>
 					<td align=center width=100px>
 						<center>
-							<span style="font-size:20px"><a href="https://xialipku.github.io/">Xia Li</a></span>
-						</center>
-					</td>
-					<td align=center width=100px>
-						<center>
-							<span style="font-size:20px"><a href="https://henghuiding.github.io/">Henghui Ding</a></span>
-						</center>
-					</td>
-					<td align=center width=100px>
-						<center>
-							<span style="font-size:20px"><a href="https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN">Yunhai Tong</a></span>
-						</center>
-					</td>
-					<td align=center width=100px>
-						<center>
-							<span style="font-size:20px"><a href="http://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN">Dacheng Tao</a></span>
+							<span style="font-size:24px"><a href="https://en.wikipedia.org/wiki/James_J._Gibson">Third Author</a></span>
 						</center>
 					</td>
 				</tr>
@@ -197,8 +182,15 @@
 			<tr>
 				<td width=260px>
 					<center>
-						<img class="round" style="width:1000px" src="./resources/teaser_ref_segformer.png"/>
+						<img class="round" style="width:500px" src="./resources/teaser.png"/>
 					</center>
+				</td>
+			</tr>
+		</table>
+		<table align=center width=850px>
+			<tr>
+				<td>
+					This was a template originally made for <a href="http://richzhang.github.io/colorization/">Colorful Image Colorization</a>. The code can be found in this <a href="https://github.com/richzhang/webpage-template">repository</a>.
 				</td>
 			</tr>
 		</table>
@@ -209,18 +201,18 @@
 	<table align=center width=850px>
 		<center><h1>Abstract</h1></center>
 		<tr>
-			<td style="font-size:20px">
-				Referring Image Segmentation (RIS) aims to connect image and language via outputting the corresponding object masks given a text description, which is a fundamental vision-language task. Despite lots of works that have achieved considerable progress for RIS, in this work, we explore an essential question, "what if the description is wrong or misleading of the text description?". We term such a sentence as a negative sentence. However, we find that existing works cannot handle such settings. To this end, we propose a novel formulation of RIS, named Robust Referring Image Segmentation (R-RIS). It considers the negative sentence inputs besides the regularly given text inputs. We present three different datasets via augmenting the input negative sentences and a new metric to unify both input types. Furthermore, we design a new transformer-based model named RefSegformer, where we introduce a token-based vision and language fusion module. Such module can be easily extended to our R-RIS setting by adding extra blank tokens. Our proposed RefSegformer achieves the new state-of-the-art results on three regular RIS datasets and three R-RIS datasets, which serves as a new solid baseline for further research.
+			<td>
+				This is my abstract.
 			</td>
 		</tr>
 	</table>
 	<br>
 
-<!--	<hr>-->
-<!--	<center><h1>Talk</h1></center>-->
-<!--	<p align="center">-->
-<!--		<iframe width="660" height="395" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen align="center"></iframe>-->
-<!--	</p>-->
+	<hr>
+	<center><h1>Talk</h1></center>
+	<p align="center">
+		<iframe width="660" height="395" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen align="center"></iframe>
+	</p>
 
 	<table align=center width=800px>
 		<br>
@@ -231,13 +223,23 @@
 			</center>
 		</tr>
 	</table>
+	<hr>
 
+	<center><h1>Code</h1></center>
+
+	<table align=center width=420px>
+		<center>
+			<tr>
+				<td>
+				</td>
+			</tr>
+		</center>
+	</table>
 	<table align=center width=400px>
-		<center><h1>Negative Sentence Generating Process</h1></center>
 		<tr>
-			<td align=center width=500px>
+			<td align=center width=400px>
 				<center>
-					<td><img class="round" style="width:500px" src="./resources/method_generation.png"/></td>
+					<td><img class="round" style="width:450px" src="./resources/method_diagram.png"/></td>
 				</center>
 			</td>
 		</tr>
@@ -245,57 +247,36 @@
 	<table align=center width=850px>
 		<center>
 			<tr>
-				<td style="font-size:20px">
-					We presents the five proposed negative sentence generation methods. More details can be found in the paper.
+				<td>
+					Short description if wanted
 				</td>
 			</tr>
 		</center>
 	</table>
-
-
-
-	<table align=center width=400px>
-		<center><h1>Method: RefSegformer</h1></center>
+	<table align=center width=800px>
+		<br>
+		<tr><center>
+			<span style="font-size:28px">&nbsp;<a href='https://github.com/richzhang/webpage-template'>[GitHub]</a>
+			</center>
+		</span>
+	</table>
+	<br>
+	<hr>
+	<table align=center width=450px>
+		<center><h1>Paper and Supplementary Material</h1></center>
 		<tr>
-			<td align=center width=1000px>
-				<center>
-					<td><img class="round" style="width:1000px" src="./resources/method_ref_segformer.png"/></td>
-				</center>
+			<td><a href=""><img class="layered-paper-big" style="height:175px" src="./resources/paper.png"/></a></td>
+			<td><span style="font-size:14pt">F. Author, S. Author, T. Author.<br>
+				<b>Creative and Descriptive Paper Title.</b><br>
+				In Conference, 20XX.<br>
+				(hosted on <a href="">ArXiv</a>)<br>
+				<!-- (<a href="./resources/camera-ready.pdf">camera ready</a>)<br> -->
+				<span style="font-size:4pt"><a href=""><br></a>
+				</span>
 			</td>
 		</tr>
 	</table>
-	<table align=center width=850px>
-		<center>
-			<tr>
-				<td style="font-size:20px">
-					We present RefSegformer, a transformer-based approach that contains a language encoder, a vision encoder, and an encoder-fusion meta-architecture. In particular, we present a new multi-modal fusion module named Vision-Language Token Fusion (VLTF). Rather than directly fusing across vision and language features, we propose dynamically using memory tokens to select the most relevant language information. Then the selected language context is fused into a vision encoder with Multi-Head Cross Attention (MHCA). The final segmentation results are obtained via an FPN-like decoder which takes the outputs of VLTF in each stage. For the R-RIS setting, we propose to adopt blank tokens to indicate whether the described texts are in the image. The blank tokens are not fused to the vision feature via MHCA, but it is directly optimized by binary cross entropy loss. Our proposed RefSegformer achieves the new state-of-the-art results on both RIS datasets and our R-RIS datasets. Extensive experiments and analyses show the effectiveness of our proposed RefSegformer.
-				</td>
-			</tr>
-		</center>
-	</table>
-
-
-
-	<table align=center width=400px>
-		<center><h1>Visual Results: RefSegformer</h1></center>
-		<tr>
-			<td align=center width=800px>
-				<center>
-					<td><img class="round" style="width:800px" src="./resources/ref_segformer_results.png"/></td>
-				</center>
-			</td>
-		</tr>
-	</table>
-	<table align=center width=850px>
-		<center>
-			<tr>
-				<td style="font-size:24px">
-				Our method segments both positive and negative sentence well.
-				</td>
-			</tr>
-		</center>
-	</table>
-
+	<br>
 
 	<table align=center width=600px>
 		<tr>
@@ -307,7 +288,6 @@
 
 	<hr>
 	<br>
-
 
 	<table align=center width=900px>
 		<tr>

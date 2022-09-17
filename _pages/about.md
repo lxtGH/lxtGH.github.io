@@ -55,9 +55,6 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <ul>
 
-<li><a href="https://arxiv.org/abs/2204.04655">A Person Cannot Be Segmented as A Cat: Towards Robust Referring Image Segmentation</a>,  
-      Jianzong Wu, <strong>Xiangtai Li</strong>, Xia Li, Henghui Ding, Yunhai Tong, Dacheng Tao,
-      <strong>ECCV 2022 </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
 
 <li><a href="https://arxiv.org/abs/2204.04655">Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
@@ -129,6 +126,11 @@ Code can be found in [this](https://github.com/lxtGH).
 ## Arxiv
 
 <ul>
+
+<li><a href="https://arxiv.org/abs/2204.04655">A Person Cannot Be Segmented as A Cat: Towards Robust Referring Image Segmentation</a>,  
+      Jianzong Wu, <strong>Xiangtai Li</strong>, Xia Li, Henghui Ding, Yunhai Tong, Dacheng Tao,
+      <strong>arxiv </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
+
 
 <li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
       <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
