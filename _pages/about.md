@@ -61,7 +61,7 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>ECCV 2022 </strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
 
 
-<li><a href="https://arxiv.org/abs/2204.04654">Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition</a>,  
+<li><a href="https://arxiv.org/abs/2204.04654">Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition</a>,  
       Shilin Xu*, <strong>Xiangtai Li*</strong>, Jingbo Wang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
       <strong>ECCV 2022 </strong> | <a href="https://github.com/xushilin1/FashionFormer">Code</a> </li>
 
