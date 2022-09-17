@@ -182,3 +182,10 @@ Code can be found in [this](https://github.com/lxtGH).
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
 - Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML and Journal Reviewer For IEEE-TIP/ IEEE-TPAMI/ IJCV.
+
+# Friends and Mentored Students
+
+Much thanks to these friends and collaborators. 
+
+Hao He, Shilin Xu, Jianzong Wu, Haobo Yuan, Qianyu Zhou, Yangyang Xu, Ansheng You, Houlonng Zhao,
+Yibo Yang, Xia Li, Jingbo Wang, Jiangning Zhang, Jiangmiao Pang, Wenwei Zhang, Henghui Ding.
