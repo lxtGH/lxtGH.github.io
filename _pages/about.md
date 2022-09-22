@@ -37,7 +37,7 @@ Remote Cooperations are Welcome (lxtpku@pku.edu.cn).
 
 # 🔥 News
 - *2022.08*： &nbsp;🎉🎉 Join the MMLab@NTU S-Lab! Our four works (Video K-Net, PanopticPartFormer, FashionFormer, and PolyphonicFormer in CVPR-22/ECCV-22) code are all released. Check out my github homepage.
-- *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve new STOA on the best mIoU and speed trade-off 
+- *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve the best mIoU and speed trade-off 
 on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 50 FPS, 78.8 mIoU while running at 120 FPS. [Code](https://github.com/lxtGH/SFSegNets).
 - *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022. Two Vision Transformer models are released. 
 - *2022.06*: &nbsp;🎉🎉 Graduated From PKU. 
@@ -111,15 +111,17 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <ul>
 
+<li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
+      <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao 
+      <strong>T-PAMI-2022</strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2011.03308">Towards Efficient Scene Understanding via Squeeze Reasoning</a>,  
       <strong>Xiangtai Li</strong>, Xia Li, Ansheng You, Li Zhang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Zhouchen Li,
-      <strong>IEEE-TIP</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
-
+      <strong>IEEE-TIP-2021</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2107.13154">Global Aggregation then Local Distribution for Scene Parsing</a>,  
       <strong>Xiangtai Li*</strong>, Li Zhang*, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Xiatian Zhu, Tao Xiang, 
-      <strong>IEEE-TIP</strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
+      <strong>IEEE-TIP-2021</strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
 
 </ul>
 
@@ -154,9 +156,6 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/BSSeg">Code</a> </li>
 
 
-<li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
-      <strong>Xiangtai Li</strong>, Hao He, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Jianping Shi, Yunhai Tong, 
-      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
 
 
 </ul>
