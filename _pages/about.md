@@ -24,6 +24,7 @@ I obtained my PhD degree at Peking University. My PhD supervisor is [Prof.Yunhai
 
 
 🔭 I'm currently working on Pixel-Wised Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
+🔭 I am also interested at general deep learning design and understanding with its application.
  
 Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems.
 
@@ -58,7 +59,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2204.04655">Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
-      <strong>ECCV 2022 </strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
+      <strong>ECCV 2022 <span style="color:red"> The first unified part-aware panoptic segmentation model</span></strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/2204.04654">Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition</a>,  
@@ -68,12 +69,12 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2112.02582">PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation</a>,  
     Haobo Yuan*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,
-      <strong>ECCV 2022 </strong> | <a href="https://github.com/HarborYuan/PolyphonicFormer">Code</a> </li>
+      <strong>ECCV 2022 <span style="color:red"> Winner of ICCV-2021 BMTT workshop, The first unified depth aware video panoptic segmentation model</span> </strong> | <a href="https://github.com/HarborYuan/PolyphonicFormer">Code</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
       <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
-      <strong>CVPR 2022 <span style="color:red">(Oral)</span> </strong> | <a href="https://github.com/lxtGH/Video-K-Net">Code</a> </li>
+      <strong>CVPR 2022 <span style="color:red">(Oral, top2%) The first unified video segmentation model and codebase for VPS, VIS, VSS</span> </strong> | <a href="https://github.com/lxtGH/Video-K-Net">Code</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/2103.06564">PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation</a>,  
@@ -90,7 +91,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
       <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
-      <strong>ECCV 2020 <span style="color:red">(Oral)</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
+      <strong>ECCV 2020 <span style="color:red">(Oral, top2%) The first real time model over 80\% mIoU on Cityscapes test set.</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2007.10035">Improving Semantic Segmentation via Decoupled Body and Edge Supervision</a>,  
       <strong>Xiangtai Li</strong>, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Shaohua Tan, Yunhai Tong,
@@ -129,9 +130,9 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <ul>
 
-<li><a href="https://arxiv.org/abs/2204.04655">A Person Cannot Be Segmented as A Cat: Towards Robust Referring Image Segmentation</a>,  
+<li><a href="https://arxiv.org/abs/2204.04655">Towards Robust Referring Image Segmentation</a>,  
       Jianzong Wu, <strong>Xiangtai Li</strong>, Xia Li, Henghui Ding, Yunhai Tong, Dacheng Tao,
-      <strong>arxiv </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
+      <strong>arxiv <span style="color:red"> The first benchmark for Robust Referring Image Segmentation</span> </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
