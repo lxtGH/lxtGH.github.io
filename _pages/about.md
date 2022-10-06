@@ -20,8 +20,8 @@ redirect_from:
 
 I am **Xiangtai** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
-I obtained my PhD degree at Peking University. My PhD supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
-
+I obtained my PhD degree at Peking University (PKU). My PhD supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
+I obtained my bachelor degree at Beijing University of Posts and Telecommunications (BUPT).
 
 🔭 I'm currently working on Pixel-Wised Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
  
@@ -83,10 +83,6 @@ Code can be found in [this](https://github.com/lxtGH).
 <li><a href="https://arxiv.org/abs/2103.15734">Enhanced Boundary Learning for Glass-like Object Segmentation</a>,  
       Hao He*, <strong>Xiangtai Li*</strong>, Guangliang Cheng, Jianping Shi, Yunhai Tong, Gaofeng Meng, Véronique Prinet, Lubin Weng,
       <strong>ICCV 2021 </strong> | <a href="https://github.com/hehao13/EBLNet">Code</a> </li>
-
-<li><a href="https://arxiv.org/abs/2105.10920">End-to-End Video Object Detection with Spatial-Temporal Transformers</a>,  
-      Lu He*, Qianyu Zhou*, <strong>Xiangtai Li*</strong>, Li Niu, Guangliang Cheng, Xiao Li, Wenxuan Liu, Yunhai Tong, Lizhuang Ma, Liqing Zhang
-      <strong>ACM-MM 2021</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
       <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
