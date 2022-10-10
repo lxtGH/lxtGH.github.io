@@ -33,7 +33,7 @@ I did several works on these directions during my PhD in PKU. I am lucky mentore
 
 (video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
-Remote Cooperations are Welcome (lxtpku@pku.edu.cn).
+Remote Cooperations are Welcome (lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg).
 
 
 # 🔥 News
@@ -143,10 +143,6 @@ Code can be found in [this](https://github.com/lxtGH).
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
-
-<li><a href="https://arxiv.org/abs/2205.14354"> Multi-Task Learning with Multi-query Transformer for Dense Prediction </a>,  
-    Yangyang Xu*,  <strong> Xiangtai Li* </strong>, Haobo Yuan, Yibo Yang, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,
-      <strong>arxiv</strong> | <a href="">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2105.11668">BoundarySqueeze: Image Segmentation as Boundary Squeezing</a>,  
      Hao He*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
