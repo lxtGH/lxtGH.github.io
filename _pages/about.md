@@ -38,13 +38,14 @@ Remote Cooperations are Welcome (lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg).
 
 
 # 🔥 News
-- *2022.09*：One paper on Neural Collapse is accepted by NeurIPS-2022. One Paper on Video Dynamic Network is accepted by T-PAMI.
+- *2022.11*：Two paper on Video Scene Understanding is accepted by T-PAMI.
+- *2022.09*：One paper on Neural Collapse is accepted by NeurIPS-2022. 
 - *2022.08*： &nbsp;🎉🎉 Join the MMLab@NTU S-Lab! Our four works (Video K-Net, PanopticPartFormer, FashionFormer, and PolyphonicFormer in CVPR-22/ECCV-22) code are all released. Check out my github homepage.
 - *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve the best mIoU and speed trade-off.
 on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 50 FPS, 78.8 mIoU while running at 120 FPS. [Code](https://github.com/lxtGH/SFSegNets).
 - *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022.
 - *2022.07*: &nbsp;🎉🎉 Graduated From PKU. 
-- *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR-2022 as oral presentation.  
+- *2022.03*: &nbsp;🎉🎉 Video K-Net is accepted by CVPR-2022 as oral presentation.  
 
 # 📝 Selected Publications 
 
@@ -110,6 +111,10 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <ul>
 
+<li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
+    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
+      <strong>T-PAMI-2022</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
+
 <li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
       <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao 
       <strong>T-PAMI-2022 <span style="color:red"> The first dynamic network for video scene understanding </span></strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
@@ -140,9 +145,7 @@ Code can be found in [this](https://github.com/lxtGH).
      Jiangning Zhang, <strong>Xiangtai Li</strong>, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://https://github.com/zhangzjn/EATFormer">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
-    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
-      <strong>arxiv</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
+
 
 <<<<<<< HEAD
 
