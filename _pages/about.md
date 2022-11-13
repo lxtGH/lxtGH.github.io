@@ -24,7 +24,8 @@ I obtained my PhD degree at Peking University (PKU). My PhD supervisor is [Prof.
 I obtained my bachelor degree at Beijing University of Posts and Telecommunications (BUPT).
 
 🔭 I'm currently working on Pixel-Wised Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
-🔭 I am also interested at general deep learning design and understanding with its application.
+
+🔭 I am also interested at general deep learning method design and understanding with its application.
  
 Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems.
 
@@ -37,14 +38,15 @@ Remote Cooperations are Welcome (lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg).
 
 
 # 🔥 News
+- *2022.09*：One paper on Neural Collapse is accepted by NeurIPS-2022. One Paper on Video Dynamic Network is accepted by T-PAMI.
 - *2022.08*： &nbsp;🎉🎉 Join the MMLab@NTU S-Lab! Our four works (Video K-Net, PanopticPartFormer, FashionFormer, and PolyphonicFormer in CVPR-22/ECCV-22) code are all released. Check out my github homepage.
-- *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve the best mIoU and speed trade-off 
+- *2022.07*： &nbsp;🎉🎉 Our SFNet-Lite (extension of SFNet-ECCV20) achieve the best mIoU and speed trade-off.
 on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 50 FPS, 78.8 mIoU while running at 120 FPS. [Code](https://github.com/lxtGH/SFSegNets).
-- *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022. Two Vision Transformer models are released. 
-- *2022.06*: &nbsp;🎉🎉 Graduated From PKU. 
+- *2022.07*: &nbsp;🎉🎉 Three papers are accepted by ECCV-2022. One paper is accepted by ICIP-2022.
+- *2022.07*: &nbsp;🎉🎉 Graduated From PKU. 
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR-2022 as oral presentation.  
 
-# 📝  Publications 
+# 📝 Selected Publications 
 
 Full Publications can be found in [this](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN).
 
@@ -52,7 +54,7 @@ Full Publications can be found in [this](https://scholar.google.com/citations?us
 
 Code can be found in [this](https://github.com/lxtGH).
 
-## Conference 
+## Selected Conference 
 
 <ul>
 
@@ -110,7 +112,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
       <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao 
-      <strong>T-PAMI-2022</strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
+      <strong>T-PAMI-2022 <span style="color:red"> The first dynamic network for video scene understanding </span></strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2011.03308">Towards Efficient Scene Understanding via Squeeze Reasoning</a>,  
       <strong>Xiangtai Li</strong>, Xia Li, Ansheng You, Li Zhang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Zhouchen Li,
@@ -119,10 +121,9 @@ Code can be found in [this](https://github.com/lxtGH).
 <li><a href="https://arxiv.org/abs/2107.13154">Global Aggregation then Local Distribution for Scene Parsing</a>,  
       <strong>Xiangtai Li*</strong>, Li Zhang*, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Xiatian Zhu, Tao Xiang, 
       <strong>IEEE-TIP-2021</strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
-
 </ul>
 
-## Arxiv
+## Selected Arxiv
 
 <ul>
 
@@ -143,13 +144,13 @@ Code can be found in [this](https://github.com/lxtGH).
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 177b81066fefb46ce7b182a6797d7b2f35840496
 <li><a href="https://arxiv.org/abs/2105.11668">BoundarySqueeze: Image Segmentation as Boundary Squeezing</a>,  
      Hao He*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/BSSeg">Code</a> </li>
-
-
-
 
 </ul>
 
@@ -173,11 +174,11 @@ Code can be found in [this](https://github.com/lxtGH).
 - SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
-- Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML and Journal Reviewer For IEEE-TIP/ IEEE-TPAMI/ IJCV.
+- Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML and Journal Reviewer For IEEE-TIP/ IEEE-TPAMI / IJCV.
 
 # Friends and Mentored Students
 
 Much thanks to these friends and collaborators. 
 
-Hao He, Shilin Xu, Jianzong Wu, Haobo Yuan, Qianyu Zhou, Yangyang Xu, Ansheng You, Houlonng Zhao,
+Hao He, Shilin Xu, Jianzong Wu, Haobo Yuan, Qianyu Zhou, Yangyang Xu, Ansheng You, Houlong Zhao,
 Yibo Yang, Xia Li, Jingbo Wang, Jiangning Zhang, Jiangmiao Pang, Wenwei Zhang, Henghui Ding.
