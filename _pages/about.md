@@ -113,7 +113,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
-      <strong>T-PAMI-2022</strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
+      <strong>T-PAMI-2022 <span style="color:red"> End-to-End Vision Transformer for Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
       <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao 
@@ -136,7 +136,6 @@ Code can be found in [this](https://github.com/lxtGH).
       Jianzong Wu, <strong>Xiangtai Li</strong>, Xia Li, Henghui Ding, Yunhai Tong, Dacheng Tao,
       <strong>arxiv <span style="color:red"> The first benchmark for Robust Referring Image Segmentation</span> </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
 
-
 <li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
       <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
@@ -145,12 +144,6 @@ Code can be found in [this](https://github.com/lxtGH).
      Jiangning Zhang, <strong>Xiangtai Li</strong>, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://https://github.com/zhangzjn/EATFormer">Code</a> </li>
 
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 177b81066fefb46ce7b182a6797d7b2f35840496
 <li><a href="https://arxiv.org/abs/2105.11668">BoundarySqueeze: Image Segmentation as Boundary Squeezing</a>,  
      Hao He*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/BSSeg">Code</a> </li>
