@@ -84,10 +84,6 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Hao He, Xia Li, Duo Li, Guangliang Cheng, Jianping Shi, Lubin Weng, Yunhai Tong, Zhouchen Lin,
       <strong>CVPR 2021 </strong> | <a href="https: //github.com/lxtGH/PFSegNets">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2103.15734">Enhanced Boundary Learning for Glass-like Object Segmentation</a>,  
-      Hao He*, <strong>Xiangtai Li*</strong>, Guangliang Cheng, Jianping Shi, Yunhai Tong, Gaofeng Meng, Véronique Prinet, Lubin Weng,
-      <strong>ICCV 2021 </strong> | <a href="https://github.com/hehao13/EBLNet">Code</a> </li>
-
 <li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
       <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
       <strong>ECCV 2020 <span style="color:red">(Oral, top2%) The first real time model over 80\% mIoU on Cityscapes test set.</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
@@ -170,11 +166,4 @@ Code can be found in [this](https://github.com/lxtGH).
 - SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
-- Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML and Journal Reviewer For IEEE-TIP/ IEEE-TPAMI / IJCV.
-
-# Friends and Mentored Students
-
-Much thanks to these friends and collaborators. 
-
-Hao He, Shilin Xu, Jianzong Wu, Haobo Yuan, Qianyu Zhou, Yangyang Xu, Ansheng You, Houlong Zhao,
-Yibo Yang, Xia Li, Jingbo Wang, Jiangning Zhang, Jiangmiao Pang, Wenwei Zhang, Henghui Ding.
+- Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML and Journal Reviewer For IEEE-TIP/ IEEE-TPAMI / IJCV.
