@@ -49,7 +49,7 @@ on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 5
 
 # 📝 Selected Publications 
 
-Full Publications can be found in [this](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN).
+Full Publications Per Year can be found in [Here](../project/pub).
 
 \* means equal contribution.
 
@@ -103,7 +103,7 @@ Code can be found in [this](https://github.com/lxtGH).
 </ul>
 
 
-## Journal
+## Selected Journal
 
 <ul>
 
@@ -118,11 +118,6 @@ Code can be found in [this](https://github.com/lxtGH).
 <li><a href="https://arxiv.org/abs/2011.03308">Towards Efficient Scene Understanding via Squeeze Reasoning</a>,  
       <strong>Xiangtai Li</strong>, Xia Li, Ansheng You, Li Zhang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Zhouchen Li,
       <strong>IEEE-TIP-2021</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
-
-<li><a href="https://arxiv.org/abs/2107.13154">Global Aggregation then Local Distribution for Scene Parsing</a>,  
-      <strong>Xiangtai Li*</strong>, Li Zhang*, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Xiatian Zhu, Tao Xiang, 
-      <strong>IEEE-TIP-2021</strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
-</ul>
 
 ## Selected Arxiv
 
