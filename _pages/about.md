@@ -119,6 +119,8 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Xia Li, Ansheng You, Li Zhang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Zhouchen Li,
       <strong>IEEE-TIP-2021</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
+</ul>
+
 ## Selected Arxiv
 
 <ul>
@@ -161,4 +163,4 @@ Code can be found in [this](https://github.com/lxtGH).
 - SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
-- Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML and Journal Reviewer For IEEE-TIP/ IEEE-TPAMI / IJCV.
+- Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.
