@@ -23,19 +23,21 @@ I am **Xiangtai** and I work as a **Research Fellow** at [MMLab@NTU](https://www
 I obtained my PhD degree at Peking University (PKU). My PhD supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
 I obtained my bachelor degree at Beijing University of Posts and Telecommunications (BUPT).
 
-🔭 I'm currently working on Pixel-Wised Scene Understanding/Vision Transformer/Video Understanding in Computer Vision. 
+I am working on the following research directions: 
 
-🔭 I am also interested at general deep learning method design and understanding with its application.
- 
-Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems.
 
-I did several works on these directions during my PhD in PKU. I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
-[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
+🔭  Pixel-Wised Scene Understanding for Video/Image Scene Understanding, including (Semantic/Instance/Panoptic) Segmentation and Object Detection, zero/few shot variants.
 
-(video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
+🔭  General deep learning Method with its application, including Vision Transformer, Efficient Model Design, Neural Collapse. 
+
+🔭  Vision meets language, including Open Vocabulary Learning, Visual Prompting, Visual Grounding. 
+
+
+Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems during my PhD.
 
 Remote Cooperations are Welcome (lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg).
 
+You can find my CV [here](../project/cv/lxt_presonal_CV_23_1_3.pdf) 
 
 # 🔥 News
 - *2022.11*：Two paper on Video Scene Understanding is accepted by T-PAMI.
@@ -74,31 +76,19 @@ Code can be found in [this](https://github.com/lxtGH).
     Haobo Yuan*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,
       <strong>ECCV 2022 <span style="color:red"> Winner of ICCV-2021 BMTT workshop, The first unified depth aware video panoptic segmentation model</span> </strong> | <a href="https://github.com/HarborYuan/PolyphonicFormer">Code</a> </li>
 
-
 <li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
       <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
       <strong>CVPR 2022 <span style="color:red">(Oral, top2%) The first unified video segmentation model and codebase for VPS, VIS, VSS</span> </strong> | <a href="https://github.com/lxtGH/Video-K-Net">Code</a> </li>
 
 
-<li><a href="https://arxiv.org/abs/2103.06564">PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation</a>,  
-      <strong>Xiangtai Li</strong>, Hao He, Xia Li, Duo Li, Guangliang Cheng, Jianping Shi, Lubin Weng, Yunhai Tong, Zhouchen Lin,
-      <strong>CVPR 2021 </strong> | <a href="https: //github.com/lxtGH/PFSegNets">Code</a> </li>
-
 <li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
       <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
       <strong>ECCV 2020 <span style="color:red">(Oral, top2%) The first real time model over 80\% mIoU on Cityscapes test set.</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2007.10035">Improving Semantic Segmentation via Decoupled Body and Edge Supervision</a>,  
-      <strong>Xiangtai Li</strong>, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Shaohua Tan, Yunhai Tong,
-      <strong>ECCV 2020 </strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/1904.01803">GFF: Gated Fully Fusion for Semantic Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Houlong Zhao, Lei Han, Yunhai Tong, Kuiyuan Yang,
       <strong>AAAI 2020 <span style="color:red">(Oral)</span></strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
-
-<li><a href="https://arxiv.org/abs/1909.06121">Dual Graph Convolutional Network for Semantic Segmentation</a>,  
-      Li Zhang*, <strong>Xiangtai Li*</strong>, Anurag Arnab, Kuiyuan Yang, Yunhai Tong, Philip H. S. Torr,
-      <strong>BMVC 2019 </strong> | <a href="https://github.com/lxtGH/GALD-DGCNet">Code</a> </li>
 
 </ul>
 
@@ -115,10 +105,6 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao 
       <strong>T-PAMI-2022 <span style="color:red"> The first dynamic network for video scene understanding </span></strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2011.03308">Towards Efficient Scene Understanding via Squeeze Reasoning</a>,  
-      <strong>Xiangtai Li</strong>, Xia Li, Ansheng You, Li Zhang, Guangliang Cheng, Kuiyuan Yang, Yunhai Tong, Zhouchen Li,
-      <strong>IEEE-TIP-2021</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
-
 </ul>
 
 ## Selected Arxiv
@@ -133,25 +119,21 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
       <strong>arxiv</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2206.09325"> EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm </a>,  
-     Jiangning Zhang, <strong>Xiangtai Li</strong>, Yabiao Wang, Chengjie Wang, Yibo Yang, Yong Liu, Dacheng Tao,
-      <strong>arxiv</strong> | <a href="https://https://github.com/zhangzjn/EATFormer">Code</a> </li>
-
-<li><a href="https://arxiv.org/abs/2105.11668">BoundarySqueeze: Image Segmentation as Boundary Squeezing</a>,  
-     Hao He*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lubin Weng, Zhouchen Lin, Shiming Xiang,
-      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/BSSeg">Code</a> </li>
-
 </ul>
 
+
 # 🎖 Honors and Awards
-- *2021.09* National Scholarship, Ministry of Education of China in PKU (2020-2021, 2019-2020)
-- *2021.06* President Scholarship of PKU (2020-2021)
+- National Scholarship, Ministry of Education of China in PKU (year 2020-2021) (year 2019-2020)
+- President Scholarship of PKU (year 2020-2021)
 - *2017, 2022* Beijing Excellent Graduates
-- *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author, 2021-10-17) 
+- *2017, 2022* BUPT/PKU Excellent Graduates
+- *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author) 
+
 
 # 📖 Educations
 - *2017.09 - 2022.06*, PhD in Peking University (PKU)
 - *2013.09 - 2017.06*, Bachelor in Beijing University of Posts and Telecommunications (BUPT)
+
 
 # 💬 Invited Talks
 - *2022.05* Invited talk on Panoptic Segmentation and Beyond in Baidu PaddleSeg Group
@@ -164,3 +146,5 @@ Code can be found in [this](https://github.com/lxtGH).
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
 - Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.
+- I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
+[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
