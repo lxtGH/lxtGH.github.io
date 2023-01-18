@@ -35,9 +35,8 @@ I am working on the following research directions:
 
 Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems during my PhD.
 
-Remote Cooperations are Welcome (lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg).
 
-You can find my CV [here](../project/cv/lxt_presonal_CV_23_1_3.pdf) 
+ 
 
 # 🔥 News
 - *2022.11*：Two paper on Video Scene Understanding is accepted by T-PAMI.
