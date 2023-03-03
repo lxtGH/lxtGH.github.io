@@ -18,19 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am **Xiangtai** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+I am **Xiangtai Li (李祥泰)** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). 
 
 I obtained my PhD degree at Peking University (PKU). My PhD supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
 I obtained my bachelor degree at Beijing University of Posts and Telecommunications (BUPT).
 
 I am working on the following research directions: 
 
-
 🔭  Pixel-Wised Scene Understanding for Video/Image Scene Understanding, including (Semantic/Instance/Panoptic) Segmentation and Object Detection, zero/few shot variants.
 
-🔭  General deep learning Method with its application, including Vision Transformer, Efficient Model Design, Neural Collapse. 
+🔭  General Deep Learning Method with its application, including Vision Transformer, Efficient Model Design, Neural Collapse. 
 
-🔭  Vision meets language, including Open Vocabulary Learning, Visual Prompting, Visual Grounding. 
+🔭  Vision Meets Language, including Open Vocabulary Learning, Visual Prompting, Visual Grounding. 
 
 
 Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems during my PhD.
