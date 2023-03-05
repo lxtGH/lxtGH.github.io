@@ -38,6 +38,7 @@ Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmen
  
 
 # 🔥 News
+- *2022.11*：One paper on Video Scene Graph Generation and Segmentation (PVSG) is accepted by CVPR-2023.
 - *2022.11*：Two paper on Video Scene Understanding is accepted by T-PAMI.
 - *2022.09*：One paper on Neural Collapse is accepted by NeurIPS-2022. 
 - *2022.08*： &nbsp;🎉🎉 Join the MMLab@NTU S-Lab! Our four works (Video K-Net, PanopticPartFormer, FashionFormer, and PolyphonicFormer in CVPR-22/ECCV-22) code are all released. Check out my github homepage.
