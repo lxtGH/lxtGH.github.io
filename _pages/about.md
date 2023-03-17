@@ -18,24 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am **Xiangtai Li (李祥泰)** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/) S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). 
+I am **Xiangtai Li (李祥泰)** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). 
 
-I obtained my PhD degree at Peking University (PKU). My PhD supervisor is [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN).
-I obtained my bachelor degree at Beijing University of Posts and Telecommunications (BUPT).
-
-I am working on the following research directions: 
-
-🔭  Pixel-Wised Scene Understanding for Video/Image Scene Understanding, including (Semantic/Instance/Panoptic) Segmentation and Object Detection, zero/few shot variants.
-
-🔭  General Deep Learning Method with its application, including Vision Transformer, Efficient Model Design, Neural Collapse. 
-
-🔭  Vision Meets Language, including Open Vocabulary Learning, Visual Prompting, Visual Grounding. 
+I obtained my PhD degree at Peking University under the supervision of [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree at Beijing University of Posts and Telecommunications.
 
 
-Previously, I did some research on Image/Video Semantic/Instance/Panoptic Segmentation as well as several related problems during my PhD.
+My research work focuses on several directions, including pixel-wise scene understanding for video/image scene understanding (such as semantic/instance/panoptic segmentation and object detection), zero/few shot variants, general deep learning methods with applications (such as vision transformer, efficient model design, and neural collapse), and vision meets language (including open vocabulary learning, visual prompting, and visual grounding).
 
+During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related problems.
 
- 
+During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related problems.
+
 
 # 🔥 News
 - *2023.03*：One paper on Panoptic Video Scene Graph Generation (PVSG) is accepted by CVPR-2023.
@@ -82,7 +75,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
       <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
-      <strong>ECCV 2020 <span style="color:red">(Oral, top2%) The first real time model over 80\% mIoU on Cityscapes test set.</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
+      <strong>ECCV 2020 <span style="color:red">(Oral, top2%) The first real-time model over 80\% mIoU on Cityscapes test set.</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/1904.01803">GFF: Gated Fully Fusion for Semantic Segmentation</a>,  
@@ -126,7 +119,7 @@ Code can be found in [this](https://github.com/lxtGH).
 - President Scholarship of PKU (year 2020-2021)
 - *2017, 2022* Beijing Excellent Graduates
 - *2017, 2022* BUPT/PKU Excellent Graduates
-- *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on ICCV-2021 Track2 (Project Leader and First Author) 
+- *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on [ICCV-2021](https://motchallenge.net/workshops/bmtt2021/) Track2 (Project Leader and First Author) 
 
 
 # 📖 Educations
@@ -145,5 +138,5 @@ Code can be found in [this](https://github.com/lxtGH).
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
 - Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.
-- I am lucky mentored and also collaborate by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
+- I am luckily mentored by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
 [Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
