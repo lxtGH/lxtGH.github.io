@@ -27,8 +27,6 @@ My research work focuses on several directions, including pixel-wise scene under
 
 During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related problems.
 
-During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related problems.
-
 
 # 🔥 News
 - *2023.03*：One paper on Panoptic Video Scene Graph Generation (PVSG) is accepted by CVPR-2023.
