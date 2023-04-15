@@ -29,7 +29,7 @@ During my PhD, I conducted research on image/video semantic/instance/panoptic se
 
 
 # 🔥 News
-- *2023.03*：Please checkout our new work, Tube-Link, the first universal video segmentation framework that outperforms specific video segmentation methods (VIS,VSS,VPS).
+- *2023.03*：Please checkout our new work, <a href="https://arxiv.org/abs/2303.12782">Tube-Link</a>, the first universal video segmentation framework that outperforms specific video segmentation methods (VIS,VSS,VPS).
 - *2023.03*：One paper on Panoptic Video Scene Graph Generation (PVSG) is accepted by CVPR-2023.
 - *2022.11*：Two paper on Video Scene Understanding is accepted by T-PAMI.
 - *2022.09*：One paper on Neural Collapse is accepted by NeurIPS-2022. 
@@ -102,9 +102,9 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <ul>
 
-<li><a href="https://arxiv.org/abs/2204.04655">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
+<li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
-      <strong>arxiv <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
+      <strong>arxiv <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/2204.04655">Towards Robust Referring Image Segmentation</a>,  
