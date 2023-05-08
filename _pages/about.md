@@ -25,6 +25,8 @@ I obtained my PhD degree at Peking University under the supervision of [Prof.Yun
 
 My research work focuses on several directions, including pixel-wise scene understanding for video/image scene understanding (such as semantic/instance/panoptic segmentation and object detection), zero/few shot variants, general deep learning methods with applications (such as vision transformer, efficient model design, and neural collapse), and vision meets language (including open vocabulary learning, visual prompting, and visual grounding).
 
+Besides, I am also very interested at aerial image analysis since I am a fun of history and military games. 
+
 During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related problems.
 
 
@@ -48,6 +50,30 @@ Full Publications Per Year can be found in [Here](../project/pub).
 \* means equal contribution.
 
 Code can be found in [this](https://github.com/lxtGH).
+
+
+## Selected Arxiv
+
+<ul>
+
+
+<li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
+      <strong>Xiangtai Li</strong>, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
+      <strong>arxiv <span style="color:red"> The first comprehensive survey on transformer-based segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmenation-With-Transformer">Project</a> </li>
+
+<li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
+      <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
+      <strong>arxiv <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
+
+<li><a href="https://arxiv.org/abs/2204.04655">Towards Robust Referring Image Segmentation</a>,  
+      Jianzong Wu, <strong>Xiangtai Li</strong>, Xia Li, Henghui Ding, Yunhai Tong, Dacheng Tao,
+      <strong>arxiv <span style="color:red"> The first benchmark for Robust Referring Image Segmentation</span> </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
+
+<li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
+      <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
+      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
+
+</ul>
 
 ## Selected Conference 
 
@@ -99,28 +125,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 </ul>
 
-## Selected Arxiv
 
-<ul>
-
-
-<li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
-      <strong>Xiangtai Li</strong>, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
-      <strong>arxiv <span style="color:red"> The first comprehensive survey on transformer-based segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmenation-With-Transformer">Project</a> </li>
-
-<li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
-      <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
-      <strong>arxiv <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
-
-<li><a href="https://arxiv.org/abs/2204.04655">Towards Robust Referring Image Segmentation</a>,  
-      Jianzong Wu, <strong>Xiangtai Li</strong>, Xia Li, Henghui Ding, Yunhai Tong, Dacheng Tao,
-      <strong>arxiv <span style="color:red"> The first benchmark for Robust Referring Image Segmentation</span> </strong> | <a href="../project/robust_ref_seg">Project</a> </li>
-
-<li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
-      <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
-      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
-
-</ul>
 
 
 # 🎖 Honors and Awards
@@ -148,4 +153,4 @@ Code can be found in [this](https://github.com/lxtGH).
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
 - Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.
 - I am luckily mentored by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
-[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/).
+[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/) during the PhD study.
