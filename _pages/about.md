@@ -67,7 +67,7 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>arxiv <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
 
 <li><a href="https://arxiv.org/abs/2306.08659">Explore In-Context Learning for 3D Point Cloud Understanding</a>,  
-     Zhongbin Fang, <strong>Xiangtai Li</strong>,  Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu
+     Zhongbin Fang, <strong>Xiangtai Li</strong>,  Xia Li, Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu
       <strong>arxiv <span style="color:red"> The first work to explore in-context learning in point cloud. </span> </strong> | <a href="https://github.com/fanglaosi/Point-In-Context">Project</a> </li>
 
 <li><a href="https://arxiv.org/abs/2204.04655">Towards Robust Referring Image Segmentation</a>,  
