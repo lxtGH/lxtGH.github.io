@@ -83,6 +83,13 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
       <strong>ICCV 2023 <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
 
+
+<li><a href="https://arxiv.org/abs/2303.12782">Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation</a>,  
+      Jianzong Wu*, <strong>Xiangtai Li</strong>, Henghui Ding, Xia Li, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
+      <strong>ICCV 2023 <span style="color:red"> Query-based Open Vocabulary Segmentation aided by Caption. </span> </strong> | <a href="https://github.com/jianzongwu/betrayed-by-captions">Project</a> </li>
+
+
+
 <li><a href="https://arxiv.org/abs/2204.04655">Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
       <strong>ECCV 2022 <span style="color:red"> The first unified part-aware panoptic segmentation model</span></strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
@@ -108,7 +115,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/1904.01803">GFF: Gated Fully Fusion for Semantic Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Houlong Zhao, Lei Han, Yunhai Tong, Kuiyuan Yang,
-      <strong>AAAI 2020 <span style="color:red">(Oral)</span></strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
+      <strong>AAAI 2020 <span style="color:red">(Oral, top3%)</span></strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
 
 </ul>
 
