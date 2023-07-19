@@ -46,7 +46,7 @@ on multiple driving datasets. SFNet-Lite can obtain 80.1 mIoU while running at 5
 - *2022.07*: &nbsp;🎉🎉 Graduated From PKU. 
 - *2022.03*: &nbsp;🎉🎉 Video K-Net is accepted by CVPR-2022 as oral presentation.  
 
-# 📝 Selected Publications 
+# 📝  Publications 
 
 Full Publications Per Year can be found in [Here](../project/pub).
 
@@ -149,7 +149,7 @@ Code can be found in [this](https://github.com/lxtGH).
 - *2021.10* Invited talk on Aligned Segmentation HuaWei Noah Auto-Driving Group
 
 
-# 💻 Internships and Professional activities
+# 💻 Internships
 - SenseTime, mentored by Dr.Guangliang Cheng and Dr.Jianping Shi.
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
