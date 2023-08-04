@@ -21,10 +21,6 @@ Code can be found in [this](https://github.com/lxtGH).
      Zhongbin Fang, <strong>Xiangtai Li</strong>,  Xia Li, Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu
       <strong>arxiv <span style="color:red"> The first work to explore in-context learning in point cloud. </span> </strong> | <a href="https://github.com/fanglaosi/Point-In-Context">Project</a> </li>
 
-<li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
-      <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
-      <strong>arxiv</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
-
 
 ## Selected Conference 
 
@@ -80,5 +76,6 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao 
       <strong>T-PAMI-2022 <span style="color:red"> The first dynamic network for video scene understanding </span></strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
 
-
-
+<li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
+      <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
+      <strong>IJCV-2023</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
