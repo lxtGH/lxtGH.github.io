@@ -1,5 +1,5 @@
 # 🔥 News
-
+- *2023.08*: &nbsp;🎉🎉 Two NeurIPS Paper are accepted as SpotLight. PSG4D and Point-In-Context.
 - *2023.08*: Give a talk of video segmentation at [Valse](http://valser.org/) and [Slides](../../project/paper_local/talk-valse-8-30-2023.pdf).
 - *2023.07*: &nbsp;🎉🎉 Three paper in ICCV-23: Tube-Link, Betrayed Caption and EMO-Net. One Oral Paper in ICCV-23 workshop. See you in Paris!!  SFNet-Lite is accepted by IJCV.
 - *2023.06*: Checkout our <a href="https://arxiv.org/abs/2306.08659"> new paper </a> on point cloud in-context learning and <a href="https://arxiv.org/abs/2306.15880"> the first survey</a>  on Open Vocabulary Learning. 

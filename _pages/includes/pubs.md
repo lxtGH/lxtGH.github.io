@@ -17,11 +17,6 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>arxiv <span style="color:red"> The first comprehensive survey on transformer-based segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmenation-With-Transformer">Project</a> </li>
 
 
-<li><a href="https://arxiv.org/abs/2306.08659">Explore In-Context Learning for 3D Point Cloud Understanding</a>,  
-     Zhongbin Fang, <strong>Xiangtai Li</strong>,  Xia Li, Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu
-      <strong>arxiv <span style="color:red"> The first work to explore in-context learning in point cloud. </span> </strong> | <a href="https://github.com/fanglaosi/Point-In-Context">Project</a> </li>
-
-
 ## Selected Conference 
 
 
@@ -29,6 +24,11 @@ Code can be found in [this](https://github.com/lxtGH).
 <li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
       <strong>ICCV 2023 <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
+
+
+<li><a href="https://arxiv.org/abs/2306.08659">Explore In-Context Learning for 3D Point Cloud Understanding</a>,  
+     Zhongbin Fang, <strong>Xiangtai Li</strong>,  Xia Li, Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu
+      <strong>NeurIPS 2023, spotlight <span style="color:red"> The first work to explore in-context learning in point cloud. </span> </strong> | <a href="https://github.com/fanglaosi/Point-In-Context">Project</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/2303.12782">Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation</a>,  
