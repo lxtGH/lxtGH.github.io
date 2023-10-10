@@ -2,16 +2,18 @@
 - National Scholarship, Ministry of Education of China in PKU (year 2020-2021) (year 2019-2020)
 - President Scholarship of PKU (year 2020-2021)
 - *2017, 2022* Beijing Excellent Graduates
-- *2017, 2022* BUPT/PKU Excellent Graduates
+- *2017, 2022* BUPT Excellent Graduates, PKU Excellent Graduates
 - *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on [ICCV-2021](https://motchallenge.net/workshops/bmtt2021/) Track2 (Project Leader and First Author) 
 
 
 # 📖 Educations
-- *2017.09 - 2022.06*, PhD in Peking University (PKU)
-- *2013.09 - 2017.06*, Bachelor in Beijing University of Posts and Telecommunications (BUPT)
+- *2017.09 - 2022.07*, PhD in Peking University (PKU)
+- *2013.09 - 2017.07*, Bachelor in Beijing University of Posts and Telecommunications (BUPT)
 
 
 # 💬 Invited Talks
+
+- *2023.08* Invited talk on Video Segmentation at Valse. [Slides](../../project/paper_local/talk-valse-8-30-2023.pdf), [Video](https://www.bilibili.com/video/BV1Ku411u741/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967).
 - *2022.05* Invited talk on Panoptic Segmentation and Beyond in Baidu PaddleSeg Group
 - *2021.12* Invited talk on Video Segmentation in DiDi Auto-Driving Group
 - *2021.10* Invited talk on Aligned Segmentation HuaWei Noah Auto-Driving Group
