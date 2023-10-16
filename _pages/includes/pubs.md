@@ -22,10 +22,10 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2310.01393">DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection
 </a>,  
-     Shilin Xu, <strong> Xiangtai Li*</strong>>, Size Wu, Wenwei Zhang, Yining Li, Guangliang Cheng, Yunhai Tong, Kai Chen, Chen Change Loy
+     Shilin Xu, <strong> Xiangtai Li*</strong>, Size Wu, Wenwei Zhang, Yining Li, Guangliang Cheng, Yunhai Tong, Kai Chen, Chen Change Loy
       <strong>arxiv <span style="color:red"> A dynamic pseudo-label generation method for open vocabulary detection. </span> </strong> | <a href="https://github.com/xushilin1/dst-det">Project</a> </li>
 
-<li><a href=https://arxiv.org/abs/2309.13042">MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation</a>,  
+<li><a href="https://arxiv.org/abs/2309.13042">MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation </a>,  
      Jiahao Xie, Wei Li, <strong>Xiangtai Li</strong>, Ziwei Liu, Yew Soon Ong, Chen Change Loy
       <strong>arxiv <span style="color:red"> A training free mask generation module for long-tail instance segmentation. </span> </strong> | <a href="https://github.com/Jiahao000/MosaicFusion">Project</a> </li>
 
