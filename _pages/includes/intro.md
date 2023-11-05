@@ -1,6 +1,8 @@
-I am **Xiangtai Li (李祥泰)** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). 
+I am **Xiangtai Li (李祥泰)** and I work as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
-I obtained my PhD degree at Peking University under the supervision of [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree at Beijing University of Posts and Telecommunications.
+I also work as a part-time consultant in Open-MMLab@Shanghai AI Laboratory, led by [Dr.Yining Li](https://scholar.google.com.hk/citations?user=y_cp1sUAAAAJ&hl=en) and [Dr.Kai Chen](https://chenkai.site/).
+
+Previously, I obtained my PhD degree at Peking University under the supervision of [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree at Beijing University of Posts and Telecommunications.
 I also worked closely with [Prof.Zhouchen Lin](https://zhouchenlin.github.io/) and [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en).
 
 My research work focuses on several directions, including pixel-wise scene understanding for video/image scene understanding (such as semantic/instance/panoptic segmentation and object detection), their zero/few shot variants, 
