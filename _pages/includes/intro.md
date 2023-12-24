@@ -14,7 +14,6 @@ Besides, I am also very interested at aerial image analysis since I am a fun of 
 During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related problems.
 
 
-[//]: # (<span style="color:red">  <strong> Currently, I am looking for Research Scientist Position in the Industry &#40;start from 2024&#41;. </strong> </span>)
+<span style="color:red">  <strong> I am recruiting 1 or 2 self-motivated interns in computer vision, deep learning and LLM projects. </strong> </span>
 
-[//]: # ()
-[//]: # (Feel free to connect me at  <strong> lxtpku@pku.edu.cn and xiangtai.li@ntu.edu.sg</strong>.)
+If you are interested in, feel free to connect me at  <strong> lxtpku@pku.edu.cn and xiangtai94@gmail.com</strong>.
