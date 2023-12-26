@@ -11,6 +11,9 @@ Code can be found in [this](https://github.com/lxtGH).
 ## Selected Arxiv
 
 
+<li><a href="https://arxiv.org/abs/2312.06660">EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM</a>,  
+      Chong Zhou, <strong>Xiangtai Li</strong>, Chen Change Loy, Bo Dai
+      <strong>arxiv <span style="color:red"> The first mobile SAM model that run on the iPhone. </span> </strong> | <a href="https://github.com/chongzhou96/EdgeSAM">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
       <strong>Xiangtai Li</strong>, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
