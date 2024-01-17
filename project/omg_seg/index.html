@@ -270,6 +270,27 @@
     </div>
     <!--/ Abstract. -->
 
+    <section class="setting teaser">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Model Scope Comparison</h2>
+        <div class="content has-text-justified">
+    <div class="hero-body">
+        <img src="./src/method_comparison.jpg" alt="empty">
+        <p>
+           We include several representative methods here. Our proposed OMG-Seg can perform various segmentation tasks in one model. SS: Semantic Segmentation. IS: Instance Segmentation.
+          PS: Panoptic Segmentation. VSS: Video Semantic Segmentation. VIS: Video Instance Segmentation. VPS: Video Panoptic Segmentation. VOS: Video Object Segmentation. Open-Set: Open-Vocabulary Segmentation.
+        </p>
+    </div>
+  </div>
+      </div>
+      </div>
+  </div>
+
+</section>
+
+
     <!-- Paper video. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
@@ -282,6 +303,28 @@
     </div>
     <!--/ Paper video. -->
   </div>
+</section>
+
+
+    <section class="setting teaser">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Method: OMG-Seg</h2>
+        <div class="content has-text-justified">
+    <div class="hero-body">
+        <img src="./src/omg_seg_method.jpg" alt="empty">
+        <p>
+          (a), OMG-Seg follows the architecture of Mask2Former, containing a backbone (CLIP Visual Encoder), a pixel decoder, and a mask decoder. The different parts are a shared mask decoder for both image and video segmentation and a visual prompt encoder. We use two types of mask queries, i.e., semantic queries, for instance/semantic masks or mask tubes, and location queries that encode box or point prompts.
+          (b), One decoder layer in the Mask Decoder. The location queries skip the self-attention operation as they are only conditioned on the image content and the location prompts.
+          (c), The forward pass of OMG-Seg in training and inference. We use CLIP's text encoder to represent category names and classify masks by calculating cosine similarity between mask features and text embeddings
+        </p>
+    </div>
+  </div>
+      </div>
+      </div>
+  </div>
+
 </section>
 
 
