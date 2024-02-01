@@ -1,5 +1,6 @@
 # 🔥 News
-
+- *2024.02*: Checkout several recent works on segmentation and recognition, [OMG-Seg](https://arxiv.org/abs/2401.10229), [Open-Vocabulary SAM](https://arxiv.org/abs/2401.02955) and [RAP-SAM](https://arxiv.org/abs/2401.10228).
+- *2024.01*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2306.15880"> Our survey </a> on Open Vocabulary Learning is accepted by T-PAMI.
 - *2023.12*: Checkout [EdgeSAM](https://arxiv.org/abs/2312.06660), a mobile SAM that can run on iPhone! 
 - *2023.10*: Checkout our recent works on Open-Vocabulary Detection and Segmentation. [DST-Det](https://arxiv.org/abs/2310.01393), [CLIPSelf](https://arxiv.org/abs/2310.01403), [MosaicFusion](https://arxiv.org/abs/2309.13042).
 - *2023.09*: &nbsp;🎉🎉 Two NeurIPS Paper are accepted as SpotLight. PSG4D and Point-In-Context.
