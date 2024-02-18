@@ -24,5 +24,7 @@
 - JD AI (remote cooperation), mentored by Dr.Yibo Yang and Prof.Dacheng Tao.
 - DeepMotion (Now Xiaomi Car), mentored by Dr.Kuiyuan Yang. 
 - Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.
-- I am mentored by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), 
-[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [Mr.Xia li](https://xialipku.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/) during the PhD study.
+
+[//]: # (- I was mentored by [Dr.Kuiyuan Yang]&#40;https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN&#41;, [Prof.Li Zhang]&#40;http://www.robots.ox.ac.uk/~lz/&#41;, [Dr.Guangliang Cheng]&#40;https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN&#41;, )
+
+[//]: # ([Dr.Yibo Yang]&#40;https://iboing.github.io/&#41;, [Prof.Dacheng Tao]&#40;https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&#41;, [Prof.Zhouchen Lin]&#40;https://zhouchenlin.github.io/&#41;, [[Dr.Jiangmiao Pang]&#40;https://oceanpang.github.io/&#41; during the PhD study.)
