@@ -1,4 +1,4 @@
-I am **Xiangtai Li (李祥泰)** and I work as Research Scientist in Skywork AI, Singapore.
+I am **Xiangtai Li (李祥泰)** and I work as a Research Scientist in Skywork AI, Singapore.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and research scientist intern in JD / Sensetime / Shanghai AI Laboratory.
 

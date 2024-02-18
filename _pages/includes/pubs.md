@@ -57,9 +57,11 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
       <strong>ECCV 2022 <span style="color:red"> The first unified part-aware panoptic segmentation model</span></strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2204.04654">Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition</a>,  
-      Shilin Xu*, <strong>Xiangtai Li*</strong>, Jingbo Wang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
-      <strong>ECCV 2022 </strong> | <a href="https://github.com/xushilin1/FashionFormer">Code</a> </li>
+[//]: # (<li><a href="https://arxiv.org/abs/2204.04654">Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition</a>,  )
+
+[//]: # (      Shilin Xu*, <strong>Xiangtai Li*</strong>, Jingbo Wang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,)
+
+[//]: # (      <strong>ECCV 2022 </strong> | <a href="https://github.com/xushilin1/FashionFormer">Code</a> </li>)
 
 
 <li><a href="https://arxiv.org/abs/2112.02582">PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation</a>,  
@@ -83,6 +85,10 @@ Code can be found in [this](https://github.com/lxtGH).
 
 
 ## Selected Journal
+
+<li><a href=""> Towards Open Vocabulary Learning: A Survey </a>,  
+Jianzong Wu, <strong>Xiangtai Li</strong>, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
+      <strong>T-PAMI-2024 <span style="color:red"> The first comprehensive survey on open-vocabulary learning.</span> </strong> | <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
