@@ -11,6 +11,14 @@ Code can be found in [this](https://github.com/lxtGH).
 ## Selected Arxiv
 
 
+<li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
+     <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
+      <strong>arxiv <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
+
+<li><a href="https://arxiv.org/abs/2312.06660">Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</a>,  
+     Haobo Yuan, <strong>Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
+      <strong>arxiv <span style="color:red"> Combine SAM and CLIP in one model. </span> </strong> | <a href="https://github.com/chongzhou96/EdgeSAM">Code</a> </li>
+
 <li><a href="https://arxiv.org/abs/2312.06660">EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM</a>,  
       Chong Zhou, <strong>Xiangtai Li</strong>, Chen Change Loy, Bo Dai
       <strong>arxiv <span style="color:red"> The first mobile SAM model that run on the iPhone. </span> </strong> | <a href="https://github.com/chongzhou96/EdgeSAM">Code</a> </li>
@@ -18,10 +26,6 @@ Code can be found in [this](https://github.com/lxtGH).
 <li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
       <strong>Xiangtai Li</strong>, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
       <strong>arxiv <span style="color:red"> The first comprehensive survey on transformer-based segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmenation-With-Transformer">Project</a> </li>
-
-<li><a href="https://arxiv.org/abs/2310.01403">CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction</a>,  
-      Size Wu, Wenwei Zhang, Lumin Xu, Sheng Jin, <strong>Xiangtai Li</strong>, Wentao Liu, Chen Change Loy
-      <strong>arxiv <span style="color:red"> A simple yet effective self-distillation method for open vocabulary detection. </span> </strong> | <a href="https://github.com/wusize/CLIPSelf">Project</a> </li>
 
 <li><a href="https://arxiv.org/abs/2310.01393">DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection
 </a>,  
@@ -57,11 +61,6 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Shilin Xu, Yibo Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,
       <strong>ECCV 2022 <span style="color:red"> The first unified part-aware panoptic segmentation model</span></strong> | <a href="https://github.com/lxtGH/Panoptic-PartFormer">Code</a> </li>
 
-[//]: # (<li><a href="https://arxiv.org/abs/2204.04654">Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition</a>,  )
-
-[//]: # (      Shilin Xu*, <strong>Xiangtai Li*</strong>, Jingbo Wang, Guangliang Cheng, Yunhai Tong, Dacheng Tao,)
-
-[//]: # (      <strong>ECCV 2022 </strong> | <a href="https://github.com/xushilin1/FashionFormer">Code</a> </li>)
 
 
 <li><a href="https://arxiv.org/abs/2112.02582">PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation</a>,  
