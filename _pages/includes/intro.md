@@ -15,11 +15,12 @@ I also worked closely with [Prof.Zhouchen Lin](https://zhouchenlin.github.io/) a
 
 My research topics are:
 
-    1, Scene understanding tasks. (Image/Video/3D detection and segmentation)
+1, Scene understanding tasks. (Image/Video/3D detection and segmentation)
 
-    2, Multi-modal learning with LLMs. (Connect visual perception with Large language models)
+2, Multi-modal learning with LLMs. (Connect visual perception with Large language models)
 
-    3, Image/Video Geneartion/Synthesis. (Diffusion models)
+3, Image/Video Geneartion/Synthesis. (Diffusion models)
+
 
 
 Besides, I am also very interested at aerial image analysis since I am a fun of history and military games. 
