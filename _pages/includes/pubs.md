@@ -13,7 +13,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
      <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
-      <strong>arxiv <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
+      <strong>CVPR 2024 <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2312.06660">Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</a>,  
      Haobo Yuan, <strong>Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
