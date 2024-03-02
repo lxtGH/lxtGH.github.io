@@ -10,11 +10,6 @@ Code can be found in [this](https://github.com/lxtGH).
 
 ## Selected Arxiv
 
-
-<li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
-     <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
-      <strong>CVPR 2024 <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
-
 <li><a href="https://arxiv.org/abs/2312.06660">Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</a>,  
      Haobo Yuan, <strong>Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
       <strong>arxiv <span style="color:red"> Combine SAM and CLIP in one model. </span> </strong> | <a href="https://github.com/chongzhou96/EdgeSAM">Code</a> </li>
@@ -39,6 +34,11 @@ Code can be found in [this](https://github.com/lxtGH).
 
 ## Selected Conference 
 
+
+
+<li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
+     <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
+      <strong>CVPR 2024 <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
 
 
 <li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
@@ -86,7 +86,7 @@ Code can be found in [this](https://github.com/lxtGH).
 ## Selected Journal
 
 <li><a href=""> Towards Open Vocabulary Learning: A Survey </a>,  
-Jianzong Wu, <strong>Xiangtai Li</strong>, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
+Jianzong Wu*, <strong>Xiangtai Li*</strong>, Shilin Xu*, Haobo Yuan*, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
       <strong>T-PAMI-2024 <span style="color:red"> The first comprehensive survey on open-vocabulary learning.</span> </strong> | <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
