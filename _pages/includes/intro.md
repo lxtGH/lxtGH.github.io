@@ -19,15 +19,13 @@ My research topics are:
 
 2, Multi-modal learning with LLMs. (Connect visual perception with Large language models)
 
-3, Image/Video Geneartion/Synthesis. (Diffusion models)
-
+3, Image/Video Generation/Synthesis. (Diffusion models)
 
 
 Besides, I am also very interested at aerial image analysis since I am a fun of history and military games. 
 
 During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related problems.
 
+[//]: # (<span style="color:red">  <strong> I am recruiting 1 or 2 self-motivated interns in computer vision, deep learning and LLM projects. </strong> </span>)
 
-<span style="color:red">  <strong> I am recruiting 1 or 2 self-motivated interns in computer vision, deep learning and LLM projects. </strong> </span>
-
-If you are interested in, feel free to connect me at  <strong> lxtpku@pku.edu.cn and xiangtai94@gmail.com</strong>.
+[//]: # (If you are interested in, feel free to connect me at  <strong> lxtpku@pku.edu.cn and xiangtai94@gmail.com</strong>.)
