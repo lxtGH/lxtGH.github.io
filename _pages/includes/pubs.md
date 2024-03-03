@@ -64,12 +64,6 @@ Jianzong Wu*, <strong>Xiangtai Li*</strong>, Shilin Xu*, Haobo Yuan*, Henghui Di
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
       <strong>T-PAMI-2022 <span style="color:red"> End-to-End Vision Transformer for Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
-[//]: # (<li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  )
-
-[//]: # (      <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao )
-
-[//]: # (      <strong>T-PAMI-2022 <span style="color:red"> The first dynamic network for video scene understanding </span></strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>)
-
 <li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
       <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
       <strong>IJCV-2023</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
