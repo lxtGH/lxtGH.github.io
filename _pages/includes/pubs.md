@@ -66,4 +66,4 @@ Jianzong Wu*, <strong>Xiangtai Li*</strong>, Shilin Xu*, Haobo Yuan*, Henghui Di
 
 <li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
       <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
-      <strong>IJCV-2023</strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
+      <strong>IJCV-2023  <span style="color:red"> The first real-time segmentation model that runs over 80 mIoU at 70-80 FPS </span> </strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
