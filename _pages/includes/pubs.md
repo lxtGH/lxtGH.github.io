@@ -22,10 +22,14 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>Xiangtai Li</strong>, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
       <strong>arxiv <span style="color:red"> The first comprehensive survey on transformer-based segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmenation-With-Transformer">Project</a> </li>
 
-<li><a href="https://arxiv.org/abs/2310.01393">DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection
-</a>,  
-     Shilin Xu, <strong> Xiangtai Li*</strong>, Size Wu, Wenwei Zhang, Yining Li, Guangliang Cheng, Yunhai Tong, Kai Chen, Chen Change Loy
-      <strong>arxiv <span style="color:red"> A dynamic pseudo-label generation method for open vocabulary detection. </span> </strong> | <a href="https://github.com/xushilin1/dst-det">Project</a> </li>
+[//]: # (<li><a href="https://arxiv.org/abs/2310.01393">DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection)
+
+[//]: # (</a>,  )
+
+[//]: # (     Shilin Xu, <strong> Xiangtai Li*</strong>, Size Wu, Wenwei Zhang, Yining Li, Guangliang Cheng, Yunhai Tong, Kai Chen, Chen Change Loy)
+
+[//]: # (      <strong>arxiv <span style="color:red"> A dynamic pseudo-label generation method for open vocabulary detection. </span> </strong> | <a href="https://github.com/xushilin1/dst-det">Project</a> </li>)
+
 
 <li><a href="https://arxiv.org/abs/2309.13042">MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation </a>,  
      Jiahao Xie, Wei Li, <strong>Xiangtai Li</strong>, Ziwei Liu, Yew Soon Ong, Chen Change Loy
@@ -45,10 +49,13 @@ Code can be found in [this](https://github.com/lxtGH).
       <strong>ICCV 2023 <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
 
 
-<li><a href="https://arxiv.org/abs/2306.08659">Explore In-Context Learning for 3D Point Cloud Understanding</a>,  
-     Zhongbin Fang, <strong>Xiangtai Li</strong>,  Xia Li, Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu
-      <strong>NeurIPS 2023, spotlight <span style="color:red"> The first work to explore in-context learning in point cloud. </span> </strong> | <a href="https://github.com/fanglaosi/Point-In-Context">Project</a> </li>
+[//]: # (<li><a href="https://arxiv.org/abs/2306.08659">Explore In-Context Learning for 3D Point Cloud Understanding</a>,  )
 
+[//]: # (     Zhongbin Fang, <strong>Xiangtai Li</strong>,  Xia Li, Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu)
+
+[//]: # (      <strong>NeurIPS 2023, spotlight <span style="color:red"> The first work to explore in-context learning in point cloud. </span> </strong> | <a href="https://github.com/fanglaosi/Point-In-Context">Project</a> </li>)
+
+[//]: # ()
 
 <li><a href="https://arxiv.org/abs/2303.12782">Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation</a>,  
       Jianzong Wu*, <strong>Xiangtai Li*</strong>, Henghui Ding, Xia Li, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
@@ -95,9 +102,11 @@ Jianzong Wu*, <strong>Xiangtai Li*</strong>, Shilin Xu*, Haobo Yuan*, Henghui Di
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
       <strong>T-PAMI-2022 <span style="color:red"> End-to-End Vision Transformer for Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  
-      <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao 
-      <strong>T-PAMI-2022 <span style="color:red"> The first dynamic network for video scene understanding </span></strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>
+[//]: # (<li><a href="https://arxiv.org/abs/2107.13155">Improving Video Instance Segmentation via Temporal Pyramid Routing</a>,  )
+
+[//]: # (      <strong>Xiangtai Li</strong>, Hao He, Yibo Yang, Henghui Ding, Kuiyuan Yang, Guangliang Cheng, Yunhai Tong, Dacheng Tao )
+
+[//]: # (      <strong>T-PAMI-2022 <span style="color:red"> The first dynamic network for video scene understanding </span></strong> | <a href="https://github.com/lxtGH/TemporalPyramidRouting">Code</a> </li>)
 
 <li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
       <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
