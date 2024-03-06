@@ -12,7 +12,7 @@ Code can be found in [this](https://github.com/lxtGH).
 
 <li><a href="https://arxiv.org/abs/2312.06660">Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</a>,  
      Haobo Yuan, <strong>Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
-      <strong>arxiv <span style="color:red"> Combine SAM and CLIP in one model. </span> </strong> | <a href="https://github.com/chongzhou96/EdgeSAM">Code</a> </li>
+      <strong>arxiv <span style="color:red"> Combine SAM and CLIP in one model. </span> </strong> | <a href="https://github.com/HarborYuan/ovsam">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2312.06660">EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM</a>,  
       Chong Zhou, <strong>Xiangtai Li</strong>, Chen Change Loy, Bo Dai
@@ -63,7 +63,3 @@ Jianzong Wu*, <strong>Xiangtai Li*</strong>, Shilin Xu*, Haobo Yuan*, Henghui Di
 <li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
       <strong>T-PAMI-2022 <span style="color:red"> End-to-End Vision Transformer for Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
-
-<li><a href="https://arxiv.org/abs/2206.09325"> SFNet: Faster, Accurate, and Domain Agnostic Semantic Segmentation via Semantic Flow </a>, 
-      <strong>Xiangtai Li</strong>, Jiangning Zhang, Yibo Yang, Guangliang Cheng, Yunhai Tong, Kuiyuan Yang, Dacheng Tao,
-      <strong>IJCV-2023  <span style="color:red"> The first real-time segmentation model that runs over 80 mIoU at 70-80 FPS </span> </strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
