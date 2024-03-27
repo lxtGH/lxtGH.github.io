@@ -5,7 +5,8 @@ Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-n
 [//]: # (I also work as a part-time consultant in Open-MMLab@Shanghai AI Laboratory, led by [Dr.Yining Li]&#40;https://scholar.google.com.hk/citations?user=y_cp1sUAAAAJ&hl=en&#41; and [Dr.Kai Chen]&#40;https://chenkai.site/&#41;.)
 
 I obtained my PhD degree at Peking University under the supervision of [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree at Beijing University of Posts and Telecommunications.
-I also worked closely with [Prof.Zhouchen Lin](https://zhouchenlin.github.io/) and [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en).
+
+[//]: # (I also worked closely with [Prof.Zhouchen Lin]&#40;https://zhouchenlin.github.io/&#41; and [Prof.Dacheng Tao]&#40;https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en&#41;.)
 
 
 My research topics are:

@@ -36,9 +36,11 @@ Code can be found in [this](https://github.com/lxtGH).
       Jianzong Wu*, <strong>Xiangtai Li*</strong>, Henghui Ding, Xia Li, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
       <strong>ICCV 2023 <span style="color:red"> Query-based Open Vocabulary Segmentation aided by Caption. </span> </strong> | <a href="https://github.com/jianzongwu/betrayed-by-captions">Project</a> </li>
 
-<li><a href="https://arxiv.org/abs/2112.02582">PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation</a>,  
-    Haobo Yuan*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,
-      <strong>ECCV 2022 <span style="color:red"> Winner of ICCV-2021 BMTT workshop, The first unified depth aware video panoptic segmentation model</span> </strong> | <a href="https://github.com/HarborYuan/PolyphonicFormer">Code</a> </li>
+[//]: # (<li><a href="https://arxiv.org/abs/2112.02582">PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation</a>,  )
+
+[//]: # (    Haobo Yuan*, <strong>Xiangtai Li*</strong>, Yibo Yang, Guangliang Cheng, Jing Zhang, Yunhai Tong, Lefei Zhang, Dacheng Tao,)
+
+[//]: # (      <strong>ECCV 2022 <span style="color:red"> Winner of ICCV-2021 BMTT workshop, The first unified depth aware video panoptic segmentation model</span> </strong> | <a href="https://github.com/HarborYuan/PolyphonicFormer">Code</a> </li>)
 
 <li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
       <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
