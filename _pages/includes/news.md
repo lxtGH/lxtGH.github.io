@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.03*： 🔥🔥 The codebase of OMG-Seg is open-sourced! [link](https://github.com/lxtGH/OMG-Seg). This is the first codebase support joint image/video/multi-data/interactive segmentation co-training and testing!
 - *2024.03*： &nbsp;🎉🎉 Give a talk of open-world segmentation (Beyond SAM) at [VALSE](http://valser.org/) and [Slides](../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf).
 - *2024.02*： &nbsp;🎉🎉 OMG-Seg is accepted by CVPR-24. Along with OMG-Seg, five works are accepted by CVPR-24!
 - *2024.02*: Checkout several recent works on segmentation and recognition, [OMG-Seg](https://arxiv.org/abs/2401.10229), [Open-Vocabulary SAM](https://arxiv.org/abs/2401.02955) and [RAP-SAM](https://arxiv.org/abs/2401.10228).
