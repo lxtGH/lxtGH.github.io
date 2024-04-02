@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.03*： 🔥🔥 Checkout our new video segmentation work [VS-DAQ](https://arxiv.org/abs/2404.00086), which achieves the new state-of-the-art results on multiple video segmentation benchmark.
 - *2024.03*： 🔥🔥 The codebase of OMG-Seg is open-sourced! [link](https://github.com/lxtGH/OMG-Seg). This is the first codebase support joint image/video/multi-data/interactive segmentation co-training and testing!
 - *2024.03*： &nbsp;🎉🎉 Give a talk of open-world segmentation (Beyond SAM) at [VALSE](http://valser.org/) and [Slides](../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf).
 - *2024.02*： &nbsp;🎉🎉 OMG-Seg is accepted by CVPR-24. Along with OMG-Seg, five works are accepted by CVPR-24!
