@@ -1,6 +1,6 @@
-I am **Xiangtai Li (李祥泰)** and I work as a Research Scientist in Skywork AI, Singapore.
+I am **Xiangtai Li (李祥泰)** and I work on computer vision and related problems.
 
-Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and research scientist intern in JD / Sensetime / Shanghai AI Laboratory.
+Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and research scientist intern in JD AI / Sensetime / Shanghai AI Laboratory.
 
 I obtained my PhD degree at Peking University under the supervision of [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree at Beijing University of Posts and Telecommunications.
 
@@ -10,7 +10,7 @@ My research topics are:
 
 2, Multi-modal learning with LLMs. (Connect visual perception with Large language models)
 
-3, Image/Video Generation/Synthesis. (Diffusion models)
+3, Image/Video Generation/Synthesis/Editing. (Diffusion models)
 
 
 Besides, I am also very interested at aerial image analysis since I am a fun of history and military games. 
