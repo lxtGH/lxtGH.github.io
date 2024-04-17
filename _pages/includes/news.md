@@ -1,4 +1,6 @@
 # 🔥 News
+- *2024.04*： 🔥🔥 Checkout our Mamba works. [Point Cloud Mamba](https://arxiv.org/abs/2403.00762), [MambaAD](https://arxiv.org/abs/2404.06564), and [DGMamba](https://arxiv.org/abs/2404.07794). 
+- *2024.04*： 🔥🔥 Checkout our open-sourced codebase [ADer](https://github.com/zhangzjn/ader) for the state-of-the-art anomaly detection AD methods.
 - *2024.04*： 🔥🔥 Checkout our new video segmentation work [DVIS-DAQ](https://arxiv.org/abs/2404.00086), which achieves the new state-of-the-art results on multiple video segmentation benchmark.
 - *2024.03*： 🔥🔥 The codebase of OMG-Seg is open-sourced! [link](https://github.com/lxtGH/OMG-Seg). This is the first codebase support joint image/video/multi-data/interactive segmentation co-training and testing!
 - *2024.03*： &nbsp;🎉🎉 Give a talk of open-world segmentation (Beyond SAM) at [VALSE](http://valser.org/), [Slides](../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf) [Video](https://www.bilibili.com/video/BV1PZ421b7U7/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967).

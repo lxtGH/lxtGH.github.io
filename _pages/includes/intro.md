@@ -15,4 +15,11 @@ My research topics are:
 
 Besides, I am also very interested at aerial image analysis since I am a fun of history and military games. 
 
-During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related scene understanding problems.
+[//]: # (During my PhD, I conducted research on image/video semantic/instance/panoptic segmentation, as well as several related scene understanding problems.)
+
+Moreover, most of my works, including the ones I have profoundly contributed to, are open-sourced on GitHub.
+
+Find the code and models [here](https://github.com/lxtGH).
+
+
+Feel free to contact me via email at xiangtai94@gmail.com or lxtpku@pku.edu.cn. 
