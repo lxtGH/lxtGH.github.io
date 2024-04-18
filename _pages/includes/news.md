@@ -9,8 +9,9 @@
 - *2024.01*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2306.15880"> Our survey </a> on Open Vocabulary Learning is accepted by T-PAMI.
 - *2023.12*: Checkout [EdgeSAM](https://arxiv.org/abs/2312.06660), a mobile SAM that can run on iPhone! 
 - *2023.10*: Checkout our recent works on Open-Vocabulary Detection and Segmentation. [DST-Det](https://arxiv.org/abs/2310.01393), [CLIPSelf](https://arxiv.org/abs/2310.01403), [MosaicFusion](https://arxiv.org/abs/2309.13042).
-- *2023.09*: &nbsp;🎉🎉 Two NeurIPS Paper are accepted as SpotLight. PSG4D and Point-In-Context.
-- *2023.08*: Give a talk of video segmentation at [VALSE](http://valser.org/) and [Slides](../../project/paper_local/talk-valse-8-30-2023.pdf).
+
+[//]: # (- *2023.09*: &nbsp;🎉🎉 Two NeurIPS Paper are accepted as SpotLight. PSG4D and Point-In-Context.)
+[//]: # (- *2023.08*: Give a talk of video segmentation at [VALSE]&#40;http://valser.org/&#41; and [Slides]&#40;../../project/paper_local/talk-valse-8-30-2023.pdf&#41;.)
 
 [//]: # (- *2023.07*: &nbsp;🎉🎉 Three paper in ICCV-23: Tube-Link, Betrayed Caption and EMO-Net. One Oral Paper in ICCV-23 workshop. See you in Paris!!  SFNet-Lite is accepted by IJCV.)
 
