@@ -4,7 +4,7 @@
 - *2024.04*： 🔥🔥 Checkout our new video segmentation work [DVIS-DAQ](https://arxiv.org/abs/2404.00086), which achieves the new state-of-the-art results on multiple video segmentation benchmark.
 - *2024.03*： 🔥🔥 The codebase of OMG-Seg is open-sourced! [link](https://github.com/lxtGH/OMG-Seg). This is the first codebase support joint image/video/multi-data/interactive segmentation co-training and testing!
 - *2024.03*： &nbsp;🎉🎉 Give a talk of open-world segmentation (Beyond SAM) at [VALSE](http://valser.org/), [Slides](../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf) [Video](https://www.bilibili.com/video/BV1PZ421b7U7/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967).
-- *2024.02*： &nbsp;🎉🎉 OMG-Seg is accepted by CVPR-24. Along with OMG-Seg, five works are accepted by CVPR-24!
+- *2024.02*： &nbsp;🎉🎉 OMG-Seg is accepted by CVPR-24. Along with OMG-Seg, five works are accepted by CVPR-24! [BA-SAM](https://arxiv.org/abs/2401.02317), [RTMO](https://arxiv.org/abs/2312.07526), [Skeleton-in-Context](https://arxiv.org/abs/2312.03703), and [language-driven video inpainting](https://arxiv.org/abs/2401.10226). 
 - *2024.02*: Checkout several recent works on segmentation and recognition, [OMG-Seg](https://arxiv.org/abs/2401.10229), [Open-Vocabulary SAM](https://arxiv.org/abs/2401.02955) and [RAP-SAM](https://arxiv.org/abs/2401.10228).
 - *2024.01*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2306.15880"> Our survey </a> on Open Vocabulary Learning is accepted by T-PAMI.
 - *2023.12*: Checkout [EdgeSAM](https://arxiv.org/abs/2312.06660), a mobile SAM that can run on iPhone! 
