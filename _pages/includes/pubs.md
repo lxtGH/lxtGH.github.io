@@ -4,12 +4,9 @@
 \* means equal contribution.
 
 
-Code can be found in [this](https://github.com/lxtGH).
+[//]: # (Full Publications Per Year can be found in [Here]&#40;../project/pub&#41;.)
 
-Full Publications Per Year can be found in [Here](../project/pub).
-
-
-# Top-5 My Favourite Works
+## Top-5 My Favourite Works
 
 
 <li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
@@ -35,3 +32,8 @@ Full Publications Per Year can be found in [Here](../project/pub).
 <li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
     Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
       <strong>T-PAMI-2022 <span style="color:red"> The first End-to-End Vision Transformer for Video Object Detection and STOA results on Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
+
+
+Code can be found in [this](https://github.com/lxtGH).
+
+Full publication can be found in [Google Scholar](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN)
