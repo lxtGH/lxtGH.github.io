@@ -1,4 +1,4 @@
-I am **Xiangtai Li (李祥泰)** and I work on computer vision and related problems.
+I am **Xiangtai Li (李祥泰)**, working as a Research Scientist at ByteDance (Singapore) for computer vision and related problems.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and research scientist intern in JD AI / Sensetime / Shanghai AI Laboratory.
 
