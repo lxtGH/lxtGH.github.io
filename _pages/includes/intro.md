@@ -1,6 +1,6 @@
 I am **Xiangtai Li (李祥泰)**, working as a Research Scientist at ByteDance (Singapore) for computer vision and related problems.
 
-Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and research scientist intern in JD AI / Sensetime / Shanghai AI Laboratory.
+Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and research intern or research scientist in JD AI / Sensetime / Shanghai AI Laboratory / Skywork AI.
 
 I obtained my PhD degree at Peking University under the supervision of [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree at Beijing University of Posts and Telecommunications.
 
