@@ -53,7 +53,7 @@
    Lu Qi, Yi-Wen Chen, Lehan Yang, Tiancheng Shen, <strong>Xiangtai Li</strong>, Weidong Guo, Yu Xu, Ming-Hsuan Yang,
       <strong>Arxiv-2024 <span style="color:red"> Add LLM with entity-level segmentation and grounding </span> </strong> | <a href="">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2402.02555"> Point Cloud Mamba: Point Cloud Learning via State Space Model </a>,  
+<li><a href="https://arxiv.org/abs/2403.00762"> Point Cloud Mamba: Point Cloud Learning via State Space Model </a>,  
    Tao Zhang,  <strong>Xiangtai Li </strong>, Haobo Yuan, Shunping Ji, Shuicheng Yan,
     <strong>Arxiv-2024 <span style="color:red"> Mamba-like point cloud model that outperform Transformers and MLP on both efficiency and accuracy. </span> </strong> | <a href="https://github.com/SkyworkAI/PointCloudMamba">Code</a> </li>
 
