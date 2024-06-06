@@ -34,22 +34,22 @@
       <strong>T-PAMI-2022 <span style="color:red"> The first End-to-End Vision Transformer for Video Object Detection and STOA results on Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 
-## Several Recent Arxiv Works
+##  Recent Arxiv Works
+
+These are several interesting works that I deeply involved in the past months.
+
 
 <li><a href="https://arxiv.org/abs/2405.17427"> Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model </a>,  
     Kuan-Chih Huang,  <strong> Xiangtai Li </strong>, Lu Qi, Shuicheng Yan, Ming-Hsuan Yang,
       <strong>Arxiv-2024 <span style="color:red"> LLM meets 3D reasoning segmentation </span> </strong> | <a href="https://KuanchihHuang.github.io/project/reason3d">Code</a> </li>
 
-
 <li><a href="https://arxiv.org/abs/2401.02955"> Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively </a>,  
    Haobo Yuan, <strong> Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
     <strong>Arxiv-2024 <span style="color:red"> Bind SAM and CLIP in one model and achieve open vocabulary recognition and segmentation. </span> </strong> | <a href="https://www.mmlab-ntu.com/project/ovsam">Code</a> </li>
 
-
 <li><a href="https://arxiv.org/abs/2312.06660"> EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM </a>,  
    Chong Zhou, <strong>Xiangtai Li</strong>, Chen Change Loy, Bo Dai
     <strong>Arxiv-2024 <span style="color:red"> The mobile SAM model runs on iPhone. </span> </strong> | <a href="https://mmlab-ntu.github.io/project/edgesam/">Code</a> </li>
-
 
 <li><a href="https://arxiv.org/abs/2405.20282"> SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow </a>,  
     Chaoyang Wang,  <strong> Xiangtai Li </strong>, Lu Qi, Henghui Ding, Yunhai Tong, Ming-Hsuan Yang,
