@@ -22,4 +22,4 @@ Moreover, most of my works, including the ones I have profoundly contributed to,
 Find the code and models [here](https://github.com/lxtGH).
 
 
-Feel free to contact me via email at xiangtai94@gmail.com or lxtpku@pku.edu.cn. 
+<span style="color:red"> ByteDance/Tiktok Internship/University Collaboration: feel free to email me (xiangtai94@gmail.com), if you share similar interests in my research topics. </span> 
