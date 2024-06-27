@@ -151,7 +151,7 @@
               </span>
               <!-- Video Link. -->
               <span class="link-block">
-                <a href="https://www.youtube.com/watch?v=XHPDzhNg9Ss"
+                <a href="https://youtu.be/gX1MEFX791M"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-youtube"></i>
@@ -239,8 +239,7 @@
       <div class="column is-four-fifths">
         <h2 class="title is-3">Video</h2>
         <div class="publication-video">
-          <iframe src="https://www.youtube.com/embed/XHPDzhNg9Ss?rel=0&amp;showinfo=0"
-                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <iframe width="679" height="382" src="https://www.youtube.com/embed/gX1MEFX791M" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -271,8 +270,95 @@
 </section>
 
 
+<section class="setting teaser">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Experiments</h2>
+        <div class="content has-text-justified">
+    <div class="hero-body">
+        <p>
+          The comprehensive comparison of OMG-LLaVA and other MLLMs regarding pixel-level and object-level understanding and reasoning capability and performance.
+          "-" indicates that the method does not handle this task. GLaMM used the GranD dataset for pretraining, which is significantly larger than
+          the datasets used by other methods.
+        </p>
+        <img src="./src/overall_table.png" alt="empty">
+    </div>
+
+          <div class="hero-body">
+        <p>
+          Performance on referring expression segmentation datasets. The evaluation metric is cIoU. "ft"
+          indicates finetuning on the referring expression datasets.
+        </p>
+        <img src="./src/res_table.png" alt="empty">
+    </div>
+
+         <div class="hero-body">
+        <p>
+          Performance on grounded conversation generation datasets. “ft” indicates finetuning on the GranDf
+          dataset. † indicates that the method used the GranD dataset for pretraining.
+        </p>
+        <img src="./src/gcg_table.png" alt="empty">
+    </div>
+
+          <div class="hero-body">
+        <p>
+          Ablation study on RES and GCG datasets.
+        </p>
+        <img src="./src/ablation_table.png" alt="empty">
+    </div>
+
+  </div>
+      </div>
+      </div>
+  </div>
+
+</section>
 
 
+
+<section class="setting teaser">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Demos</h2>
+        <div class="content has-text-justified">
+    <div class="hero-body">
+        <img src="./src/res_compare.png" alt="empty">
+      <p>
+          Qualitative comparison on the referring expression segmentation task. LISA uses the 13B LLM,
+          while GLaMM and our proposed OMG-LLaVA use the 7B LLM.
+        </p>
+    </div>
+
+          <div class="hero-body">
+        <img src="./src/gcg_compare1.png" alt="empty">
+            <img src="./src/gcg_compare2.png" alt="empty">
+      <p>
+          Qualitative comparison on the grounded conversation generation task.
+        </p>
+    </div>
+
+          <div class="hero-body">
+        <img src="./src/chat_compare.png" alt="empty">
+      <p>
+          Qualitative comparison on the visual prompt-based description task.
+        </p>
+    </div>
+
+          <div class="hero-body">
+        <img src="./src/visual_prompt_compare.png" alt="empty">
+      <p>
+          Qualitative comparison on the image-based conversation task.
+        </p>
+    </div>
+
+  </div>
+      </div>
+      </div>
+  </div>
+
+</section>
 
 
 
