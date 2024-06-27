@@ -109,7 +109,7 @@
             <span class="author-block">
               <a href="https://yuanhaobo.me/">Haobo Yuan</a><sup>3</sup>,</span>
             <span class="author-block">
-              <a href="https://chocowu.github.io/">Shengqing Wu</a><sup>2</sup>,</span>
+              <a href="https://chocowu.github.io/">Shengqiong Wu</a><sup>2</sup>,</span>
             <br>
             <span class="author-block">
               <a href="https://scholar.google.com/citations?user=FjoRmF4AAAAJ&hl=en">Shunping Ji</a><sup>1</sup>
@@ -182,71 +182,15 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-        <img src="./src/omg_teaser.jpg" alt="empty">
+        <img src="./src/omg_llava_teaser.png" alt="empty">
         <p>
-          OMG-Seg can handle over ten different segmentation tasks in one framework, including image-level and video-level segmentation tasks, interactive segmentation, and open-vocabulary segmentation. To our knowledge, this is the first model to unify these four directions.
+        The comprehensive capabilities of OMG-LLaVA. OMG-LLaVA can handle a variety of pixel-level, object-level, and image-level understanding and reasoning tasks with only one visual encoder, one visual decoder and one LLM.
         </p>
     </div>
   </div>
 </section>
 
 
-<!--<section class="hero is-light is-small">-->
-<!--  <div class="hero-body">-->
-<!--    <div class="container">-->
-<!--      <div id="results-carousel" class="carousel results-carousel">-->
-<!--        <div class="item item-steve">-->
-<!--          <video poster="" id="steve" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/steve.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-chair-tp">-->
-<!--          <video poster="" id="chair-tp" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/chair-tp.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-shiba">-->
-<!--          <video poster="" id="shiba" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/shiba.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-fullbody">-->
-<!--          <video poster="" id="fullbody" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/fullbody.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-blueshirt">-->
-<!--          <video poster="" id="blueshirt" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/blueshirt.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-mask">-->
-<!--          <video poster="" id="mask" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/mask.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-coffee">-->
-<!--          <video poster="" id="coffee" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/coffee.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-toby">-->
-<!--          <video poster="" id="toby" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/toby2.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</section>-->
 
 
 <section class="section">
@@ -276,10 +220,10 @@
         <h2 class="title is-3">Model Scope Comparison</h2>
         <div class="content has-text-justified">
     <div class="hero-body">
-        <img src="./src/method_comparison.jpg" alt="empty">
+        <img src="./src/comparison.jpg" alt="empty">
         <p>
-           We include several representative methods here. Our proposed OMG-Seg can perform various segmentation tasks in one model. SS: Semantic Segmentation. IS: Instance Segmentation.
-          PS: Panoptic Segmentation. VSS: Video Semantic Segmentation. VIS: Video Instance Segmentation. VPS: Video Panoptic Segmentation. VOS: Video Object Segmentation. Open-Set: Open-Vocabulary Segmentation.
+          Comparison of capabilities of different models. We include several representative methods here. Our OMG-LLaVA offers the most comprehensive capabilities, encompassing image-level, object-level, and pixel-level understanding and reasoning.
+          Compared to GlaMM and AnyRef, OMG-LLaVA features an elegant and simple system architecture with only a single visual encoder.
         </p>
     </div>
   </div>
@@ -309,14 +253,14 @@
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3">Method: OMG-Seg</h2>
+        <h2 class="title is-3">Method: OMG-LLaVA</h2>
         <div class="content has-text-justified">
     <div class="hero-body">
-        <img src="./src/omg_seg_method.jpg" alt="empty">
+        <img src="./src/method.jpg" alt="empty">
         <p>
-          (a), OMG-Seg follows the architecture of Mask2Former, containing a backbone (CLIP Visual Encoder), a pixel decoder, and a mask decoder. The different parts are a shared mask decoder for both image and video segmentation and a visual prompt encoder. We use two types of mask queries, i.e., semantic queries, for instance/semantic masks or mask tubes, and location queries that encode box or point prompts.
-          (b), One decoder layer in the Mask Decoder. The location queries skip the self-attention operation as they are only conditioned on the image content and the location prompts.
-          (c), The forward pass of OMG-Seg in training and inference. We use CLIP's text encoder to represent category names and classify masks by calculating cosine similarity between mask features and text embeddings
+          The Overview of OMG-LLaVA. OMG-LLaVA consists of OMG-Seg and LLM. OMG-Seg tokenizes the image into pixel-centric visual tokens, the detected objects, and inputs visual prompts into object-centric visual tokens.
+          Additionally, the [SEG] token output by LLM is decoded by OMG-Seg into segmentation masks. OMG-Seg remains frozen at all stages.
+          In particular, we present perception prior embedding method to enhance the pixel features with object prior before sending visual tokens to LLMs.
         </p>
     </div>
   </div>
@@ -328,13 +272,17 @@
 
 
 
+
+
+
+
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@article{omgseg,
-  title={OMG-Seg: Is One Model Good Enough For All Segmentation?},
-  author={Li, Xiangtai and Yuan, Haobo and Li, Wei and Ding, Henghui and Wu, Size and Zhang, Wenwei and Li, Yining and Chen, Kai and Loy, Chen Change},
-  journal={arXiv},
+    <pre><code>@article{OMGLLaVA,
+  title={OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding},
+  author={Zhang, Tao and Li, Xiangtai and Fei, Hao and Yuan, Haobo and Wu, Shengqiong and Ji, Shunping and Chen, Change Loy and Yan, Shuicheng},
+  journal={arXiv preprint},
   year={2024}
 }</code></pre>
   </div>
