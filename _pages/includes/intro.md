@@ -1,4 +1,4 @@
-I am **Xiangtai Li (李祥泰)**, working as a Research Scientist at ByteDance/Tiktok (Singapore) for computer vision and related problems, led by [Prof.Jiashi Feng](https://sites.google.com/site/jshfeng/home).
+I am **Xiangtai Li (李祥泰)**, working as a **Research Scientist** at ByteDance/Tiktok (Singapore) for computer vision and related problems, led by [Prof.Jiashi Feng](https://sites.google.com/site/jshfeng/home).
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and research intern or research scientist in JD Exploration Academy / Sensetime / Shanghai AI Laboratory / 2050 Research.
 
