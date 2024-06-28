@@ -2,6 +2,7 @@
 
 [//]: # (- *2024.04*： 🔥🔥 Checkout our Mamba works. [Point Cloud Mamba]&#40;https://arxiv.org/abs/2403.00762&#41;, [MambaAD]&#40;https://arxiv.org/abs/2404.06564&#41;, and [DGMamba]&#40;https://arxiv.org/abs/2404.07794&#41;. )
 [//]: # (- *2024.04*： 🔥🔥 Checkout our open-sourced codebase [ADer]&#40;https://github.com/zhangzjn/ader&#41;, which implements several state-of-the-art anomaly detection AD methods.)
+- *2024.06*： 🔥🔥 Checkout our recent works on MLLM and generation, [OMG-LLaVA](https://arxiv.org/abs/2406.19389), [RWKV-SAM](https://arxiv.org/abs/2406.19369), [MotionBooth](https://arxiv.org/abs/2406.17758), [SeTok](https://arxiv.org/abs/2406.05127)
 - *2024.04*： 🔥🔥 Checkout our new video segmentation work [DVIS-DAQ](https://arxiv.org/abs/2404.00086), which achieves the new state-of-the-art results on multiple video segmentation benchmarks.
 - *2024.04*： 🔥🔥 Checkout [Point Cloud Mamba](https://arxiv.org/abs/2403.00762), the first SSMs-model that performs better than PointMLP and PointTransformer!
 - *2024.03*： 🔥🔥 The codebase of OMG-Seg is open-sourced! [link](https://github.com/lxtGH/OMG-Seg). This is the first codebase support joint image/video/multi-data/interactive segmentation co-training and testing!
