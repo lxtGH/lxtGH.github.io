@@ -34,7 +34,7 @@
       <strong>T-PAMI-2022 <span style="color:red"> The first End-to-End Vision Transformer for Video Object Detection and STOA results on Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 
-##  Recent Arxiv Works
+##  Recent Works
 
 These are several interesting works that I deeply involved in the past months.
 
@@ -45,7 +45,7 @@ These are several interesting works that I deeply involved in the past months.
 
 <li><a href="https://arxiv.org/abs/2401.02955"> Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively </a>,  
    Haobo Yuan, <strong> Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
-    <strong>Arxiv-2024 <span style="color:red"> Bind SAM and CLIP in one model and achieve open vocabulary recognition and segmentation. </span> </strong> | <a href="https://www.mmlab-ntu.com/project/ovsam">Code</a> </li>
+    <strong>ECCV-2024 <span style="color:red"> Bind SAM and CLIP in one model and achieve open vocabulary recognition and segmentation. </span> </strong> | <a href="https://www.mmlab-ntu.com/project/ovsam">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2312.06660"> EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM </a>,  
    Chong Zhou, <strong>Xiangtai Li</strong>, Chen Change Loy, Bo Dai
@@ -57,7 +57,7 @@ These are several interesting works that I deeply involved in the past months.
 
 <li><a href="https://arxiv.org/abs/2404.00086"> DVIS-DAQ: Improving Video Segmentation via Dynamic Anchor Queries </a>,  
        Yikang Zhou, Tao Zhang, Shunping Ji, Shuicheng Yan, <strong> Xiangtai Li </strong>,
-      <strong>Arxiv-2024 <span style="color:red"> Dynamic anchor query design for long and complex video segmentation </span> </strong> | <a href="https://github.com/SkyworkAI/DAQ-VS">Code</a> </li>
+      <strong>ECCV-2024 <span style="color:red"> Dynamic anchor query design for long and complex video segmentation </span> </strong> | <a href="https://github.com/SkyworkAI/DAQ-VS">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2402.02555"> Generalizable Entity Grounding via Assistance of Large Language Model</a>,  
    Lu Qi, Yi-Wen Chen, Lehan Yang, Tiancheng Shen, <strong>Xiangtai Li</strong>, Weidong Guo, Yu Xu, Ming-Hsuan Yang,
