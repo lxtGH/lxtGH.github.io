@@ -38,6 +38,13 @@
 
 These are several interesting works that I deeply involved in the past months.
 
+<li><a href="https://arxiv.org/pdf/2406.19389"> OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding </a>,  
+    Tao Zhang,  <strong>Xiangtai Li</strong>, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan,
+      <strong>Arxiv-2024 <span style="color:red"> Unify Image-level, Object-leve, and Pixel-level instruction tuning in one framework. </span> </strong> | <a href="https://lxtgh.github.io/project/omg_llava/">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2406.17758">MotionBooth: Motion-Aware Customized Text-to-Video Generation</a>,  
+    Jianzong Wu, <strong>Xiangtai Li</strong>, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen
+      <strong>Arxiv-2024 <span style="color:red"> A novel motion-aware object customization for video generation. </span> </strong> | <a href="https://jianzongwu.github.io/projects/motionbooth/">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2405.17427"> Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model </a>,  
     Kuan-Chih Huang,  <strong> Xiangtai Li </strong>, Lu Qi, Shuicheng Yan, Ming-Hsuan Yang,
