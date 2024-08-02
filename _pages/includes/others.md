@@ -6,9 +6,11 @@
 - *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on [ICCV-2021](https://motchallenge.net/workshops/bmtt2021/) Track2 (Project Leader and First Author).
 
 
-# 📖 Educations
-- *2017.09 - 2022.07*, PhD in Peking University (PKU).
-- *2013.09 - 2017.07*, Bachelor in Beijing University of Posts and Telecommunications (BUPT).
+[//]: # (# 📖 Educations)
+
+[//]: # (- *2017.09 - 2022.07*, PhD in Peking University &#40;PKU&#41;.)
+
+[//]: # (- *2013.09 - 2017.07*, Bachelor in Beijing University of Posts and Telecommunications &#40;BUPT&#41;.)
 
 
 # 💬 Invited Talks
@@ -26,7 +28,6 @@
 [//]: # (- JD AI &#40;remote cooperation&#41;, mentored by Dr. Yibo Yang and Prof. Dacheng Tao.)
 
 [//]: # (- DeepMotion &#40;Now Xiaomi Car&#41;, mentored by Dr. Kuiyuan Yang. )
-- Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.
 
 [//]: # (- I was mentored by [Dr.Kuiyuan Yang]&#40;https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN&#41;, [Prof.Li Zhang]&#40;http://www.robots.ox.ac.uk/~lz/&#41;, [Dr.Guangliang Cheng]&#40;https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN&#41;, )
 
