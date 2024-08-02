@@ -19,10 +19,13 @@
 - *2021.10* Invited talk on Aligned Segmentation HuaWei Noah Auto-Driving Group.
 
 
-# 💻 Internships
-- SenseTime, mentored by Dr.Guangliang Cheng and Dr. Jianping Shi.
-- JD AI (remote cooperation), mentored by Dr. Yibo Yang and Prof. Dacheng Tao.
-- DeepMotion (Now Xiaomi Car), mentored by Dr. Kuiyuan Yang. 
+[//]: # (# 💻 Internships)
+
+[//]: # (- SenseTime, mentored by Dr. Guangliang Cheng and Dr. Jianping Shi.)
+
+[//]: # (- JD AI &#40;remote cooperation&#41;, mentored by Dr. Yibo Yang and Prof. Dacheng Tao.)
+
+[//]: # (- DeepMotion &#40;Now Xiaomi Car&#41;, mentored by Dr. Kuiyuan Yang. )
 - Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.
 
 [//]: # (- I was mentored by [Dr.Kuiyuan Yang]&#40;https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN&#41;, [Prof.Li Zhang]&#40;http://www.robots.ox.ac.uk/~lz/&#41;, [Dr.Guangliang Cheng]&#40;https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN&#41;, )

@@ -4,15 +4,24 @@
 - *2024.07*： &nbsp;🎉🎉Our Transformer Survey is finally accepted by T-PAMI. [Arxiv](https://arxiv.org/abs/2304.09854).
 - *2024.07*： 🔥🔥 Checkout our recent Universal Dense MLLM Model, OMG-LLaVA, [project](https://lxtgh.github.io/project/omg_llava/), [code](https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava).
 - *2024.07*： &nbsp;🎉🎉 [DVIS-DAQ](https://zhang-tao-whu.github.io/projects/DVIS_DAQ/), [Open-Vocabulary SAM](https://www.mmlab-ntu.com/project/ovsam/), [FaceAdapter](https://github.com/FaceAdapter/Face-Adapter), and [GenView](https://arxiv.org/pdf/2403.12003) are accepted by ECCV-2024.
-- *2024.06*： 🔥🔥 Checkout our recent works on diffusion models, [MotionBooth](https://arxiv.org/abs/2406.17758), [SemFlow]().
-- *2024.06*： 🔥🔥 Checkout our recent works on MLLM and new architecture design, [OMG-LLaVA](https://arxiv.org/abs/2406.19389), [RWKV-SAM](https://arxiv.org/abs/2406.19369), [MotionBooth](https://arxiv.org/abs/2406.17758), [SeTok](https://arxiv.org/abs/2406.05127) and [Reason3D](https://arxiv.org/abs/2405.17427).
-- *2024.04*： 🔥🔥 Checkout our new video segmentation work [DVIS-DAQ](https://arxiv.org/abs/2404.00086), which achieves the new state-of-the-art results on multiple video segmentation benchmarks.
-- *2024.04*： 🔥🔥 Checkout [Point Cloud Mamba](https://arxiv.org/abs/2403.00762), the first SSMs-model that performs better than PointMLP and PointTransformer!
-- *2024.03*： 🔥🔥 The codebase of OMG-Seg is open-sourced! [link](https://github.com/lxtGH/OMG-Seg). This is the first codebase support joint image/video/multi-data/interactive segmentation co-training and testing!
-- *2024.03*： &nbsp;🎉🎉 Give a talk of open-world segmentation (Beyond SAM) at [VALSE](http://valser.org/), [Slides](../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf) [Video](https://www.bilibili.com/video/BV1PZ421b7U7/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967).
-- *2024.02*： &nbsp;🎉🎉 OMG-Seg is accepted by CVPR-24. Along with OMG-Seg, five works are accepted by CVPR-24! [BA-SAM](https://arxiv.org/abs/2401.02317), [RTMO](https://arxiv.org/abs/2312.07526), [Skeleton-in-Context](https://arxiv.org/abs/2312.03703), and [language-driven video inpainting](https://arxiv.org/abs/2401.10226). 
-- *2024.02*: Checkout several recent works on segmentation and recognition, [OMG-Seg](https://arxiv.org/abs/2401.10229), [Open-Vocabulary SAM](https://arxiv.org/abs/2401.02955) and [RAP-SAM](https://arxiv.org/abs/2401.10228).
-- *2024.01*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2306.15880"> Our survey </a> on Open Vocabulary Learning is accepted by T-PAMI.
+
+[//]: # (- *2024.06*： 🔥🔥 Checkout our recent works on diffusion models, [MotionBooth]&#40;https://arxiv.org/abs/2406.17758&#41;, [SemFlow]&#40;&#41;.)
+
+[//]: # (- *2024.06*： 🔥🔥 Checkout our recent works on MLLM and new architecture design, [OMG-LLaVA]&#40;https://arxiv.org/abs/2406.19389&#41;, [RWKV-SAM]&#40;https://arxiv.org/abs/2406.19369&#41;, [MotionBooth]&#40;https://arxiv.org/abs/2406.17758&#41;, [SeTok]&#40;https://arxiv.org/abs/2406.05127&#41; and [Reason3D]&#40;https://arxiv.org/abs/2405.17427&#41;.)
+
+[//]: # (- *2024.04*： 🔥🔥 Checkout our new video segmentation work [DVIS-DAQ]&#40;https://arxiv.org/abs/2404.00086&#41;, which achieves the new state-of-the-art results on multiple video segmentation benchmarks.)
+
+[//]: # (- *2024.04*： 🔥🔥 Checkout [Point Cloud Mamba]&#40;https://arxiv.org/abs/2403.00762&#41;, the first SSMs-model that performs better than PointMLP and PointTransformer!)
+
+[//]: # (- *2024.03*： 🔥🔥 The codebase of OMG-Seg is open-sourced! [link]&#40;https://github.com/lxtGH/OMG-Seg&#41;. This is the first codebase support joint image/video/multi-data/interactive segmentation co-training and testing!)
+
+[//]: # (- *2024.03*： &nbsp;🎉🎉 Give a talk of open-world segmentation &#40;Beyond SAM&#41; at [VALSE]&#40;http://valser.org/&#41;, [Slides]&#40;../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf&#41; [Video]&#40;https://www.bilibili.com/video/BV1PZ421b7U7/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967&#41;.)
+
+[//]: # (- *2024.02*： &nbsp;🎉🎉 OMG-Seg is accepted by CVPR-24. Along with OMG-Seg, five works are accepted by CVPR-24! [BA-SAM]&#40;https://arxiv.org/abs/2401.02317&#41;, [RTMO]&#40;https://arxiv.org/abs/2312.07526&#41;, [Skeleton-in-Context]&#40;https://arxiv.org/abs/2312.03703&#41;, and [language-driven video inpainting]&#40;https://arxiv.org/abs/2401.10226&#41;. )
+
+[//]: # (- *2024.02*: Checkout several recent works on segmentation and recognition, [OMG-Seg]&#40;https://arxiv.org/abs/2401.10229&#41;, [Open-Vocabulary SAM]&#40;https://arxiv.org/abs/2401.02955&#41; and [RAP-SAM]&#40;https://arxiv.org/abs/2401.10228&#41;.)
+
+[//]: # (- *2024.01*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2306.15880"> Our survey </a> on Open Vocabulary Learning is accepted by T-PAMI.)
 
 [//]: # (- *2023.12*: Checkout [EdgeSAM]&#40;https://arxiv.org/abs/2312.06660&#41;, a mobile SAM that can run on iPhone! )
 
