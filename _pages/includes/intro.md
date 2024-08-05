@@ -8,7 +8,7 @@ I had lots of industry research experience as research intern or research scient
 
 My research topics are:
  
-Multi-modal learning with LLMs. (Connect visual perception with Large language models) and Image, Video Generation / Synthesis / Editing.
+Multi-modal learning with LLMs and Image, Video Generation / Synthesis / Editing / Segmentation.
 
 Previously, I did some works on image/video segmentation and detection, open world learning.
 
@@ -16,4 +16,4 @@ Moreover, the code and models for my works (maybe 98%), including the ones I hav
 
 Find the code and models [here](https://github.com/lxtGH).
 
-I serves as a regular reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV.
+I serve as a regular reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV.
