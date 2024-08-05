@@ -32,4 +32,5 @@
 
 Code can be found in [this](https://github.com/lxtGH).
 
-Full publication can be found in [Google Scholar](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN)
+[//]: # ()
+[//]: # (Full publication can be found in [Google Scholar]&#40;https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN&#41;x/)

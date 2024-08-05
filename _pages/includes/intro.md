@@ -16,4 +16,4 @@ Moreover, the code and models for my works (maybe 98%), including the ones I hav
 
 Find the code and models [here](https://github.com/lxtGH).
 
-[//]: # (- Regular Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI and Journal Reviewer For IEEE-TIP, IEEE-TPAMI, IJCV.)
+I serves as a regular reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV.
