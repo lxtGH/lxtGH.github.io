@@ -12,8 +12,6 @@ Multi-modal learning with LLMs and Image, Video Generation / Synthesis / Editing
 
 Previously, I did some works on image/video segmentation and detection, open world learning.
 
-Moreover, the code and models for my works (maybe 98%), including the ones I have deeply contributed to, are open-sourced on GitHub.
-
-Find the code and models [here](https://github.com/lxtGH).
+Moreover, the code and models for my works (maybe 98%), including the ones I have deeply contributed to, are open-sourced on [GitHub](https://github.com/lxtGH).
 
 I serve as a regular reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV.
