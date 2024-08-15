@@ -10,7 +10,7 @@
      <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
       <strong>CVPR 2024 <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
 
-<li><a href="https://arxiv.org/abs/2401.10229">Transformer-Based Visual Segmentation: A Survey</a>,  
+<li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
      <strong>Xiangtai Li</strong>, Henghui Ding, Haobo Yuan, Wenwei Zhang, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
       <strong>T-PAMI 2024 <span style="color:red"> The first survey that summarizes the transformer-based segmentation method from technical views. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
 
