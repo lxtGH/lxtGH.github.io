@@ -1,10 +1,10 @@
 # 🔥 News
 
 [//]: # (- *2024.04*： 🔥🔥 Checkout our Mamba works. [Point Cloud Mamba]&#40;https://arxiv.org/abs/2403.00762&#41;, [MambaAD]&#40;https://arxiv.org/abs/2404.06564&#41;, and [DGMamba]&#40;https://arxiv.org/abs/2404.07794&#41;. )
+- *2024.08*： Selected as an Area Chair For ICLR-2025. 
 - *2024.07*： &nbsp;🎉🎉Our Transformer Survey is finally accepted by T-PAMI. [Arxiv](https://arxiv.org/abs/2304.09854).
 - *2024.07*： 🔥🔥 Checkout our recent Universal Dense MLLM Model, OMG-LLaVA, [project](https://lxtgh.github.io/project/omg_llava/), [code](https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava).
-
-[//]: # (- *2024.07*： &nbsp;🎉🎉 [DVIS-DAQ]&#40;https://zhang-tao-whu.github.io/projects/DVIS_DAQ/&#41;, [Open-Vocabulary SAM]&#40;https://www.mmlab-ntu.com/project/ovsam/&#41;, [FaceAdapter]&#40;https://github.com/FaceAdapter/Face-Adapter&#41;, and [GenView]&#40;https://arxiv.org/pdf/2403.12003&#41; are accepted by ECCV-2024.)
+- *2024.07*： &nbsp;🎉🎉 [DVIS-DAQ](https://zhang-tao-whu.github.io/projects/DVIS_DAQ/), [Open-Vocabulary SAM](https://www.mmlab-ntu.com/project/ovsam/), [FaceAdapter](https://github.com/FaceAdapter/Face-Adapter), and [GenView](https://arxiv.org/pdf/2403.12003) are accepted by ECCV-2024. All code and models are released.
 
 [//]: # (- *2024.06*： 🔥🔥 Checkout our recent works on diffusion models, [MotionBooth]&#40;https://arxiv.org/abs/2406.17758&#41;, [SemFlow]&#40;&#41;.)
 
