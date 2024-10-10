@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiangtai Li"
-description              : "Research on Scene Understanding"
+description              : "Researcher in Multi-modal Learning and Computer Vision"
 repository               : "lxtGH/lxtGH.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangtai Li"
   avatar           : "images/avatar_scholar_256.png"
-  bio              : "Research Fellow in NTU. Previous PhD in PKU"
+  bio              : "Research Scientist in Tiktok, Research Fellow in NTU / PhD in PKU"
   location         : "Singapore"
   employer         :
   pubmed           : 
