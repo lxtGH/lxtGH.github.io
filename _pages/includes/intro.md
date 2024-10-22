@@ -1,5 +1,4 @@
 I am **Xiangtai Li**, I work on computer vision, multi-modal learning and related problems.
-Currently, I work as a Research Scientist in Tiktok / Bytedance, Singapore. 
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 

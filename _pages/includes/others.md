@@ -12,11 +12,11 @@
 
 [//]: # ()
 
-[//]: # (# 📖 Educations)
+# 📖 Educations
 
-[//]: # (- *2017.09 - 2022.07*, PhD in Peking University &#40;PKU&#41;.)
+- *2017.09 - 2022.07*, PhD in Peking University (PKU).
 
-[//]: # (- *2013.09 - 2017.07*, Bachelor in Beijing University of Posts and Telecommunications &#40;BUPT&#41;.)
+- *2013.09 - 2017.07*, Bachelor in Beijing University of Posts and Telecommunications (BUPT).
 
 
 # 💬 Invited Talks
@@ -35,7 +35,7 @@
 
 - JD AI (remote cooperation), mentored by Dr. Yibo Yang and Prof. Dacheng Tao.
 
-- DeepMotion (Now Xiaomi Car), mentored by Dr. Kuiyuan Yang. 
+- DeepMotion (Now Xiaomi Car), mentored by Dr. Kuiyuan Yang.
 
 [//]: # (- I was mentored by [Dr.Kuiyuan Yang]&#40;https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN&#41;, [Prof.Li Zhang]&#40;http://www.robots.ox.ac.uk/~lz/&#41;, [Dr.Guangliang Cheng]&#40;https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN&#41;, )
 
