@@ -1,5 +1,7 @@
 I am **Xiangtai Li**, I work on computer vision, multi-modal learning and related problems.
 
+I am working as a Research Scientist in Bytedance (Tiktok), Singapore.
+
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
 I obtained my PhD degree at Peking University (PKU) under the supervision of [Prof.Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree at Beijing University of Posts and Telecommunications (BUPT).
