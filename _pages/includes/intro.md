@@ -1,6 +1,6 @@
 I am **Xiangtai Li**, I work on computer vision, multi-modal learning and related problems.
 
-I am working as a Research Scientist in Bytedance (Tiktok), Singapore.
+I am working as a **Research Scientist** in Bytedance Seed (Tiktok), Singapore.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
