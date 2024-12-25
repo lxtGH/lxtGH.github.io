@@ -9,12 +9,12 @@ I obtained my PhD degree at Peking University (PKU) under the supervision of [Pr
 Previously, I worked as research intern or research scientist in DeepMotion (Now Xiaomi Car) / JD Exploration Academy / Sensetime Research / Shanghai AI Laboratory / Skywork 2050 Research, with several research outputs on top conference and journals. 
 
 My research topics are:
- 
-Large Language Models (LLM) and Auto-regressive model.
 
 Multi-modal learning with LLMs (MLLM): Benchmarking, New Architecture Design, Unified Modeling.
 
-Diffusion Models, Image/Video Generation, Editing and Synthesis.
+Large Language Models (LLM) and Auto-regressive model.
+
+Image/Video Generation, Editing and Synthesis. (Diffusion Models)
 
 
 Previously, I did some works on image/video segmentation and detection, open vocabulary learning.
@@ -24,5 +24,3 @@ Moreover, the code and models for my works (maybe 98%), including the ones I hav
 I serve as a regular reviewer for lots of conference and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, IEEE-TGRS, Remote Sensing.
 
 I also serve as an area chair for ICLR-2025, ICML-2025, and ICCV-2025.
-
-Remote discussion and cooperation is welcome!
