@@ -1,7 +1,9 @@
 # 🔥 News
 
 [//]: # (- *2024.04*： 🔥🔥 Checkout our Mamba works. [Point Cloud Mamba]&#40;https://arxiv.org/abs/2403.00762&#41;, [MambaAD]&#40;https://arxiv.org/abs/2404.06564&#41;, and [DGMamba]&#40;https://arxiv.org/abs/2404.07794&#41;. )
-- *2024.12*   &nbsp; 🔥🔥Serving as an Area Chair for both ICML-2025 and ICCV-2025!
+
+- *2025.01*   &nbsp; 🔥🔥 Checkout our recent works on video MLLM, [Sa2VA](https://arxiv.org/abs/2501.04001), combine both SAM-2 and LLaVA in one-shot.
+- *2024.12*   &nbsp; 🔥🔥 Serving as an Area Chair for both ICML-2025 and ICCV-2025!
 - *2024.12*   &nbsp;🎉🎉 Several works on AAAI-2025 and 3DV-2025. [Point Cloud Mamba](https://arxiv.org/abs/2403.00762), [Point RWKV](https://arxiv.org/abs/2405.15214), [LDM-Seg](https://arxiv.org/abs/2403.09616), [ReasonSeg3D](https://arxiv.org/abs/2405.17427).
 - *2024.09*： &nbsp;🎉🎉 Several works on NeurIPS-2024. [OMG-LLaVA](https://arxiv.org/abs/2406.19389), [MotionBooth](https://arxiv.org/abs/2406.17758) (<span style="color:red">spotlight</span>), [SemFlow](https://arxiv.org/abs/2405.20282), [MamabaAD](https://arxiv.org/abs/2404.06564). Thanks for all co-authors' help!
 - *2024.07*： &nbsp;🎉🎉 Our Transformer Survey is finally accepted by T-PAMI. [Arxiv](https://arxiv.org/abs/2304.09854).
