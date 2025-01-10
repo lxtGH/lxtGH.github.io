@@ -181,75 +181,127 @@
   </div>
 </section>
 
-
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
         <img src="./src/Sa2VA_teaser.png" alt="empty">
         <p>
-           Figure-1: Illustration of capabilities of our proposed Sa2VA. (a). Given a video, Sa2VA is able to segment the referred object and understand the whole scene. (b).Sa2VA supports image conversation, video conversation, image referring segmentation, video referring segmentation, and grounded caption generation with single-shot instruction-tuning. (c).Sa2VA achieves strong results on multiple images, video referring segmentation, and chat benchmarks compared with existing MLLMs, such as GLaMM and OMG-LLaVA
+           Sa2VA is able to segment the referred object and understand the whole scene, and supports image conversation, video conversation, image referring segmentation, video referring segmentation, and grounded caption generation with single-shot instruction-tuning. Sa2VA achieves strong results on multiple images, video referring segmentation, and chat benchmarks compared with existing MLLMs, such as GLaMM and OMG-LLaVA.
         </p>
     </div>
   </div>
 </section>
 
 
-<!--<section class="hero is-light is-small">-->
-<!--  <div class="hero-body">-->
-<!--    <div class="container">-->
-<!--      <div id="results-carousel" class="carousel results-carousel">-->
-<!--        <div class="item item-steve">-->
-<!--          <video poster="" id="steve" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/steve.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-chair-tp">-->
-<!--          <video poster="" id="chair-tp" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/chair-tp.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-shiba">-->
-<!--          <video poster="" id="shiba" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/shiba.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-fullbody">-->
-<!--          <video poster="" id="fullbody" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/fullbody.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-blueshirt">-->
-<!--          <video poster="" id="blueshirt" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/blueshirt.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-mask">-->
-<!--          <video poster="" id="mask" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/mask.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-coffee">-->
-<!--          <video poster="" id="coffee" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/coffee.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--        <div class="item item-toby">-->
-<!--          <video poster="" id="toby" autoplay controls muted loop playsinline height="100%">-->
-<!--            <source src="../static/videos/toby2.mp4"-->
-<!--                    type="video/mp4">-->
-<!--          </video>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</section>-->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-1">Demos</h2>
+        <div class="content has-text-justified">
+          
+          <div class="hero-body">
+            <p>
+              (Demo 1) Input Video (Source: La La Land, 2016):
+            </p>
+            <video poster autoplay loop muted playsinline>
+                <source src="video/exp_1.mp4" type="video/mp4">
+                Error: Your browser does not support the video tag.
+            </video>
+            
+            <p>
+              Instruction: "Please segment the girl wearing the yellow dress."
+            </p>
+          </div>
+
+          <div class="hero-body">
+            <p>
+              (Demo 2) Input Video (Source: La La Land, 2016):
+            </p>
+            <video autoplay loop muted>
+                <source src="video/exp_2.mp4" type="video/mp4">
+                Error: Your browser does not support the video tag.
+            </video>
+            <p>
+              Instruction: "Please segment the main character."
+            </p>
+          </div>
+          
+          <div class="hero-body">
+            <p>
+              (Demo 3) Input Video (Source: Internet):
+            </p>
+            <video autoplay loop muted>
+                <source src="video/apt_exp_1_all.mp4" type="video/mp4">
+                Error: Your browser does not support the video tag.
+            </video>
+            <p>
+              Instruction: "Please segment the person wearing sun glasses."
+            </p>
+          </div>
+
+          <div class="hero-body">
+            <p>
+              (Demo 4) Input Video (Source: Internet):
+            </p>
+            <video autoplay loop muted>
+                <source src="video/apt_exp_2_all.mp4" type="video/mp4">
+                Error: Your browser does not support the video tag.
+            </video>
+            <p>
+              Instruction: "Please segment the singing girl."
+            </p>
+          </div>
+
+          <div class="hero-body">
+            <p>
+              (Demo 5) Input Video (Source: Internet):
+            </p>
+            <video autoplay loop muted>
+                <source src="video/baodao_exp_1_all.mp4" type="video/mp4">
+                Error: Your browser does not support the video tag.
+            </video>
+            <p>
+              Instruction: "Please segment the guy in the center."
+            </p>
+          </div>
+
+          <div class="hero-body">
+            <p>
+              (Demo 6) Input Video (Source: The Godfather, 1972):
+            </p>
+            <video autoplay loop muted>
+                <source src="video/gf_exp1.mp4" type="video/mp4">
+                Error: Your browser does not support the video tag.
+            </video>
+            <p>
+              Instruction: "What is the atmosphere of the scene?"
+            </p>
+            <p>
+              Answer: "The scene has a dark and mysterious atmosphere, with the men dressed in suits and ties, and the dimly lit room."
+          </div>
+
+          <div class="hero-body">
+            <p>
+              (Demo 7) Input Video (Source: Internet):
+            </p>
+            <video autoplay loop muted>
+                <source src="video/exp_baodao_1.mp4" type="video/mp4">
+                Error: Your browser does not support the video tag.
+            </video>
+            <p>
+              Instruction: "What are the guys doing in the video?"
+            </p>
+            <p>
+              Answer: "The guys in the video are dancing together in a group. They are performing a choreographed routine, moving in sync with each other."
+          </div>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 
 <section class="section">
@@ -288,21 +340,6 @@
   </div>
 
 </section>
-
-
-<!--    &lt;!&ndash; Paper video. &ndash;&gt;-->
-<!--    <div class="columns is-centered has-text-centered">-->
-<!--      <div class="column is-four-fifths">-->
-<!--        <h2 class="title is-3">Video</h2>-->
-<!--        <div class="publication-video">-->
-<!--          <iframe src="https://www.youtube.com/embed/XHPDzhNg9Ss?rel=0&amp;showinfo=0"-->
-<!--                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--    &lt;!&ndash;/ Paper video. &ndash;&gt;-->
-<!--  </div>-->
-<!--</section>-->
 
 
     <section class="setting teaser">
@@ -361,137 +398,6 @@
       </div>
       </div>
   </div>
-
-</section>
-
-
-<section class="setting teaser">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Demos</h2>
-        <div class="content has-text-justified">
-
-        <div class="hero-body">
-          <p>
-            (Demo 1)Input Video (Source: La La Land, 2016):
-          </p>
-          <video autoplay loop muted>
-              <source src="video/exp_1_img.mp4" type="video/mp4">
-              Error: Your browser does not support the video tag.
-          </video>
-          <p>
-            Instruction: "Please segment the girl wearing the yellow dress."
-          </p>
-          <video autoplay loop muted>
-            <source src="video/exp_1_vis.mp4" type="video/mp4">
-            Error: Your browser does not support the video tag.
-        </video>
-        </div>
-
-        <div class="hero-body">
-          <p>
-            (Demo 2) Input Video (Source: La La Land, 2016):
-          </p>
-          <video autoplay loop muted>
-              <source src="video/exp_2_img.mp4" type="video/mp4">
-              Error: Your browser does not support the video tag.
-          </video>
-          <p>
-            Instruction: "Please segment the main character."
-          </p>
-          <video autoplay loop muted>
-            <source src="video/exp_2_vis.mp4" type="video/mp4">
-            Error: Your browser does not support the video tag.
-        </video>
-        </div>
-
-        <div class="hero-body">
-          <p>
-            (Demo 3) Input Video (Source: The Godfather, 1972):
-          </p>
-          <video autoplay loop muted>
-              <source src="video/gf_exp1.mp4" type="video/mp4">
-              Error: Your browser does not support the video tag.
-          </video>
-          <p>
-            Instruction: "What is the atmosphere of the scene?"
-          </p>
-          <p>
-            Answer: "The scene has a dark and mysterious atmosphere, with the men dressed in suits and ties, and the dimly lit room."
-        </div>
-        
-        <div class="hero-body">
-          <p>
-            (Demo 4) Input Video (Source: Internet):
-          </p>
-          <video autoplay loop muted>
-              <source src="video/exp_apt_1.mp4" type="video/mp4">
-              Error: Your browser does not support the video tag.
-          </video>
-          <p>
-            Instruction: "Please segment the person wearing sun glasses."
-          </p>
-          <video autoplay loop muted>
-            <source src="video/exp_apt_1_vis.mp4" type="video/mp4">
-            Error: Your browser does not support the video tag.
-        </video>
-        </div>
-
-        <div class="hero-body">
-          <p>
-            (Demo 5) Input Video (Source: Internet):
-          </p>
-          <video autoplay loop muted>
-              <source src="video/exp_apt_2.mp4" type="video/mp4">
-              Error: Your browser does not support the video tag.
-          </video>
-          <p>
-            Instruction: "Please segment the singing girl."
-          </p>
-          <video autoplay loop muted>
-            <source src="video/exp_apt_2_vis.mp4" type="video/mp4">
-            Error: Your browser does not support the video tag.
-        </video>
-        </div>
-
-        <div class="hero-body">
-          <p>
-            (Demo 6) Input Video (Source: Internet):
-          </p>
-          <video autoplay loop muted>
-              <source src="video/exp_baodao_1.mp4" type="video/mp4">
-              Error: Your browser does not support the video tag.
-          </video>
-          <p>
-            Instruction: "What are the guys doing in the video?"
-          </p>
-          <p>
-            Answer: "The guys in the video are dancing together in a group. They are performing a choreographed routine, moving in sync with each other."
-        </div>
-
-        <div class="hero-body">
-          <p>
-            (Demo 7) Input Video (Source: Internet):
-          </p>
-          <video autoplay loop muted>
-              <source src="video/exp_baodao_1.mp4" type="video/mp4">
-              Error: Your browser does not support the video tag.
-          </video>
-          <p>
-            Instruction: "Please segment the guy in the center."
-          </p>
-          <video autoplay loop muted>
-            <source src="video/exp_baodao_1_vis.mp4" type="video/mp4">
-            Error: Your browser does not support the video tag.
-        </video>
-        </div>
-
-      
-        </div>
-        </div>
-      </div>
-    </div>
 </section>
 
 
