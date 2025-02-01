@@ -1,12 +1,12 @@
-[//]: # (# 🎖 Honors and Awards)
+# 🎖 Honors and Awards
 
-[//]: # (- National Scholarship, Ministry of Education of China in PKU &#40;year 2020-2021&#41; &#40;year 2019-2020&#41;.)
+- National Scholarship, Ministry of Education of China in PKU (year 2020-2021) (year 2019-2020).
 
-[//]: # (- President Scholarship of PKU &#40;year 2020-2021&#41;.)
+- President Scholarship of PKU (year 2020-2021).
 
-[//]: # (- *2017, 2022* Beijing Excellent Graduates.)
+- *2017, 2022* Beijing Excellent Graduates.
 
-[//]: # (- *2017, 2022* BUPT Excellent Graduates, PKU Excellent Graduates.)
+- *2017, 2022* BUPT Excellent Graduates, PKU Excellent Graduates.
 
 [//]: # (- *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on [ICCV-2021]&#40;https://motchallenge.net/workshops/bmtt2021/&#41; Track2 &#40;Project Leader and First Author&#41;.)
 
@@ -31,13 +31,10 @@
 
 # 💻 Internships
 
-- SenseTime, mentored by Dr. Guangliang Cheng and Dr. Jianping Shi.
+- SenseTime Research, mentored by Dr. Guangliang Cheng and Dr. Jianping Shi.
 
-- JD AI (remote cooperation), mentored by Dr. Yibo Yang and Prof. Dacheng Tao.
+- JD AI Lab (remote cooperation), mentored by Dr. Yibo Yang and Prof. Dacheng Tao.
 
 - DeepMotion (Now Xiaomi Car), mentored by Dr. Kuiyuan Yang.
 
-[//]: # (- I was mentored by [Dr.Kuiyuan Yang]&#40;https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN&#41;, [Prof.Li Zhang]&#40;http://www.robots.ox.ac.uk/~lz/&#41;, [Dr.Guangliang Cheng]&#40;https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN&#41;, )
-
-[//]: # ()
-[//]: # ([Dr.Yibo Yang]&#40;https://iboing.github.io/&#41;, [Prof.Dacheng Tao]&#40;https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&#41;, [Prof.Zhouchen Lin]&#40;https://zhouchenlin.github.io/&#41;, [[Dr.Jiangmiao Pang]&#40;https://oceanpang.github.io/&#41; during the PhD study.)
+- I was mentored by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN),[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [[Dr.Jiangmiao Pang](https://oceanpang.github.io/) during my PhD study.
