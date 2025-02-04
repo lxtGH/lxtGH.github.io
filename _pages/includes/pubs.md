@@ -11,7 +11,7 @@
 
 <li><a href="https://arxiv.org/abs/2501.04670">Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs</a>,  
     Yikang Zhou, Tao Zhang, Shilin Xu, Shihao Chen, Qianyu Zhou, Yunhai Tong, Shunping Ji, Jiangning Zhang, <strong>Xiangtai Li</strong>, Lu Qi
-      <strong><span style="color:red"> The first MMLM matching benchmark. </span> </strong> | <a href="https://zhouyiks.github.io/projects/CoLVA/">Project Page</a> </li>
+      <strong><span style="color:red"> The first MLLM visual matching benchmark and a simple contrastive token solution. </span> </strong> | <a href="https://zhouyiks.github.io/projects/CoLVA/">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2412.07589">DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation</a>,  
      Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, <strong>Xiangtai Li</strong>, Yunhai Tong
