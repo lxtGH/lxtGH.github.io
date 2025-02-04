@@ -8,9 +8,6 @@
 
 - *2017, 2022* BUPT Excellent Graduates, PKU Excellent Graduates.
 
-[//]: # (- *2021.11* Winner of Segmenting and Tracking Every Point and Pixel: 6th Workshop on [ICCV-2021]&#40;https://motchallenge.net/workshops/bmtt2021/&#41; Track2 &#40;Project Leader and First Author&#41;.)
-
-[//]: # ()
 
 # 📖 Educations
 
@@ -27,7 +24,7 @@
 - *2021.10* Invited talk on Aligned Segmentation HuaWei Noah Auto-Driving Group.
 
 
-# 💻 Internships
+# 💻 Internships and Work Experience
 
 - SenseTime Research, mentored by Dr. Guangliang Cheng and Dr. Jianping Shi.
 
@@ -35,4 +32,8 @@
 
 - DeepMotion (Now Xiaomi Car), mentored by Dr. Kuiyuan Yang.
 
-- I was mentored by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](http://www.robots.ox.ac.uk/~lz/), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN),[Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [[Dr.Jiangmiao Pang](https://oceanpang.github.io/) during my PhD study.
+- I was mentored by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](https://scholar.google.com.hk/citations?user=-wOTCE8AAAAJ&hl=vi), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), [Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/) during my PhD study.
+
+- I worked with [Prof.Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=en) at SkyworkAI Research.
+
+- I used to hold a research consultant at Shanghai AI lab, working with [Dr.Yining Li](https://scholar.google.com.hk/citations?user=y_cp1sUAAAAJ&hl=en), [Dr.Kai Chen](https://scholar.google.com.hk/citations?user=eGD0b7IAAAAJ&hl=en), [Dr.Jingbo Wang](https://scholar.google.co.uk/citations?user=GStTsxAAAAAJ&hl=zh-CN), and [Dr.Yanhong Zeng](https://scholar.google.com/citations?user=14LbnMIAAAAJ&hl=zh-CN).
