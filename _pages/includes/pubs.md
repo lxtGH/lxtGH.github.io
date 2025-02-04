@@ -3,6 +3,21 @@
 \* means equal contribution.
 
 
+## Recent Arxiv 
+
+<li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
+     Haobo Yuan, <strong>Xiangtai Li</strong>, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
+      <strong><span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
+
+<li><a href="https://arxiv.org/abs/2501.04670">Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs</a>,  
+    Yikang Zhou, Tao Zhang, Shilin Xu, Shihao Chen, Qianyu Zhou, Yunhai Tong, Shunping Ji, Jiangning Zhang, <strong>Xiangtai Li</strong>, Lu Qi
+      <strong><span style="color:red"> The first MMLM matching benchmark. </span> </strong> | <a href="https://zhouyiks.github.io/projects/CoLVA/">Project Page</a> </li>
+
+<li><a href="https://arxiv.org/abs/2412.07589">DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation</a>,  
+     Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, <strong>Xiangtai Li</strong>, Yunhai Tong
+      <strong> <span style="color:red"> The first MLLM-based generation method for customized manga generation. </span> </strong> | <a href="https://jianzongwu.github.io/projects/diffsensei/">Project Page</a> </li>
+
+
 ## Several Works
 
 
@@ -35,6 +50,3 @@
       <strong>T-PAMI 2023 <span style="color:red"> The first End-to-End Vision Transformer for Video Object Detection and STOA results on Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 Code can be found in [this](https://github.com/lxtGH).
-
-[//]: # ()
-[//]: # (Full publication can be found in [Google Scholar]&#40;https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN&#41;x/)

@@ -7,8 +7,7 @@
 - *2024.12*  &nbsp;🎉🎉 Several works on AAAI-2025 and 3DV-2025. [Point Cloud Mamba](https://arxiv.org/abs/2403.00762), [Point RWKV](https://arxiv.org/abs/2405.15214), [LDM-Seg](https://arxiv.org/abs/2403.09616), [ReasonSeg3D](https://arxiv.org/abs/2405.17427).
 - *2024.09*  &nbsp;🎉🎉 Several works on NeurIPS-2024. [OMG-LLaVA](https://arxiv.org/abs/2406.19389), [MotionBooth](https://arxiv.org/abs/2406.17758) (<span style="color:red">spotlight</span>), [SemFlow](https://arxiv.org/abs/2405.20282), [MamabaAD](https://arxiv.org/abs/2404.06564). Thanks for all co-authors' help!
 - *2024.07*  &nbsp;🎉🎉 Our Transformer Survey is finally accepted by T-PAMI. [Arxiv](https://arxiv.org/abs/2304.09854).
-
-[//]: # (- *2024.07*:  🔥🔥 The training code of Edge-SAM and corresponding app, "Cutcha" in IOS shop, are available now, [link]&#40;https://apps.apple.com/us/app/cutcha-photo/id6478521132&#41;. [Code]&#40;https://github.com/chongzhou96/EdgeSAM&#41;.)
+- *2024.07*:  🔥🔥 The training code of Edge-SAM and corresponding app, "Cutcha" in IOS shop, are available now, [link](https://apps.apple.com/us/app/cutcha-photo/id6478521132). [Code](https://github.com/chongzhou96/EdgeSAM).
 - *2024.07*： 🔥🔥 Checkout our recent Universal Dense MLLM Model, OMG-LLaVA, [project](https://lxtgh.github.io/project/omg_llava/), [code](https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava).
 - *2024.07*： &nbsp;🎉🎉 [DVIS-DAQ](https://zhang-tao-whu.github.io/projects/DVIS_DAQ/), [Open-Vocabulary SAM](https://www.mmlab-ntu.com/project/ovsam/), [FaceAdapter](https://github.com/FaceAdapter/Face-Adapter), and [GenView](https://arxiv.org/pdf/2403.12003) are accepted by ECCV-2024. All code and models are released.
 
