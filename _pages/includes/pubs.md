@@ -18,8 +18,20 @@
       <strong> <span style="color:red"> The first MLLM-based generation method for customized manga generation. </span> </strong> | <a href="https://jianzongwu.github.io/projects/diffsensei/">Project Page</a> </li>
 
 
-## Several Works
 
+## Several Recent Works
+
+<li><a href="https://arxiv.org/abs/2406.05127">Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis</a>,
+    Jinbin Bai, Tian Ye, Wei Chow, Enxin Song, Qing-Guo Chen,  <strong>Xiangtai Li</strong>, Zhen Dong, Lei Zhu, Shuicheng Yan
+      <strong>ICLR 2025<span style="color:red"> . </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
+
+<li><a href="https://arxiv.org/abs/2406.05127">Towards Semantic Equivalence of Tokenization in Multimodal LLM</a>,
+    Shengqiong Wu, Hao Fei, <strong>Xiangtai Li</strong>, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
+      <strong>ICLR 2025<span style="color:red"> A new visual tokenizer for various MLLMs design. </span> </strong> | <a href="https://sqwu.top/SeTok-web/">Github</a> </li>
+
+<li><a href="https://arxiv.org/abs/2406.05127">Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model</a>,
+    Kuan-Chih Huang, <strong>Xiangtai Li</strong>, Lu Qi, Shuicheng Yan, Ming-Hsuan Yang
+      <strong>3DV 2025<span style="color:red"> Searching and Reasoning 3D Segmentation with LLMs. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
      <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
@@ -28,6 +40,20 @@
 <li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
      <strong>Xiangtai Li</strong>, Henghui Ding, Haobo Yuan, Wenwei Zhang, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
       <strong>T-PAMI 2024 <span style="color:red"> The first survey that summarizes the transformer-based segmentation method from technical views. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
+
+<li><a href="https://arxiv.org/abs/2406.19389">OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding</a>,  
+     Tao Zhang, <strong>Xiangtai Li</strong>, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
+      <strong>NeurIPS 2024 <span style="color:red"> The first end-to-end MLLM that unifies image-level, object-level, pixel-level understanding and reasoning. </span> </strong> | <a href="https://github.com/lxtGH/OMG-Seg">Github</a> </li>
+
+<li><a href="https://arxiv.org/abs/2406.17758">MotionBooth: Motion-Aware Customized Text-to-Video Generation</a>,  
+     Jianzong Wu, <strong>Xiangtai Li</strong>, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen
+      <strong>NeurIPS 2024 (spotlight)<span style="color:red"> The first customized T2V with motion control. </span> </strong> | <a href="https://github.com/jianzongwu/MotionBooth">Github</a> </li>
+
+
+
+
+## Previous Works
+
 
 <li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
