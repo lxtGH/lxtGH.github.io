@@ -1,6 +1,6 @@
 I am **Xiangtai Li**, I work on computer vision, multi-modal learning and related problems.
 
-I am working as a **Research Scientist** in Bytedance Seed (Tiktok), Singapore, working multi-modal large langauge models. 
+I am working as a **Research Scientist** in Bytedance Seed (Tiktok), Singapore, working on multi-modal large langauge models, including both products and related research.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
@@ -10,11 +10,11 @@ Previously, I worked as research intern or research scientist in DeepMotion (Now
 
 My research topics are:
 
-Multi-modal learning with LLMs (MLLM): Benchmarking, New Architecture Design, Unified Modeling.
+Multi-modal learning with LLMs (MLLM): Benchmarking, new architecture design, unified modeling.
 
-Large Language Models (LLM) and Auto-regressive model.
+Large language models (LLM) and auto-regressive model.
 
-Image/Video Generation, Editing and Synthesis. (Diffusion Models)
+Image/video generation, editing and synthesis. (Diffusion Models)
 
 
 Previously, I did some works on image/video segmentation and detection, open vocabulary learning.

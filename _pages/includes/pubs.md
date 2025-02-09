@@ -64,9 +64,9 @@
       <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
       <strong>ICCV 2023 <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
 
-<li><a href="https://ieeexplore.ieee.org/document/10420487">Towards Open Vocabulary Learning: A Survey</a>,  
-     Jianzong Wu*,   <strong>Xiangtai Li*</strong>, Shilin Xu*,  Haobo Yuan*, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
-      <strong>T-PAMI 2024 <span style="color:red"> The first survey on open-vocabulary learning. </span> </strong> | <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">Project</a> </li>
+<li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
+    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
+      <strong>T-PAMI 2023 <span style="color:red"> The first End-to-End Vision Transformer for Video Object Detection and STOA results on Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
       <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
@@ -76,8 +76,8 @@
       <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
       <strong>ECCV 2020 <span style="color:red">(Oral, top2%) The first real-time model over 80% mIoU on Cityscapes test set.</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
-<li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
-    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
-      <strong>T-PAMI 2023 <span style="color:red"> The first End-to-End Vision Transformer for Video Object Detection and STOA results on Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
+<li><a href="https://arxiv.org/abs/2007.10035">Improving Semantic Segmentation via Decoupled Body and Edge Supervision</a>,  
+     <strong>Xiangtai Li</strong>, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Shaohua Tan, Yunhai Tong
+      <strong>ECCV 2020 <span style="color:red"> Improving semantic segmentaiton by decoupled body and edge supervision.</span></strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
 
 Code can be found in [this](https://github.com/lxtGH).
