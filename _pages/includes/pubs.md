@@ -30,7 +30,7 @@
 
 <li><a href="https://arxiv.org/abs/2406.05127">RAP-SAM: Towards Real-Time All-Purpose Segment Anything</a>,
    Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem,  <strong>Xiangtai Li</strong>, Ming-Hsuan Yang
-      <strong>ICLR 2025<span style="color:red"> New. </span> </strong> | <a href="https://github.com/xushilin1/RAP-SAM/">Github</a> </li>
+      <strong>ICLR 2025<span style="color:red"> A new real-time multi-task segmentation setting, benchmark, and a simple effcient baseline. </span> </strong> | <a href="https://github.com/xushilin1/RAP-SAM/">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2406.05127">Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model</a>,
     Kuan-Chih Huang, <strong>Xiangtai Li</strong>, Lu Qi, Shuicheng Yan, Ming-Hsuan Yang
