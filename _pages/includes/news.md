@@ -2,7 +2,7 @@
 
 - *2025.01*  &nbsp; 🔥🔥 Release a new video MLLM, [Sa2VA](https://arxiv.org/abs/2501.04001), [project page](https://lxtgh.github.io/project/sa2va/), combine both SAM-2 and LLaVA into one model, for dense grounded understanding of images and videos.
 - *2025.01*  &nbsp; 🔥🔥 Release a new MLLM benchmark, [MMVM](https://arxiv.org/abs/2501.04670), [project page](https://zhouyiks.github.io/projects/CoLVA/), which explores visual correspondence shortcomings of current MMLMs.
-- *2024.01*  &nbsp;🎉🎉 Several works are accepted by ICLR-2025.
+- *2025.01*  &nbsp;🎉🎉 Several works are accepted by ICLR-2025.
 - *2024.12*  &nbsp; 🔥🔥 Serving as an Area Chair for both ICML-2025 and ICCV-2025!
 - *2024.12*  &nbsp;🎉🎉 Several works on AAAI-2025 and 3DV-2025. [Point Cloud Mamba](https://arxiv.org/abs/2403.00762), [Point RWKV](https://arxiv.org/abs/2405.15214), [LDM-Seg](https://arxiv.org/abs/2403.09616), [ReasonSeg3D](https://arxiv.org/abs/2405.17427).
 - *2024.09*  &nbsp;🎉🎉 Several works on NeurIPS-2024. [OMG-LLaVA](https://arxiv.org/abs/2406.19389), [MotionBooth](https://arxiv.org/abs/2406.17758) (<span style="color:red">spotlight</span>), [SemFlow](https://arxiv.org/abs/2405.20282), [MamabaAD](https://arxiv.org/abs/2404.06564). Thanks for all co-authors' help!
