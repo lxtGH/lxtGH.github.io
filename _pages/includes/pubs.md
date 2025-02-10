@@ -30,7 +30,7 @@
 
 <li><a href="https://arxiv.org/abs/2406.05127">RAP-SAM: Towards Real-Time All-Purpose Segment Anything</a>,
    Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem,  <strong>Xiangtai Li</strong>, Ming-Hsuan Yang
-      <strong>ICLR 2025<span style="color:red"> A new real-time multi-task segmentation setting, benchmark, and a simple effcient baseline. </span> </strong> | <a href="https://github.com/xushilin1/RAP-SAM/">Github</a> </li>
+      <strong>ICLR 2025<span style="color:red"> (oral) A new real-time multi-task segmentation setting, benchmark, and a simple effcient baseline. </span> </strong> | <a href="https://github.com/xushilin1/RAP-SAM/">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2406.05127">Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model</a>,
     Kuan-Chih Huang, <strong>Xiangtai Li</strong>, Lu Qi, Shuicheng Yan, Ming-Hsuan Yang
@@ -40,9 +40,9 @@
      <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
       <strong>CVPR 2024 <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
 
-<li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
-     <strong>Xiangtai Li</strong>, Henghui Ding, Haobo Yuan, Wenwei Zhang, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
-      <strong>T-PAMI 2024 <span style="color:red"> The first survey that summarizes the transformer-based segmentation method from technical views. (PAMI popular paper) </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
+<li><a href="https://arxiv.org/abs/2401.02955">Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</a>,  
+       Haobo Yuan, <strong>Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
+      <strong>ECCV 2024 <span style="color:red"> Extend SAM to recognize over twenty-thousand class. </span> </strong> | <a href="https://github.com/HarborYuan/ovsam">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2406.19389">OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding</a>,  
      Tao Zhang, <strong>Xiangtai Li</strong>, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
@@ -52,13 +52,17 @@
      Jianzong Wu, <strong>Xiangtai Li</strong>, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen
       <strong>NeurIPS 2024 (spotlight)<span style="color:red"> The first customized T2V with motion control. </span> </strong> | <a href="https://github.com/jianzongwu/MotionBooth">Github</a> </li>
 
-<li><a href="https://arxiv.org/abs/2306.15880">Transformer-Based Visual Segmentation: A Survey</a>,  
-     Jianzong Wu, <strong>Xiangtai Li</strong>, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
-      <strong>T-PAMI 2024 <span style="color:red"> The first survey in open-vocabulary learning. (PAMI popular paper) </span> </strong> | <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">Github</a> </li>
 
 
 ## Several Previous Works
 
+<li><a href="https://arxiv.org/abs/2306.15880">Towards Open Vocabulary Learning: A Survey</a>,  
+     Jianzong Wu, <strong>Xiangtai Li</strong>, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
+      <strong>T-PAMI 2024 <span style="color:red"> The first survey in open-vocabulary learning. (PAMI popular paper) </span> </strong> | <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">Github</a> </li>
+
+<li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
+     <strong>Xiangtai Li</strong>, Henghui Ding, Haobo Yuan, Wenwei Zhang, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
+      <strong>T-PAMI 2024 <span style="color:red"> The first survey that summarizes the transformer-based segmentation method from technical views. (PAMI popular paper) </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
