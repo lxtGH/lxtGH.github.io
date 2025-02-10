@@ -80,4 +80,8 @@
      <strong>Xiangtai Li</strong>, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Shaohua Tan, Yunhai Tong
       <strong>ECCV 2020 <span style="color:red"> Improving semantic segmentaiton by decoupled body and edge supervision.</span></strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
 
+<li><a href="https://arxiv.org/abs/1904.01803">Gated Fully Fusion for Semantic Segmentation</a>,  
+     <strong>Xiangtai Li</strong>, Houlong Zhao, Lei Han, Yunhai Tong, Shaohua Tan, Kuiyuan Yang
+      <strong>AAAI 2020 <span style="color:red"> (Oral, top2%) Gated Fusion Multi-scale feature for semantic segmentation </span></strong> | <a href="https://github.com/lxtGH/DecoupleSegNets">Code</a> </li>
+
 Code can be found in [this](https://github.com/lxtGH).
