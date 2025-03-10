@@ -35,6 +35,4 @@
 
 - I was mentored by [Dr.Kuiyuan Yang](https://scholar.google.com/citations?user=g2gAY_0AAAAJ&hl=zh-CN), [Prof.Li Zhang](https://scholar.google.com.hk/citations?user=-wOTCE8AAAAJ&hl=vi), [Dr.Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=zh-CN), [Dr.Yibo Yang](https://iboing.github.io/), [Prof.Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN), [Prof.Zhouchen Lin](https://zhouchenlin.github.io/), [Dr.Jiangmiao Pang](https://oceanpang.github.io/) during my PhD study.
 
-- I worked with [Prof.Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=en) at SkyworkAI Research.
-
 - I used to hold a research consultant at Shanghai AI lab, working with [Dr.Yining Li](https://scholar.google.com.hk/citations?user=y_cp1sUAAAAJ&hl=en), [Dr.Kai Chen](https://scholar.google.com.hk/citations?user=eGD0b7IAAAAJ&hl=en), [Dr.Jingbo Wang](https://scholar.google.co.uk/citations?user=GStTsxAAAAAJ&hl=zh-CN), and [Dr.Yanhong Zeng](https://scholar.google.com/citations?user=14LbnMIAAAAJ&hl=zh-CN).
