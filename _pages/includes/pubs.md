@@ -5,6 +5,8 @@
 
 ## Recent Arxiv 
 
+
+
 <li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
      Haobo Yuan, <strong>Xiangtai Li</strong>, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
       <strong><span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
@@ -13,12 +15,17 @@
     Yikang Zhou, Tao Zhang, Shilin Xu, Shihao Chen, Qianyu Zhou, Yunhai Tong, Shunping Ji, Jiangning Zhang, <strong>Xiangtai Li</strong>, Lu Qi
       <strong><span style="color:red"> The first MLLM visual matching benchmark and a simple contrastive token solution. </span> </strong> | <a href="https://zhouyiks.github.io/projects/CoLVA/">Project Page</a> </li>
 
-<li><a href="https://arxiv.org/abs/2412.07589">DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation</a>,  
-     Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, <strong>Xiangtai Li</strong>, Yunhai Tong
-      <strong> <span style="color:red"> The first MLLM-based generation method for customized manga generation. </span> </strong> | <a href="https://jianzongwu.github.io/projects/diffsensei/">Project Page</a> </li>
-
 
 ## Several Recent Works
+
+
+<li><a href="https://arxiv.org/abs/2410.23280">DreamRelation: Bridging Customization and Relation Generation</a>,
+    Qingyu Shi, Lu Qi, Jianzong Wu, Jinbin Bai, Jingbo Wang, Yunhai Tong, Xiangtai Li
+      <strong>CVPR 2025<span style="color:red"> (oral) First relation-aware customization approach </span> </strong> | <a href="https://shi-qingyu.github.io/DreamRelation">Github</a> </li>
+
+<li><a href="https://arxiv.org/abs/2412.07589">DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation</a>,  
+     Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, <strong>Xiangtai Li</strong>, Yunhai Tong
+      <strong>CVPR 2025 <span style="color:red"> The first MLLM-based generation method for customized manga generation. </span> </strong> | <a href="https://jianzongwu.github.io/projects/diffsensei/">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2410.08261">Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis</a>,
     Jinbin Bai, Tian Ye, Wei Chow, Enxin Song, Qing-Guo Chen,  <strong>Xiangtai Li</strong>, Zhen Dong, Lei Zhu, Shuicheng Yan
@@ -28,7 +35,7 @@
     Shengqiong Wu, Hao Fei, <strong>Xiangtai Li</strong>, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
       <strong>ICLR 2025<span style="color:red"> A new visual tokenizer for various MLLMs design. </span> </strong> | <a href="https://sqwu.top/SeTok-web/">Github</a> </li>
 
-<li><a href="https://arxiv.org/abs/2406.05127">RAP-SAM: Towards Real-Time All-Purpose Segment Anything</a>,
+<li><a href="https://arxiv.org/abs/2401.10228">RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything</a>,
    Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem,  <strong>Xiangtai Li</strong>, Ming-Hsuan Yang
       <strong>ICLR 2025<span style="color:red"> (oral) A new real-time multi-task segmentation setting, benchmark, and a simple effcient baseline. </span> </strong> | <a href="https://github.com/xushilin1/RAP-SAM/">Github</a> </li>
 
@@ -51,7 +58,6 @@
 <li><a href="https://arxiv.org/abs/2406.17758">MotionBooth: Motion-Aware Customized Text-to-Video Generation</a>,  
      Jianzong Wu, <strong>Xiangtai Li</strong>, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen
       <strong>NeurIPS 2024 (spotlight)<span style="color:red"> The first customized T2V with motion control. </span> </strong> | <a href="https://github.com/jianzongwu/MotionBooth">Github</a> </li>
-
 
 
 ## Several Previous Works
