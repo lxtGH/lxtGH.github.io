@@ -6,7 +6,6 @@
 ## Recent Arxiv 
 
 
-
 <li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
      Haobo Yuan, <strong>Xiangtai Li</strong>, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
       <strong><span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
@@ -18,9 +17,8 @@
 
 ## Several Recent Works
 
-
 <li><a href="https://arxiv.org/abs/2410.23280">DreamRelation: Bridging Customization and Relation Generation</a>,
-    Qingyu Shi, Lu Qi, Jianzong Wu, Jinbin Bai, Jingbo Wang, Yunhai Tong, Xiangtai Li
+    Qingyu Shi, Lu Qi, Jianzong Wu, Jinbin Bai, Jingbo Wang, Yunhai Tong, <strong>Xiangtai Li</strong>
       <strong>CVPR 2025<span style="color:red"> (oral) First relation-aware customization approach </span> </strong> | <a href="https://shi-qingyu.github.io/DreamRelation">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2412.07589">DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation</a>,  
