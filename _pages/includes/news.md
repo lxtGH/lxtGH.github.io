@@ -1,6 +1,6 @@
 # 🔥 News
 
-- *2025.04*  &nbsp; 🎉🎉 Checkout our report on GPT-4O Generation Capabilities [arixv](https://arxiv.org/abs/2504.05979) and recent works on video motion transfer, [DiT](https://arxiv.org/abs/2503.17350).
+- *2025.04*  &nbsp; 🎉🎉 Checkout our report on GPT-4o Generation Capabilities [arixv](https://arxiv.org/abs/2504.05979) and recent works on video motion transfer, [DiT](https://arxiv.org/abs/2503.17350).
 - *2025.04*  &nbsp; 🔥🔥 Serving as an Area Chair for NeurIPS-2025.
 - *2025.04*  &nbsp; 🎉🎉 Several works on CVPR 2025, including one oral([DreamRelation](https://arxiv.org/pdf/2410.23280)) and one highlight([PSG-4D](https://arxiv.org/abs/2503.15019)), [DiffSensei](https://arxiv.org/abs/2412.07589), [SIDA](https://arxiv.org/abs/2412.04292), [Video Diffusion For Dense Prediction](https://arxiv.org/abs/2503.09344), [Auto Cherry-Picker](https://arxiv.org/abs/2406.20085). 
 - *2025.01*  &nbsp; 🔥🔥 Release a new video MLLM, [Sa2VA](https://arxiv.org/abs/2501.04001), [project page](https://lxtgh.github.io/project/sa2va/), combine both SAM-2 and LLaVA into one model, for dense grounded understanding of images and videos.
