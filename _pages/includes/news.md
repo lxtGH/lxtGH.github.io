@@ -1,8 +1,8 @@
 # 🔥 News
 
-- *2025.04*  &nbsp; 🎉🎉 Checkout our report on GPT-4o Generation Capabilities [arixv](https://arxiv.org/abs/2504.05979) and recent works on video motion transfer, [DiT](https://arxiv.org/abs/2503.17350).
-- *2025.04*  &nbsp; 🔥🔥 Serving as an Area Chair for NeurIPS-2025.
-- *2025.04*  &nbsp; 🎉🎉 Several works on CVPR 2025, including one oral([DreamRelation](https://arxiv.org/pdf/2410.23280)) and one highlight([PSG-4D](https://arxiv.org/abs/2503.15019)), [DiffSensei](https://arxiv.org/abs/2412.07589), [SIDA](https://arxiv.org/abs/2412.04292), [Video Diffusion For Dense Prediction](https://arxiv.org/abs/2503.09344), [Auto Cherry-Picker](https://arxiv.org/abs/2406.20085). 
+- *2025.04*  &nbsp; 🎉🎉 Checkout our report on GPT-4o Generation Capabilities [GPT-4o-generation-study](https://arxiv.org/abs/2504.05979) and recent work on video motion transfer: [DiT](https://arxiv.org/abs/2503.17350).
+- *2025.04*  &nbsp; 🔥🔥 Serving as an Area Chair for NeurIPS-2025. Severing as Oral Session Chair for ICLR-2025, Singapore.
+- *2025.04*  &nbsp; 🎉🎉 Several works on CVPR 2025, including one <span style="color:red">oral</span> ([DreamRelation](https://arxiv.org/pdf/2410.23280)) and one <span style="color:red">highlight</span> ([PSG-4D](https://arxiv.org/abs/2503.15019)), [DiffSensei](https://arxiv.org/abs/2412.07589), [SIDA](https://arxiv.org/abs/2412.04292), [Video Diffusion For Dense Prediction](https://arxiv.org/abs/2503.09344), [Auto Cherry-Picker](https://arxiv.org/abs/2406.20085). 
 - *2025.01*  &nbsp; 🔥🔥 Release a new video MLLM, [Sa2VA](https://arxiv.org/abs/2501.04001), [project page](https://lxtgh.github.io/project/sa2va/), combine both SAM-2 and LLaVA into one model, for dense grounded understanding of images and videos.
 - *2025.01*  &nbsp; 🔥🔥 Release a new MLLM benchmark, [MMVM](https://arxiv.org/abs/2501.04670), [project page](https://zhouyiks.github.io/projects/CoLVA/), which explores visual correspondence shortcomings of current MMLMs.
 - *2025.01*  &nbsp;🎉🎉 Several works are accepted by ICLR-2025, including one <span style="color:red">oral</span> and one <span style="color:red">spotlight</span>.
