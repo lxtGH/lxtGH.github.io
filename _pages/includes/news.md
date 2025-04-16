@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2025.04*  &nbsp; 🎉🎉 Checkout recent works on Single Transformer project in our group: [SAIL](https://arxiv.org/abs/2504.10462), [Pixel-SAIL](https://arxiv.org/abs/2504.10465).
 - *2025.04*  &nbsp; 🎉🎉 Checkout our report on GPT-4o Generation Capabilities [GPT-4o-generation-study](https://arxiv.org/abs/2504.05979) and recent work on video motion transfer: [DiT](https://arxiv.org/abs/2503.17350).
 - *2025.04*  &nbsp; 🔥🔥 Serving as an Area Chair for NeurIPS-2025. Severing as Oral Session Chair for ICLR-2025, Singapore.
 - *2025.04*  &nbsp; 🎉🎉 Several works on CVPR 2025, including one <span style="color:red">oral</span> ([DreamRelation](https://arxiv.org/pdf/2410.23280)) and one <span style="color:red">highlight</span> ([PSG-4D](https://arxiv.org/abs/2503.15019)), [DiffSensei](https://arxiv.org/abs/2412.07589), [SIDA](https://arxiv.org/abs/2412.04292), [Video Diffusion For Dense Prediction](https://arxiv.org/abs/2503.09344), [Auto Cherry-Picker](https://arxiv.org/abs/2406.20085). 
