@@ -6,6 +6,15 @@
 ## Recent Arxiv 
 
 
+
+<li><a href="https://arxiv.org/abs/2504.10465">Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding</a>,  
+    Tao Zhang, Xiangtai Li, Zilong Huang, Yanwei Li, Weixian Lei, Xueqing Deng, Shihao Chen, Shunping Ji, Jiashi Feng
+      <strong><span style="color:red"> The simplest architecture for pixel-grounding tasks. </span> </strong> | <a href="https://github.com/magic-research/Sa2VA">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2504.10462">The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer</a>,  
+     Weixian Lei, Jiacong Wang, Haochen Wang, Xiangtai Li, Jun Hao Liew, Jiashi Feng, Zilong Huang
+      <strong><span style="color:red"> Scaling Single Transformer backbone training for both VLM and vision tasks. </span> </strong> | <a href="https://github.com/bytedance/SAIL">Code</a> </li>
+
 <li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
      Haobo Yuan, <strong>Xiangtai Li</strong>, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
       <strong><span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
