@@ -6,7 +6,6 @@
 ## Recent Arxiv 
 
 
-
 <li><a href="https://arxiv.org/abs/2504.10465">Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding</a>,  
     Tao Zhang, Xiangtai Li, Zilong Huang, Yanwei Li, Weixian Lei, Xueqing Deng, Shihao Chen, Shunping Ji, Jiashi Feng
       <strong><span style="color:red"> The simplest architecture for pixel-grounding tasks. </span> </strong> | <a href="https://github.com/magic-research/Sa2VA">Code</a> </li>
@@ -46,17 +45,10 @@
    Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem,  <strong>Xiangtai Li</strong>, Ming-Hsuan Yang
       <strong>ICLR 2025<span style="color:red"> (oral) A new real-time multi-task segmentation setting, benchmark, and a simple effcient baseline. </span> </strong> | <a href="https://github.com/xushilin1/RAP-SAM/">Github</a> </li>
 
-<li><a href="https://arxiv.org/abs/2406.05127">Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model</a>,
-    Kuan-Chih Huang, <strong>Xiangtai Li</strong>, Lu Qi, Shuicheng Yan, Ming-Hsuan Yang
-      <strong>3DV 2025<span style="color:red"> Searching and Reasoning 3D Segmentation with LLMs. </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
      <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
       <strong>CVPR 2024 <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
-
-<li><a href="https://arxiv.org/abs/2401.02955">Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</a>,  
-       Haobo Yuan, <strong>Xiangtai Li</strong>, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy
-      <strong>ECCV 2024 <span style="color:red"> Extend SAM to recognize over twenty-thousand class. </span> </strong> | <a href="https://github.com/HarborYuan/ovsam">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2406.19389">OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding</a>,  
      Tao Zhang, <strong>Xiangtai Li</strong>, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
@@ -68,10 +60,6 @@
 
 
 ## Several Previous Works
-
-<li><a href="https://arxiv.org/abs/2306.15880">Towards Open Vocabulary Learning: A Survey</a>,  
-     Jianzong Wu, <strong>Xiangtai Li</strong>, Shilin Xu, Haobo Yuan, Henghui Ding, Yibo Yang, Xia Li, Jiangning Zhang, Yunhai Tong, Xudong Jiang, Bernard Ghanem, Dacheng Tao
-      <strong>T-PAMI 2024 <span style="color:red"> The first survey in open-vocabulary learning. (PAMI popular paper) </span> </strong> | <a href="https://github.com/jianzongwu/Awesome-Open-Vocabulary">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
      <strong>Xiangtai Li</strong>, Henghui Ding, Haobo Yuan, Wenwei Zhang, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
