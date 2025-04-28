@@ -16,8 +16,6 @@ Large language models (LLM) and auto-regressive model.
 
 Image/video generation, editing and synthesis. (Diffusion Models)
 
-My 
-
 Previously, I did some works on image/video segmentation and detection, open vocabulary learning.
 
 Moreover, the code and models for my works (maybe 98%), including the ones I have deeply contributed to, are open-sourced on [GitHub](https://github.com/lxtGH).
@@ -25,3 +23,4 @@ Moreover, the code and models for my works (maybe 98%), including the ones I hav
 I serve as a regular reviewer for lots of conference and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, IEEE-TGRS, Remote Sensing.
 
 I also serve as an area chair for ICLR-2025, ICML-2025, ICCV-2025, NeurIPS-2025.
+
