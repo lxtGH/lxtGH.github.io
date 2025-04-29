@@ -1,6 +1,6 @@
 I am **Xiangtai Li**, I work on computer vision, multi-modal learning and related problems.
 
-I am working as a **Research Scientist** in Bytedance Seed (Tiktok), Singapore, working on multi-modal large langauge models, including both products and related research.
+I am working as a **Research Scientist** in Bytedance (Tiktok), Singapore, working on multi-modal large langauge models, including both products and related research.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
@@ -12,9 +12,9 @@ My research topics are:
 
 Multi-modal learning with LLMs (MLLM): Benchmarking, new architecture design, unified modeling.
 
-Large language models (LLM) and auto-regressive model.
+Large language models (LLM), auto-regressive model(AR).
 
-Image/video generation, editing and synthesis. (Diffusion Models)
+Image/video generation, editing and synthesis. (Diffusion Models, Mask generative transformer (MGT).)
 
 Previously, I did some works on image/video segmentation and detection, open vocabulary learning.
 
@@ -23,4 +23,6 @@ Moreover, the code and models for my works (maybe 98%), including the ones I hav
 I serve as a regular reviewer for lots of conference and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, IEEE-TGRS, Remote Sensing.
 
 I also serve as an area chair for ICLR-2025, ICML-2025, ICCV-2025, NeurIPS-2025.
+
+<span style="color:red"> I am looking for several self-motivated interns (My e-mail is xiangtai94@gmail.com). </span>
 
