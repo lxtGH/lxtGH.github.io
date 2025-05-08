@@ -1,6 +1,6 @@
 I am **Xiangtai Li**, I work on computer vision, multi-modal learning and related problems.
 
-I am working as a **Research Scientist** in Bytedance (Tiktok), Singapore, working on multi-modal large langauge models, including both products and related research.
+I am working as a **Research Scientist** in Tiktok (Bytedance), Singapore, working on multi-modal large langauge models and diffusion models, including both products and related research.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
@@ -24,5 +24,5 @@ I serve as a regular reviewer for lots of conference and journals, including CVP
 
 I also serve as an area chair for ICLR-2025, ICML-2025, ICCV-2025, NeurIPS-2025.
 
-<span style="color:red"> I am looking for several self-motivated interns (My E-mail is xiangtai94@gmail.com and lxtpku@pku.edu.cn). </span>
+<span style="color:red"> I am looking for several self-motivated interns on MLLMs and Diffusion model backgrounds (My E-mail is xiangtai94@gmail.com and lxtpku@pku.edu.cn). </span>
 
