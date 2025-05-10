@@ -33,10 +33,6 @@
      Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, <strong>Xiangtai Li</strong>, Yunhai Tong
       <strong>CVPR 2025 <span style="color:red"> The first MLLM-based generation method for customized manga generation. </span> </strong> | <a href="https://jianzongwu.github.io/projects/diffsensei/">Project Page</a> </li>
 
-<li><a href="https://arxiv.org/abs/2410.08261">Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis</a>,
-    Jinbin Bai, Tian Ye, Wei Chow, Enxin Song, Qing-Guo Chen,  <strong>Xiangtai Li</strong>, Zhen Dong, Lei Zhu, Shuicheng Yan
-      <strong>ICLR 2025<span style="color:red"> Make Masked Generative Transformer For Text to Image Generation Great Again! </span> </strong> | <a href="https://github.com/viiika/Meissonic">Github</a> </li>
-
 <li><a href="https://arxiv.org/abs/2406.05127">Towards Semantic Equivalence of Tokenization in Multimodal LLM</a>,
     Shengqiong Wu, Hao Fei, <strong>Xiangtai Li</strong>, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
       <strong>ICLR 2025<span style="color:red"> A new visual tokenizer for various MLLMs design. </span> </strong> | <a href="https://sqwu.top/SeTok-web/">Github</a> </li>
