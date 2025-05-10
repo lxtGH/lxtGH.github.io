@@ -26,4 +26,6 @@ I also serve as an area chair for ICLR-2025, ICML-2025, ICCV-2025, NeurIPS-2025.
 
 <span style="color:red"> I am looking for several self-motivated research interns on MLLMs and Diffusion model backgrounds. </span>
 
-<span style="color:red"> I am also looking for full-time research engineers working on MLLMs and Diffusion model to work with me (My E-mail is xiangtai94@gmail.com and lxtpku@pku.edu.cn). </span>
+<span style="color:red"> I am also looking for full-time research engineers working on MLLMs and AIGC. </span>
+
+<span style="color:red"> (My E-mail is xiangtai94@gmail.com and lxtpku@pku.edu.cn). </span>
