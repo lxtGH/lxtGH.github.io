@@ -4,16 +4,26 @@
 - *2025.04*  &nbsp; 🎉🎉 Checkout our report on GPT-4o Generation Capabilities [GPT-4o-generation-study](https://arxiv.org/abs/2504.05979) and recent work on video motion transfer: [DiT](https://arxiv.org/abs/2503.17350).
 - *2025.04*  &nbsp; 🔥🔥 Serving as an Area Chair for NeurIPS-2025. Serving as Oral Session Chair for ICLR-2025. (See you in Singapore).
 - *2025.04*  &nbsp; 🎉🎉 Several works on CVPR 2025, including one <span style="color:red">oral</span> ([DreamRelation](https://arxiv.org/pdf/2410.23280)) and one <span style="color:red">highlight</span> ([PSG-4D](https://arxiv.org/abs/2503.15019)), [DiffSensei](https://arxiv.org/abs/2412.07589), [SIDA](https://arxiv.org/abs/2412.04292), [Video Diffusion For Dense Prediction](https://arxiv.org/abs/2503.09344), [Auto Cherry-Picker](https://arxiv.org/abs/2406.20085). 
-- *2025.01*  &nbsp; 🔥🔥 Release a new video MLLM, [Sa2VA](https://arxiv.org/abs/2501.04001), [project page](https://lxtgh.github.io/project/sa2va/), combine both SAM-2 and LLaVA into one model, for dense grounded understanding of images and videos.
-- *2025.01*  &nbsp; 🔥🔥 Release a new MLLM benchmark, [MMVM](https://arxiv.org/abs/2501.04670), [project page](https://zhouyiks.github.io/projects/CoLVA/), which explores visual correspondence shortcomings of current MMLMs.
-- *2025.01*  &nbsp;🎉🎉 Several works are accepted by ICLR-2025, including one <span style="color:red">oral</span> and one <span style="color:red">spotlight</span>.
-- *2024.12*  &nbsp; 🔥🔥 Serving as an Area Chair for both ICML-2025 and ICCV-2025!
-- *2024.12*  &nbsp;🎉🎉 Several works on AAAI-2025 and 3DV-2025. [Point Cloud Mamba](https://arxiv.org/abs/2403.00762), [Point RWKV](https://arxiv.org/abs/2405.15214), [LDM-Seg](https://arxiv.org/abs/2403.09616), [ReasonSeg3D](https://arxiv.org/abs/2405.17427).
-- *2024.09*  &nbsp;🎉🎉 Several works on NeurIPS-2024. [OMG-LLaVA](https://arxiv.org/abs/2406.19389), [MotionBooth](https://arxiv.org/abs/2406.17758) (<span style="color:red">spotlight</span>), [SemFlow](https://arxiv.org/abs/2405.20282), [MamabaAD](https://arxiv.org/abs/2404.06564). Thanks for all co-authors' help!
-- *2024.07*  &nbsp;🎉🎉 Our Transformer Survey is finally accepted by T-PAMI. [Arxiv](https://arxiv.org/abs/2304.09854).
-- *2024.07*:  🔥🔥 The training code of Edge-SAM and corresponding app, "Cutcha" in IOS shop, are available now, [link](https://apps.apple.com/us/app/cutcha-photo/id6478521132). [Code](https://github.com/chongzhou96/EdgeSAM).
-- *2024.07*： 🔥🔥 Checkout our recent Universal Dense MLLM Model, OMG-LLaVA, [project](https://lxtgh.github.io/project/omg_llava/), [code](https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava).
-- *2024.07*： &nbsp;🎉🎉 [DVIS-DAQ](https://zhang-tao-whu.github.io/projects/DVIS_DAQ/), [Open-Vocabulary SAM](https://www.mmlab-ntu.com/project/ovsam/), [FaceAdapter](https://github.com/FaceAdapter/Face-Adapter), and [GenView](https://arxiv.org/pdf/2403.12003) are accepted by ECCV-2024. All code and models are released.
+
+[//]: # (- *2025.01*  &nbsp; 🔥🔥 Release a new video MLLM, [Sa2VA]&#40;https://arxiv.org/abs/2501.04001&#41;, [project page]&#40;https://lxtgh.github.io/project/sa2va/&#41;, combine both SAM-2 and LLaVA into one model, for dense grounded understanding of images and videos.)
+
+[//]: # (- *2025.01*  &nbsp; 🔥🔥 Release a new MLLM benchmark, [MMVM]&#40;https://arxiv.org/abs/2501.04670&#41;, [project page]&#40;https://zhouyiks.github.io/projects/CoLVA/&#41;, which explores visual correspondence shortcomings of current MMLMs.)
+
+[//]: # (- *2025.01*  &nbsp;🎉🎉 Several works are accepted by ICLR-2025, including one <span style="color:red">oral</span> and one <span style="color:red">spotlight</span>.)
+
+[//]: # (- *2024.12*  &nbsp; 🔥🔥 Serving as an Area Chair for both ICML-2025 and ICCV-2025!)
+
+[//]: # (- *2024.12*  &nbsp;🎉🎉 Several works on AAAI-2025 and 3DV-2025. [Point Cloud Mamba]&#40;https://arxiv.org/abs/2403.00762&#41;, [Point RWKV]&#40;https://arxiv.org/abs/2405.15214&#41;, [LDM-Seg]&#40;https://arxiv.org/abs/2403.09616&#41;, [ReasonSeg3D]&#40;https://arxiv.org/abs/2405.17427&#41;.)
+
+[//]: # (- *2024.09*  &nbsp;🎉🎉 Several works on NeurIPS-2024. [OMG-LLaVA]&#40;https://arxiv.org/abs/2406.19389&#41;, [MotionBooth]&#40;https://arxiv.org/abs/2406.17758&#41; &#40;<span style="color:red">spotlight</span>&#41;, [SemFlow]&#40;https://arxiv.org/abs/2405.20282&#41;, [MamabaAD]&#40;https://arxiv.org/abs/2404.06564&#41;. Thanks for all co-authors' help!)
+
+[//]: # (- *2024.07*  &nbsp;🎉🎉 Our Transformer Survey is finally accepted by T-PAMI. [Arxiv]&#40;https://arxiv.org/abs/2304.09854&#41;.)
+
+[//]: # (- *2024.07*:  🔥🔥 The training code of Edge-SAM and corresponding app, "Cutcha" in IOS shop, are available now, [link]&#40;https://apps.apple.com/us/app/cutcha-photo/id6478521132&#41;. [Code]&#40;https://github.com/chongzhou96/EdgeSAM&#41;.)
+
+[//]: # (- *2024.07*： 🔥🔥 Checkout our recent Universal Dense MLLM Model, OMG-LLaVA, [project]&#40;https://lxtgh.github.io/project/omg_llava/&#41;, [code]&#40;https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava&#41;.)
+
+[//]: # (- *2024.07*： &nbsp;🎉🎉 [DVIS-DAQ]&#40;https://zhang-tao-whu.github.io/projects/DVIS_DAQ/&#41;, [Open-Vocabulary SAM]&#40;https://www.mmlab-ntu.com/project/ovsam/&#41;, [FaceAdapter]&#40;https://github.com/FaceAdapter/Face-Adapter&#41;, and [GenView]&#40;https://arxiv.org/pdf/2403.12003&#41; are accepted by ECCV-2024. All code and models are released.)
 
 [//]: # (- *2024.06*： 🔥🔥 Checkout our recent works on MLLM and new architecture design, [OMG-LLaVA]&#40;https://arxiv.org/abs/2406.19389&#41;, [RWKV-SAM]&#40;https://arxiv.org/abs/2406.19369&#41;, [MotionBooth]&#40;https://arxiv.org/abs/2406.17758&#41;, [SeTok]&#40;https://arxiv.org/abs/2406.05127&#41; and [Reason3D]&#40;https://arxiv.org/abs/2405.17427&#41;.)
 
