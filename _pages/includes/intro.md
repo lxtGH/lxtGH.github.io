@@ -2,7 +2,7 @@ I am **Xiangtai Li**, I work on computer vision, multi-modal learning and relate
 
 I am working as a **Research Scientist** in Tiktok (Bytedance), Singapore.
 
-Our team work on multi-modal large langauge models and diffusion models, including both products and related research.
+Our team works on the application and research on Tiktok Live. Topics cover multi-modal large langauge models, diffusion models and LLM reasoning.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab advised by [Prof.Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
