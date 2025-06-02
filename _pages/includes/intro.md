@@ -11,11 +11,14 @@ I obtained my PhD degree at Peking University (PKU) under the supervision of [Pr
 
 My research topics are:
 
-Multi-modal learning with LLMs (MLLM): Benchmarking, new architecture design, unified modeling.
+1，Multi-modal learning with LLMs (MLLM): Unified modeling, Benchmarking.
 
-Large language models (LLM), auto-regressive model(AR).
 
-Image/video generation, editing and synthesis.
+2, Image/video generation and editing, Controllable image/video generation.
+
+
+3, Multi-modal agent system design.
+
 
 [//]: # (Previously, I did some works on image/video segmentation and detection, open vocabulary learning.)
 
