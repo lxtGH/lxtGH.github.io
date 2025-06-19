@@ -26,7 +26,7 @@ My research topics are:
 
 I serve as a regular reviewer for lots of conference and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, IEEE-TGRS, Remote Sensing.
 
-I also serve as an area chair for ICLR-2025, ICML-2025, ICCV-2025, NeurIPS-2025.
+I also serve as an area chair for ICLR-2025, ICML-2025, ICCV-2025, NeurIPS-2025, AAAI-2025/2026, WACV-2026.
 
 <span style="color:red"> I am looking for several self-motivated research interns on MLLMs and Diffusion model backgrounds. </span>
 
