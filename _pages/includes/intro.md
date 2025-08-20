@@ -22,10 +22,8 @@ Moreover, the code and models for my works (maybe 98%), including the ones I hav
 
 I serve as a regular reviewer for lots of conference and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, IEEE-TGRS.
 
-I also serve as an Area Chair for ICLR-2025, ICML-2025, ICCV-2025, NeurIPS-2025, AAAI-2025/2026, WACV-2026.
+I also serve as an Area Chair for ICLR-2025/2026, ICML-2025, ICCV-2025, NeurIPS-2025, AAAI-2025/2026, WACV-2026.
 
 <span style="color:red"> I am looking for several self-motivated research interns on MLLMs and diffusion model backgrounds. </span>
-
-<span style="color:red"> I am also looking for full-time research engineers working on multi-modal large language models. </span>
 
 <span style="color:red"> (My E-mail is xiangtai94@gmail.com and xiangtai.li@bytedance.com). </span>
