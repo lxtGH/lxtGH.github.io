@@ -27,7 +27,7 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (2.0.3)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (226)
@@ -214,7 +214,7 @@ GEM
     multi_json (1.15.0)
     nokogiri (1.13.6-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.6-x64-mingw-ucrt)
+    nokogiri (1.13.6-x64-unknown)
       racc (~> 1.4)
     nokogiri (1.13.6-x86_64-darwin)
       racc (~> 1.4)
@@ -257,12 +257,12 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.6.1)
 
 PLATFORMS
   universal-darwin-19
-  x64-mingw-ucrt
+  universal-darwin-24
+  x64-unknown
   x86_64-linux
 
 DEPENDENCIES
@@ -271,7 +271,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
   tzinfo-data
-  wdm (~> 0.1.0)
   webrick (~> 1.6.0)
 
 BUNDLED WITH
