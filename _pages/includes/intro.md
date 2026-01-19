@@ -10,11 +10,9 @@ I obtained my PhD degree from Peking University (PKU) under the supervision of [
 
 My research topics focus on three main aspects:
 
-- Multi-modal learning with LLMs (MLLM): unified modeling, benchmarking, dataset pipeline building.
+- Multi-modal learning with LLMs (MLLM): unified modeling, benchmarking, dataset pipeline building, RL-based post-training.
 
-- Image/video generation and editing, controllable image/video generation. 
-
-- Multi-modal agent system design.
+- Image/video generation and editing, controllable image/video generation.
 
 Previously, I worked on image/video segmentation and detection, and open vocabulary learning.
 
@@ -22,9 +20,11 @@ Moreover, the code and models for my work (about 98%), including the projects I 
 
 I serve as a regular reviewer for many conferences and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, and IEEE-TGRS.
 
-
-I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-2025, NeurIPS-2025, AAAI-2025/2026, WACV-2026.
+I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-2025, NeurIPS-2025, AAAI-2025/2026, WACV-2026, and ECCV-2026.
 
 In addition, I also serve as an Associate Editor for T-PAMI.
+
+
+<span style="color:red"> I am looking for interns with strong coding skills and interests with MLLMs, diffusion models and diffusion langauge models. </span>
 
 <span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Welcome to discuss. </span>
