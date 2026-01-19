@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiangtai Li"
-  avatar           : "images/avatar_scholar_256.png"
-  bio              : "Research Fellow in NTU / PhD in PKU"
+  avatar           : "images/lxt_personal_phd_year_4.png"
+  bio              : "PhD in PKU"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN"
-  email            : "lxtpku@pku.edu.cn"
+  email            : "xiangtai94@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Xiangtai-Li"
   uri              :
   bitbucket        :
