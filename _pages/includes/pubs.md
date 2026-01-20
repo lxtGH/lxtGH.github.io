@@ -15,7 +15,7 @@ Haochen Wang, Yuhao Wang, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Jiani
 
 <li><a href="https://arxiv.org/abs/2511.09611">MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation</a>,  
 Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wang, Zhiyang Teng, Zhuochen Wang, Yinjie Wang, Yunhai Tong, Mengdi Wang, <strong>Xiangtai Li</strong>
-<strong>Tech Report<span style="color:red">  </span> </strong> | <a href="https://github.com/tyfeld/MMaDA-Parallel">Code</a> <a href="https://huggingface.co/tyfeld/MMaDA-Parallel-M">Model and Data</a> </li>
+<strong>Tech Report<span style="color:red"> The first unified parallel generation model </span> </strong> | <a href="https://github.com/tyfeld/MMaDA-Parallel">Code</a> <a href="https://huggingface.co/tyfeld/MMaDA-Parallel-M">Model and Data</a> </li>
 
 <li><a href="https://arxiv.org/abs/2506.24102">DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World</a>,  
 <strong>Xiangtai Li</strong>, Tao Zhang, Yanwei Li, Haobo Yuan, Shihao Chen, Yikang Zhou, Jiahao Meng, Yueyi Sun, Shilin Xu, Lu Qi, Tianheng Cheng, Yi Lin, Zilong Huang, Wenhao Huang, Jiashi Feng, Guang Shi
