@@ -7,19 +7,19 @@
 
 <li><a href="https://arxiv.org/abs/2510.20579">Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence</a>,  
 Jiahao Meng, <strong>Xiangtai Li</strong>, Haochen Wang, Yue Tan, Tao Zhang, Lingdong Kong, Yunhai Tong, Anran Wang, Zhiyang Teng, Yujing Wang, Zhuochen Wang
-<strong>Tech Report<span style="color:red"> The first non-agentic spatial-temporal RL post-training framework. </span> </strong> | <a href="">Code</a> <a href="">Data</a> </li>
+<strong>[Tech Report]<span style="color:red"> The first non-agentic spatial-temporal RL post-training framework. </span> </strong> | <a href="">Code</a> <a href="">Data</a> </li>
 
 <li><a href="https://arxiv.org/pdf/2510.18876">Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs</a>,  
 Haochen Wang, Yuhao Wang, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Jiani Zheng, Ye Tian, Jiahao Meng, Zilong Huang, Guangcan Mai, Anran Wang, Yunhai Tong, Zhuochen Wang, <strong>Xiangtai Li</strong>, Zhaoxiang Zhang
-<strong>Tech Report<span style="color:red"> STOA region caption models </span> </strong> | <a href="https://github.com/Haochen-Wang409/Grasp-Any-Region">Code</a> <a href="https://huggingface.co/collections/HaochenWang/grasp-any-region">Model and Data</a> </li>
+<strong>[Tech Repor]t<span style="color:red"> STOA region caption models </span> </strong> | <a href="https://github.com/Haochen-Wang409/Grasp-Any-Region">Code</a> <a href="https://huggingface.co/collections/HaochenWang/grasp-any-region">Model and Data</a> </li>
 
 <li><a href="https://arxiv.org/abs/2511.09611">MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation</a>,  
 Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wang, Zhiyang Teng, Zhuochen Wang, Yinjie Wang, Yunhai Tong, Mengdi Wang, <strong>Xiangtai Li</strong>
-<strong>Tech Report<span style="color:red"> The first unified parallel generation model </span> </strong> | <a href="https://github.com/tyfeld/MMaDA-Parallel">Code</a> <a href="https://huggingface.co/tyfeld/MMaDA-Parallel-M">Model and Data</a> </li>
+<strong>[Tech Report]<span style="color:red"> The first unified parallel generation model </span> </strong> | <a href="https://github.com/tyfeld/MMaDA-Parallel">Code</a> <a href="https://huggingface.co/tyfeld/MMaDA-Parallel-M">Model and Data</a> </li>
 
 <li><a href="https://arxiv.org/abs/2506.24102">DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World</a>,  
 <strong>Xiangtai Li</strong>, Tao Zhang, Yanwei Li, Haobo Yuan, Shihao Chen, Yikang Zhou, Jiahao Meng, Yueyi Sun, Shilin Xu, Lu Qi, Tianheng Cheng, Yi Lin, Zilong Huang, Wenhao Huang, Jiashi Feng, Guang Shi
-      <strong>Tech Report<span style="color:red"> Strong data engine for desne grounded caption. </span> </strong> | <a href="https://github.com/lxtGH/DenseWorld-1M">Code</a> <a href="">Data</a> </li>
+      <strong>[Tech Report]<span style="color:red"> Strong data engine for desne grounded caption. </span> </strong> | <a href="https://github.com/lxtGH/DenseWorld-1M">Code</a> <a href="">Data</a> </li>
 
 <li><a href="https://arxiv.org/abs/2504.10462">The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer</a>,  
      Weixian Lei, Jiacong Wang, Haochen Wang, Xiangtai Li, Jun Hao Liew, Jiashi Feng, Zilong Huang
@@ -27,11 +27,11 @@ Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wan
 
 <li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
      Haobo Yuan, <strong>Xiangtai Li</strong>, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
-      <strong><span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
+      <strong>[Tech Report]<span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2504.10465">Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding</a>,  
     Tao Zhang, Xiangtai Li, Zilong Huang, Yanwei Li, Weixian Lei, Xueqing Deng, Shihao Chen, Shunping Ji, Jiashi Feng
-      <strong><span style="color:red"> The simplest architecture for pixel-grounding tasks. </span> </strong> | <a href="https://github.com/magic-research/Sa2VA">Code</a> </li>
+      <strong>[Tech Report]<span style="color:red"> The simplest architecture for pixel-grounding tasks. </span> </strong> | <a href="https://github.com/magic-research/Sa2VA">Code</a> </li>
 
 
 ## Several Other Recent Works
