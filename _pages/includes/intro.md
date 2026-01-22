@@ -27,4 +27,7 @@ In addition, I also serve as an Associate Editor for T-PAMI.
 
 <span style="color:red"> I am looking for interns with strong coding skills and interests with MLLMs, diffusion models and diffusion langauge models. </span>
 
+
+<span style="color:red"> I am also looking for algorithm engineer with strong coding skills and MLLMs knowledges. </span>
+
 <span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Welcome to discuss. </span>
