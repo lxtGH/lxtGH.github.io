@@ -29,25 +29,12 @@ Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wan
      Haobo Yuan, <strong>Xiangtai Li</strong>, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
       <strong>[Tech Report]<span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
 
-<li><a href="https://arxiv.org/abs/2504.10465">Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding</a>,  
-    Tao Zhang, Xiangtai Li, Zilong Huang, Yanwei Li, Weixian Lei, Xueqing Deng, Shihao Chen, Shunping Ji, Jiashi Feng
-      <strong>[Tech Report]<span style="color:red"> The simplest architecture for pixel-grounding tasks. </span> </strong> | <a href="https://github.com/magic-research/Sa2VA">Code</a> </li>
 
-
-## Several Other Recent Works
-
-
-<li><a href="https://arxiv.org/abs/2501.04670">Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs</a>,  
-    Yikang Zhou, Tao Zhang, Shilin Xu, Shihao Chen, Qianyu Zhou, Yunhai Tong, Shunping Ji, Jiangning Zhang, <strong>Xiangtai Li</strong>, Lu Qi
-      <strong>ICCV 2025<span style="color:red"> The first MLLM visual matching benchmark and a simple contrastive token solution. </span> </strong> | <a href="https://zhouyiks.github.io/projects/CoLVA/">Project Page</a> </li>
+## Several Previous works
 
 <li><a href="https://arxiv.org/abs/2410.23280">DreamRelation: Bridging Customization and Relation Generation</a>,
     Qingyu Shi, Lu Qi, Jianzong Wu, Jinbin Bai, Jingbo Wang, Yunhai Tong, <strong>Xiangtai Li</strong>
       <strong>CVPR 2025<span style="color:red"> (oral) First relation-aware customization approach </span> </strong> | <a href="https://shi-qingyu.github.io/DreamRelation">Github</a> </li>
-
-<li><a href="https://arxiv.org/abs/2412.07589">DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation</a>,  
-     Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, <strong>Xiangtai Li</strong>, Yunhai Tong
-      <strong>CVPR 2025 <span style="color:red"> The first MLLM-based generation method for customized manga generation. </span> </strong> | <a href="https://jianzongwu.github.io/projects/diffsensei/">Project Page</a> </li>
 
 <li><a href="https://arxiv.org/abs/2401.10228">RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything</a>,
    Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem,  <strong>Xiangtai Li</strong>, Ming-Hsuan Yang
@@ -61,24 +48,9 @@ Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wan
      Tao Zhang, <strong>Xiangtai Li</strong>, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
       <strong>NeurIPS 2024 <span style="color:red"> The first end-to-end MLLM that unifies image-level, object-level, pixel-level understanding and reasoning. </span> </strong> | <a href="https://github.com/lxtGH/OMG-Seg">Github</a> </li>
 
-<li><a href="https://arxiv.org/abs/2406.17758">MotionBooth: Motion-Aware Customized Text-to-Video Generation</a>,  
-     Jianzong Wu, <strong>Xiangtai Li</strong>, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen
-      <strong>NeurIPS 2024 (spotlight)<span style="color:red"> The first customized T2V with motion control. </span> </strong> | <a href="https://github.com/jianzongwu/MotionBooth">Github</a> </li>
-
-
-## Several Previous Works
-
-<li><a href="https://arxiv.org/abs/2304.09854">Transformer-Based Visual Segmentation: A Survey</a>,  
-     <strong>Xiangtai Li</strong>, Henghui Ding, Haobo Yuan, Wenwei Zhang, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy
-      <strong>T-PAMI 2024 <span style="color:red"> The first survey that summarizes the transformer-based segmentation method from technical views. (PAMI popular paper) </span> </strong> | <a href="https://github.com/lxtGH/Awesome-Segmentation-With-Transformer">Github</a> </li>
-
 <li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
       <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
       <strong>ICCV 2023 <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
-
-<li><a href="https://arxiv.org/abs/2201.05047"> TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers </a>,  
-    Qianyu Zhou*,  <strong> Xiangtai Li* </strong>, Lu He, Yibo Yang, Guangliang Cheng, Yunhai Tong, Lizhuang Ma, Dacheng Tao,
-      <strong>T-PAMI 2023 <span style="color:red"> The first End-to-End Vision Transformer for Video Object Detection and STOA results on Video Object Detection </span> </strong> | <a href="https://github.com/SJTU-LuHe/TransVOD">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
       <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
