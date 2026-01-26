@@ -5,6 +5,11 @@
 
 ## Recent Works 
 
+
+<li><a href="https://arxiv.org/abs/2601.16093">SAMTok: Representing Any Mask with Two Words</a>,  
+Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, <strong>Xiangtai Li</strong>
+<strong>[Tech Report]<span style="color:red"> Use two words to represent any mask to facilitate use of VLM infra for pixel-LLM. </span> </strong> | <a href="">Code</a> <a href="">Data</a> </li>
+
 <li><a href="https://arxiv.org/abs/2510.20579">Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence</a>,  
 Jiahao Meng, <strong>Xiangtai Li</strong>, Haochen Wang, Yue Tan, Tao Zhang, Lingdong Kong, Yunhai Tong, Anran Wang, Zhiyang Teng, Yujing Wang, Zhuochen Wang
 <strong>[Tech Report]<span style="color:red"> The first non-agentic spatial-temporal RL post-training framework. </span> </strong> | <a href="">Code</a> <a href="">Data</a> </li>
