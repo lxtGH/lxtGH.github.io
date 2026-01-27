@@ -2,12 +2,10 @@
 
 \* means equal contribution.
 
-
 ## Recent Works 
 
-
 <li><a href="https://arxiv.org/abs/2601.16093">SAMTok: Representing Any Mask with Two Words</a>,  
-Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, <strong>Xiangtai Li</strong>
+Yikang Zhou*, Tao Zhang*, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, <strong>Xiangtai Li</strong>
 <strong>[Tech Report]<span style="color:red"> Use two words to represent any mask to facilitate use of VLM infra for pixel-LLM. </span> </strong> | <a href="">Code</a> <a href="">Data</a> </li>
 
 <li><a href="https://arxiv.org/abs/2510.20579">Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence</a>,  
@@ -16,11 +14,11 @@ Jiahao Meng, <strong>Xiangtai Li</strong>, Haochen Wang, Yue Tan, Tao Zhang, Lin
 
 <li><a href="https://arxiv.org/pdf/2510.18876">Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs</a>,  
 Haochen Wang, Yuhao Wang, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Jiani Zheng, Ye Tian, Jiahao Meng, Zilong Huang, Guangcan Mai, Anran Wang, Yunhai Tong, Zhuochen Wang, <strong>Xiangtai Li</strong>, Zhaoxiang Zhang
-<strong>[Tech Report]<span style="color:red"> STOA region caption models </span> </strong> | <a href="https://github.com/Haochen-Wang409/Grasp-Any-Region">Code</a> <a href="https://huggingface.co/collections/HaochenWang/grasp-any-region">Model and Data</a> </li>
+<strong>[ICLR-2026]<span style="color:red"> STOA region caption models </span> </strong> | <a href="https://github.com/Haochen-Wang409/Grasp-Any-Region">Code</a> <a href="https://huggingface.co/collections/HaochenWang/grasp-any-region">Model and Data</a> </li>
 
 <li><a href="https://arxiv.org/abs/2511.09611">MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation</a>,  
 Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wang, Zhiyang Teng, Zhuochen Wang, Yinjie Wang, Yunhai Tong, Mengdi Wang, <strong>Xiangtai Li</strong>
-<strong>[Tech Report]<span style="color:red"> The first unified parallel generation model </span> </strong> | <a href="https://github.com/tyfeld/MMaDA-Parallel">Code</a> <a href="https://huggingface.co/tyfeld/MMaDA-Parallel-M">Model and Data</a> </li>
+<strong>[ICLR-2026]<span style="color:red"> The first unified parallel generation model </span> </strong> | <a href="https://github.com/tyfeld/MMaDA-Parallel">Code</a> <a href="https://huggingface.co/tyfeld/MMaDA-Parallel-M">Model and Data</a> </li>
 
 <li><a href="https://arxiv.org/abs/2506.24102">DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World</a>,  
 <strong>Xiangtai Li</strong>, Tao Zhang, Yanwei Li, Haobo Yuan, Shihao Chen, Yikang Zhou, Jiahao Meng, Yueyi Sun, Shilin Xu, Lu Qi, Tianheng Cheng, Yi Lin, Zilong Huang, Wenhao Huang, Jiashi Feng, Guang Shi
