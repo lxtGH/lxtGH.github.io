@@ -24,10 +24,6 @@ Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wan
 <strong>Xiangtai Li</strong>, Tao Zhang, Yanwei Li, Haobo Yuan, Shihao Chen, Yikang Zhou, Jiahao Meng, Yueyi Sun, Shilin Xu, Lu Qi, Tianheng Cheng, Yi Lin, Zilong Huang, Wenhao Huang, Jiashi Feng, Guang Shi
       <strong>[Tech Report]<span style="color:red"> Strong data engine for desne grounded caption. </span> </strong> | <a href="https://github.com/lxtGH/DenseWorld-1M">Code</a> <a href="">Data</a> </li>
 
-<li><a href="https://arxiv.org/abs/2504.10462">The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer</a>,  
-     Weixian Lei, Jiacong Wang, Haochen Wang, Xiangtai Li, Jun Hao Liew, Jiashi Feng, Zilong Huang
-      <strong>ICCV 2025<span style="color:red"> Scaling Single Transformer backbone training for both VLM and vision tasks. </span> </strong> | <a href="https://github.com/bytedance/SAIL">Code</a> </li>
-
 <li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
      Haobo Yuan*, <strong>Xiangtai Li</strong>*, Tao Zhang*, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
       <strong>[Tech Report]<span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
@@ -51,16 +47,8 @@ Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wan
      Tao Zhang, <strong>Xiangtai Li</strong>, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
       <strong>NeurIPS 2024 <span style="color:red"> The first end-to-end MLLM that unifies image-level, object-level, pixel-level understanding and reasoning. </span> </strong> | <a href="https://github.com/lxtGH/OMG-Seg">Github</a> </li>
 
-<li><a href="https://arxiv.org/abs/2303.12782">Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation</a>,  
-      <strong>Xiangtai Li</strong>, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy,
-      <strong>ICCV 2023 <span style="color:red"> The first unified SOTA universal video segmentation model. </span> </strong> | <a href="https://github.com/lxtGH/Tube-Link">Project</a> </li>
-
 <li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
       <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
       <strong>CVPR 2022 <span style="color:red">(Oral, top2%) The first unified video segmentation model and codebase for VPS, VIS, VSS</span> </strong> | <a href="https://github.com/lxtGH/Video-K-Net">Code</a> </li>
-
-<li><a href="https://arxiv.org/abs/2002.10120">Semantic Flow for Fast and Accurate Scene Parsing</a>,  
-      <strong>Xiangtai Li</strong>, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Yunhai Tong,
-      <strong>ECCV 2020 <span style="color:red">(Oral, top2%) The first real-time model over 80% mIoU on Cityscapes test set.</span></strong> | <a href="https://github.com/lxtGH/SFSegNets">Code</a> </li>
 
 Code can be found in [this](https://github.com/lxtGH).
