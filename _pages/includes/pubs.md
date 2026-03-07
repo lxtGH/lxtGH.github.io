@@ -10,7 +10,13 @@ Yikang Zhou*, Tao Zhang*, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Ha
 
 <li><a href="https://arxiv.org/abs/2510.20579">Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence</a>,  
 Jiahao Meng, <strong>Xiangtai Li</strong>, Haochen Wang, Yue Tan, Tao Zhang, Lingdong Kong, Yunhai Tong, Anran Wang, Zhiyang Teng, Yujing Wang, Zhuochen Wang
-<strong>[Tech Report]<span style="color:red"> The first non-agentic spatial-temporal RL post-training framework. </span> </strong> | <a href="">Code</a> <a href="">Data</a> </li>
+<strong>[Tech Report]<span style="color:red"> The first non-agentic spatial-temporal RL post-training framework. </span> </strong> | <a href="https://github.com/marinero4972/Open-o3-Video">Code</a> </li>
+
+
+<li><a href="https://arxiv.org/abs/2505.23606">Muddit: Liberating generation beyond text-to-image with a unified discrete diffusion model</a>,  
+Qingyu Shi, Jinbin Bai, Zhuoran Zhao, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, <strong> Xiangtai Li </strong>, Xuelong Li, Shuicheng Yan
+<strong>[ICLR-2026]<span style="color:red"> Unified Diffusion Model with Visual Generation Model Priors. </span> </strong> | <a href="https://github.com/M-E-AGI-Lab/Muddit">Code</a> </li>
+
 
 <li><a href="https://arxiv.org/pdf/2510.18876">Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs</a>,  
 Haochen Wang*, Yuhao Wang*, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Jiani Zheng, Ye Tian, Jiahao Meng, Zilong Huang, Guangcan Mai, Anran Wang, Yunhai Tong, Zhuochen Wang, <strong>Xiangtai Li</strong>, Zhaoxiang Zhang
