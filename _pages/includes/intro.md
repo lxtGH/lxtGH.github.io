@@ -1,6 +1,6 @@
 I am **Xiangtai Li**. I work on computer vision, multi-modal learning, and related problems.
 
-I am working as a **Senior Research Scientist** at TikTok (ByteDance), Singapore.
+I am working as a **Staff Research Scientist** at TikTok (ByteDance), Singapore.
 
 Our team works on applications and research for TikTok Live. Topics cover multi-modal large language models, diffusion models, and LLM reasoning.
 
@@ -25,7 +25,7 @@ I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-202
 In addition, I also serve as an Associate Editor for T-PAMI.
 
 
-<span style="color:red"> I am looking for interns with LLM/Diffusion model infra background. </span>
+<span style="color:red"> I am looking for interns with LLM/Diffusion model/infra background, location: Beijing and Singapore. </span>
 
 <span style="color:red"> I am also looking for algorithm engineers with vLLM/SGLong background knowledge. </span>
 
