@@ -12,12 +12,6 @@ Yikang Zhou*, Tao Zhang*, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Ha
 Jiahao Meng, <strong>Xiangtai Li</strong>, Haochen Wang, Yue Tan, Tao Zhang, Lingdong Kong, Yunhai Tong, Anran Wang, Zhiyang Teng, Yujing Wang, Zhuochen Wang
 <strong>[Tech Report]<span style="color:red"> The first non-agentic spatial-temporal RL post-training framework. </span> </strong> | <a href="https://github.com/marinero4972/Open-o3-Video">Code</a> </li>
 
-
-<li><a href="https://arxiv.org/abs/2505.23606">Muddit: Liberating generation beyond text-to-image with a unified discrete diffusion model</a>,  
-Qingyu Shi, Jinbin Bai, Zhuoran Zhao, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, <strong> Xiangtai Li </strong>, Xuelong Li, Shuicheng Yan
-<strong>[ICLR-2026]<span style="color:red"> Unified Diffusion Model with Visual Generation Model Priors. </span> </strong> | <a href="https://github.com/M-E-AGI-Lab/Muddit">Code</a> </li>
-
-
 <li><a href="https://arxiv.org/pdf/2510.18876">Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs</a>,  
 Haochen Wang*, Yuhao Wang*, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Jiani Zheng, Ye Tian, Jiahao Meng, Zilong Huang, Guangcan Mai, Anran Wang, Yunhai Tong, Zhuochen Wang, <strong>Xiangtai Li</strong>, Zhaoxiang Zhang
 <strong>[ICLR-2026]<span style="color:red"> STOA region caption models </span> </strong> | <a href="https://github.com/Haochen-Wang409/Grasp-Any-Region">Code</a> <a href="https://huggingface.co/collections/HaochenWang/grasp-any-region">Model and Data</a> </li>
@@ -26,20 +20,12 @@ Haochen Wang*, Yuhao Wang*, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Jia
 Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wang, Zhiyang Teng, Zhuochen Wang, Yinjie Wang, Yunhai Tong, Mengdi Wang, <strong>Xiangtai Li</strong>
 <strong>[ICLR-2026]<span style="color:red"> The first unified parallel generation model </span> </strong> | <a href="https://github.com/tyfeld/MMaDA-Parallel">Code</a> <a href="https://huggingface.co/tyfeld/MMaDA-Parallel-M">Model and Data</a> </li>
 
-<li><a href="https://arxiv.org/abs/2506.24102">DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World</a>,  
-<strong>Xiangtai Li</strong>, Tao Zhang, Yanwei Li, Haobo Yuan, Shihao Chen, Yikang Zhou, Jiahao Meng, Yueyi Sun, Shilin Xu, Lu Qi, Tianheng Cheng, Yi Lin, Zilong Huang, Wenhao Huang, Jiashi Feng, Guang Shi
-      <strong>[Tech Report]<span style="color:red"> Strong data engine for desne grounded caption. </span> </strong> | <a href="https://github.com/lxtGH/DenseWorld-1M">Code</a> <a href="">Data</a> </li>
-
 <li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
      Haobo Yuan*, <strong>Xiangtai Li</strong>*, Tao Zhang*, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang
       <strong>[Tech Report]<span style="color:red"> Marrying SAM2 with LLaVA-like MLLM for open-ended spatial temporal understanding. </span> </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Project Page</a> </li>
 
 
-## Several Previous works
-
-<li><a href="https://arxiv.org/abs/2410.23280">DreamRelation: Bridging Customization and Relation Generation</a>,
-    Qingyu Shi, Lu Qi, Jianzong Wu, Jinbin Bai, Jingbo Wang, Yunhai Tong, <strong>Xiangtai Li</strong>
-      <strong>CVPR 2025<span style="color:red"> (oral) First relation-aware customization approach </span> </strong> | <a href="https://shi-qingyu.github.io/DreamRelation">Github</a> </li>
+## Several Other Previous works
 
 <li><a href="https://arxiv.org/abs/2401.10228">RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything</a>,
    Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem,  <strong>Xiangtai Li</strong>, Ming-Hsuan Yang
@@ -48,10 +34,6 @@ Ye Tian, Ling Yang, Jiongfan Yang, Anran Wang, Yu Tian, Jiani Zheng, Haochen Wan
 <li><a href="https://arxiv.org/abs/2401.10229">OMG-Seg: Is One Model Good Enough For All Segmentation?</a>,  
      <strong>Xiangtai Li</strong>, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy
       <strong>CVPR 2024 <span style="color:red"> One model to perform image/video/open-vocabulary/multi-dataset/interactive segmentation in one shot. </span> </strong> | <a href=" https://lxtgh.github.io/project/omg_seg/">Project Page</a> </li>
-
-<li><a href="https://arxiv.org/abs/2406.19389">OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding</a>,  
-     Tao Zhang, <strong>Xiangtai Li</strong>, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
-      <strong>NeurIPS 2024 <span style="color:red"> The first end-to-end MLLM that unifies image-level, object-level, pixel-level understanding and reasoning. </span> </strong> | <a href="https://github.com/lxtGH/OMG-Seg">Github</a> </li>
 
 <li><a href="https://arxiv.org/abs/2204.04656">Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation</a>,  
       <strong>Xiangtai Li*</strong>, Wenwei Zhang*, Jiangmiao Pang*, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy,
