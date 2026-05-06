@@ -27,6 +27,8 @@ I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-202
 In addition, I also serve as an Associate Editor for T-PAMI.
 
 
-<span style="color:red"> I am looking for stronger interns with LLM/Diffusion model/infra background, location: Beijing and Singapore. </span>
+<span style="color:red"> I am looking for stronger interns with LLM/Diffusion infra background, location: Beijing and Singapore. </span>
+
+<span style="color:red"> I am looking for stronger interns with AIGC background, location: Beijing and Singapore. </span>
 
 <span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Welcome to discuss. </span>
