@@ -29,6 +29,6 @@ In addition, I also serve as an Associate Editor for T-PAMI.
 
 <span style="color:red"> I am looking for stronger interns with LLM/Diffusion infra background, location: Beijing and Singapore. </span>
 
-<span style="color:red"> I am looking for stronger interns with AIGC background, location: Beijing and Singapore. [Urgent!] </span>
+<span style="color:red"> I am looking for stronger interns with AIGC background, location: Beijing and Singapore.[Urgent!] Candidates with strong infra ability first!</span>
 
 <span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Welcome to discuss. </span>
