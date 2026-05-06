@@ -2,7 +2,7 @@
 # 🎖 Honors and Awards
 
 
-- National Scholarship, Ministry of Education of China in PKU (year 2020-2021) (year 2019-2020).
+- National Scholarship, Ministry of Education of China in PKU (2019-2020, 2020-2021).
 
 
 - President Scholarship of PKU (year 2020-2021).
@@ -26,7 +26,7 @@
 # 💬 Invited Talks
 
 
-- *2024.03* Invited talk on Open-Vocabulary Segmentation and Segment Anything at VALSE, online. [Slide](../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf), [Video](https://www.bilibili.com/video/BV1PZ421b7U7/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967).
+- *2024.03* Invited talk on Open-Vocabulary Segmentation and Segment Anything at VALSE, online. [Slides](../../project/paper_local/xiangtai_valse_talk_3_20_2024.pdf), [Video](https://www.bilibili.com/video/BV1PZ421b7U7/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967).
 
 
 - *2023.08* Invited talk on Video Segmentation at VALSE, online. [Slides](../../project/paper_local/talk-valse-8-30-2023.pdf), [Video](https://www.bilibili.com/video/BV1Ku411u741/?spm_id_from=333.337.search-card.all.click&vd_source=6bb672e5bcff6f43a998d1ba30743967).
@@ -38,12 +38,11 @@
 - *2021.12* Invited talk on Video Segmentation in DiDi Auto-Driving Group.
 
 
-- *2021.10* Invited talk on Aligned Segmentation HuaWei Noah Auto-Driving Group.
+- *2021.10* Invited talk on Aligned Segmentation at Huawei Noah Auto-Driving Group.
 
 
 
-# 💻 Internships and Work Experience
-
+# 💻 Internships
 
 - SenseTime Research, mentored by Dr. Guangliang Cheng and Dr. Jianping Shi.
 

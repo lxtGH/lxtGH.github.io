@@ -262,6 +262,7 @@ GEM
 PLATFORMS
   universal-darwin-19
   universal-darwin-24
+  universal-darwin-25
   x64-unknown
   x86_64-linux
 

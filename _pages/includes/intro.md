@@ -2,7 +2,9 @@ I am **Xiangtai Li**. I work on computer vision, multi-modal learning, and relat
 
 I am working as a **Staff Research Scientist** at TikTok (ByteDance), Singapore.
 
-Our team works on applications and research for TikTok Live. Topics cover multi-modal large language models, diffusion models, and LLM reasoning.
+Our team works on applications development and research for TikTok Live. Our products and models are used by TT-Live directly and have impact on billions of users.
+
+Topics cover multi-modal large language models, diffusion models, and LLM reasoning.
 
 Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-ntu.com/), S-Lab, advised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
@@ -14,7 +16,7 @@ My research topics focus on three main aspects:
 
 - Image/video generation and editing, controllable image/video generation.
 
-Previously, I worked on image/video segmentation and detection, and open vocabulary learning.
+- Image/video segmentation and detection, and open-vocabulary learning (previous focus).
 
 Moreover, the code and models for my work (about 98%), including the projects I have deeply contributed to, are open-sourced on [GitHub](https://github.com/lxtGH).
 
