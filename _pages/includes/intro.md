@@ -10,13 +10,11 @@ Previously, I worked as a **Research Fellow** at [MMLab@NTU](https://www.mmlab-n
 
 I obtained my PhD degree from Peking University (PKU) under the supervision of [Prof. Yunhai Tong](https://scholar.google.com/citations?user=T4gqdPkAAAAJ&hl=zh-CN), and my bachelor's degree from Beijing University of Posts and Telecommunications (BUPT).
 
-My research topics focus on three main aspects:
+My research topics focus on two main aspects:
 
-- Multi-modal learning with LLMs (MLLM): unified modeling, benchmarking, dataset pipeline building, RL-based post-training.
+- Multi-modal learning with LLMs (MLLM): unified modeling, benchmarking, dataset pipeline building, RL-based post-training, diffusion language models.
 
 - Image/video generation and editing, controllable image/video generation.
-
-- Image/video segmentation and detection, and open-vocabulary learning (previous focus).
 
 Moreover, the code and models for my work (about 98%), including the projects I have deeply contributed to, are open-sourced on [GitHub](https://github.com/lxtGH).
 
@@ -27,8 +25,8 @@ I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-202
 In addition, I also serve as an Associate Editor for T-PAMI.
 
 
-<span style="color:red"> I am looking for stronger interns with LLM/Diffusion infra background, location: Beijing and Singapore. </span>
+<span style="color:red"> I am looking for stronger interns with LLM/Diffusion infra background, location: Beijing and Singapore. ByteIntern/筋斗云实习生.  </span> 
 
-<span style="color:red"> I am looking for stronger interns with AIGC background, location: Beijing and Singapore.[Urgent!] Candidates with strong infra ability first!</span>
+<span style="color:red"> I am looking for stronger interns with AIGC background, location: Beijing and Singapore.[Urgent!] Candidates with strong infra ability first! (筋斗云实习生)</span>
 
-<span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Welcome to discuss. </span>
+<span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Feel free to contact me directly. </span>
