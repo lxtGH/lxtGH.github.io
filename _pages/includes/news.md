@@ -1,6 +1,7 @@
 # 📝 News
 
 
-- 2026.5.1: Two works on Temporal Grounding and Highlight Detection are accecpt to ICML-2026! 
+- 2026.05.01: Two works on Temporal Grounding and Highlight Detection were accepted to ICML 2026!
 
-- 2026.4.10: SAMTok is accept with CVPR-2026 as Highlight work!
+- 2026.04.10: SAMTok was accepted to CVPR 2026 as a Highlight paper!
+
