@@ -44,10 +44,6 @@ To show a paper's citation count anywhere in markdown:
 
 The crawler script and `google_scholar_crawler/` are excluded from the Jekyll build (see `exclude:` in `_config.yml`).
 
-## github_myprofile_updater/
-
-Standalone script (`update.py`) that stitches the same `_pages/includes/*.md` fragments into a GitHub profile README. Note it reads `homepage.md` and `pub_short.md` which **do not currently exist** in `_pages/includes/` — running it as-is will fail. Treat this as orphaned tooling unless asked to revive it.
-
 ## Conventions when editing pubs.md
 
 - `<strong>Xiangtai Li</strong>` is always bolded in author lists; co-first authors get a trailing `*`, with `\* means equal contribution.` noted at the top of the file.
