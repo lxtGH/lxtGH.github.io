@@ -25,6 +25,10 @@ I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-202
 In addition, I also serve as an Associate Editor for T-PAMI.
 
 
+
+<span style="color:red"> I am looking for an research engineer/scientist on AIGC background, location: Beijing and Singapore. [Urgent!] Candidates with AIGC experience first. </span>
+
 <span style="color:red"> I am looking for strong interns with LLM/Diffusion infra and/or AIGC background, location: Beijing and Singapore. [Urgent!] Candidates with strong infra ability first. (ByteIntern/筋斗云实习生) </span>
+
 
 <span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Feel free to contact me directly. </span>
