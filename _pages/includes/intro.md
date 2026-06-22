@@ -20,13 +20,12 @@ Moreover, the code and models for my work (about 98%), including the projects I 
 
 I serve as a regular reviewer for many conferences and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, and IEEE-TGRS.
 
-I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-2025, NeurIPS-2025, AAAI-2025/2026, WACV-2026, and ECCV-2026.
+I also serve as an Area Chair for ICLR-2025/2026, CVPR-2026, ICML-2025, ICCV-2025, NeurIPS-2025, AAAI-2025/2026, WACV-2026/2027, and ECCV-2026.
 
 In addition, I also serve as an Associate Editor for T-PAMI.
 
 
-
-<span style="color:red"> I am looking for an research engineer/scientist on AIGC background, location: Beijing and Singapore. [Urgent!] Candidates with AIGC experience first. </span>
+<span style="color:red"> I am looking for a research scientist on AIGC background, location: Beijing and Singapore. [Urgent!] Candidates with AIGC experience first. </span>
 
 <span style="color:red"> I am looking for strong interns with LLM/Diffusion infra and/or AIGC background, location: Beijing and Singapore. [Urgent!] Candidates with strong infra ability first. (ByteIntern/筋斗云实习生) </span>
 
