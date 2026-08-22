@@ -20,10 +20,10 @@ Moreover, the code and models for my work (about 98%), including the projects I 
 
 I serve as a regular reviewer for many conferences and journals, including CVPR, ICCV, ECCV, ICLR, AAAI, NeurIPS, ICML, IJCAI, IEEE-TIP, IEEE-TPAMI, IJCV, IEEE-TSCVT, IEEE-TMM, and IEEE-TGRS.
 
-I also serve as an **Area Chair** for ICLR-2025/2026, CVPR-2026, ICML-2025/2026, ICCV-2025, NeurIPS-2025/2026, AAAI-2026/2027, WACV-2026/2027, and ECCV-2026.
+I also serve as an **Area Chair** for **ICLR-2025/2026, CVPR-2026, ICML-2025/2026, ICCV-2025, NeurIPS-2025/2026, AAAI-2026/2027, WACV-2026/2027, and ECCV-2026**.
     
-In addition, I also serve as an **Associate Editor** for T-PAMI and Pattern Recognition Letters.
+In addition, I also serve as an **Associate Editor** for **T-PAMI , Pattern Recognition, and Pattern Recognition Letters**.
 
-<span style="color:red"> I am looking for strong interns with LLM/Diffusion infra and/or AIGC background, location: Beijing and Singapore.  Candidates with strong infra ability first. (ByteIntern/筋斗云实习生) </span>
+<span style="color:red"> I am looking for strong FTEs/interns with LLM/Diffusion infra and/or AIGC background, location: Beijing and Singapore. Candidates with strong infra ability first. (ByteIntern/筋斗云实习生) </span>
 
 <span style="color:red"> My email addresses are xiangtai94@gmail.com and xiangtai.li@bytedance.com. Feel free to contact me directly. </span>
