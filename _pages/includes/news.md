@@ -1,6 +1,6 @@
 # 📝 News
 
-- 2026.07.20: Sa2VA on PAMI-2026! Pixel-SAIL on COLM-2026! Checkout new visual RL work, [UniVR](https://maverickren.github.io/UniVR.github.io/).
+- 2026.07.20: Sa2VA on PAMI-2026! Pixel-SAIL on COLM-2026! Checkout our new visual RL work, [UniVR](https://maverickren.github.io/UniVR.github.io/).
 
 - 2026.06.20: Three works on Video Caption Dataset, Grounding RL and Visual Spatial Understanding were accepted to ECCV 2026!  
 
@@ -9,4 +9,3 @@
 - 2026.04.10: SAMTok was accepted to CVPR 2026 as a Highlight paper!
 
 - 2026.03.10: Eight works were accepted by CVPR 2026!
-
