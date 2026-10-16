@@ -1,5 +1,7 @@
 # 📝 News
 
+- 2026.09.20: Six works on NeurIPS-2026.
+
 - 2026.07.20: Sa2VA on PAMI-2026! Pixel-SAIL on COLM-2026! Checkout our new visual RL work, [UniVR](https://maverickren.github.io/UniVR.github.io/).
 
 - 2026.06.20: Three works on Video Caption Dataset, Grounding RL and Visual Spatial Understanding were accepted to ECCV 2026!  

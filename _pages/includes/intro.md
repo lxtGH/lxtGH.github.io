@@ -24,6 +24,6 @@ I also serve as an **Area Chair** for **ICLR-2025/2026, CVPR-2026/2027, ICML-202
     
 In addition, I also serve as an **Associate Editor** for **T-PAMI , Pattern Recognition, and Pattern Recognition Letters**.
 
-<span style="color:red"> I am looking for strong **FTEs/interns** with LLM/Diffusion infra and/or AIGC background, location: Beijing and Singapore. Candidates with strong infra ability first. (ByteIntern/筋斗云实习生/筋斗云博士校招) </span>
+<span style="color:red"> I am looking for strong **FTEs/interns** with LLM/Diffusion infra and/or AIGC background, location: Beijing, Shanghai and Singapore. Candidates with strong infra ability first. (ByteIntern/筋斗云实习生/筋斗云博士校招) </span>
 
 <span style="color:red"> My email addresses are xiangtai.li@bytedance.com and xiangtai94@gmail.com. Feel free to contact me directly. </span>
